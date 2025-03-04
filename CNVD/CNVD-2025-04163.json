@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux kernel空指针解引用漏洞（CNVD-2025-04163）",
+    "CNVD-ID": "CNVD-2025-04163",
+    "公开日期": "2025-02-28",
+    "危害级别": "中",
+    "影响产品": "Linux Linux kernel 6.13\nLinux Linux kernel >=6.7，<6.12.5\nLinux Linux kernel >=4.19.291，<4.20\nLinux Linux kernel >=6.4.4，<6.6.66\nLinux Linux kernel >=6.1.39，<6.1.120\nLinux Linux kernel >=5.15.121，<5.15.174\nLinux Linux kernel >=5.4.251，<5.4.287\nLinux Linux kernel >=5.10.188，<5.10.231",
+    "CVE ID": "CVE-2024-48881",
+    "漏洞描述": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。\nLinux kernel存在空指针解引用漏洞，该漏洞源于BCache模块在cache_set_flush中，未正确检查c->root是否为NULL，可能导致空指针取消引用。攻击者可以利用该漏洞进行进一步恶意操作。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-48881",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/fb5fee35bdd18316a84b5f30881a24e1415e1464",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/661416",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-25",
+    "收录时间": "2025-03-04",
+    "更新时间": "2025-03-04",
+    "漏洞附件": "(无附件)"
+}

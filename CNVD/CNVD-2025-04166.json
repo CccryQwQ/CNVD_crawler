@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Power Hardware Management Console路径遍历漏洞",
+    "CNVD-ID": "CNVD-2025-04166",
+    "公开日期": "2025-02-28",
+    "危害级别": "中",
+    "影响产品": "IBM IBM Power Hardware Management Console v10.3.1050.0",
+    "CVE ID": "CVE-2024-56477",
+    "漏洞描述": "IBM Power Hardware Management Console（HMC）是美国国际商业机器（IBM）公司的一套用于配置和管理Power System系列服务器的图形界面软件。该软件主要用于管理服务器等硬件。\nIBM Power Hardware Management Console存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素。攻击者可利用该漏洞导致任意文件读取。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-56477",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7183224",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/661151",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-19",
+    "收录时间": "2025-03-04",
+    "更新时间": "2025-03-04",
+    "漏洞附件": "(无附件)"
+}

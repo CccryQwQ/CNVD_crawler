@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux Kernel空指针解引用漏洞（CNVD-2025-04159）",
+    "CNVD-ID": "CNVD-2025-04159",
+    "公开日期": "2025-02-28",
+    "危害级别": "中",
+    "影响产品": "Linux Linux kernel",
+    "CVE ID": "CVE-2024-27037",
+    "漏洞描述": "Linux Kernel是操作系统的核心部分，负责管理系统的资源。\nLinux Kernel的zynq_clk_setup()函数中存在空指针解引用漏洞。该漏洞源于kmalloc()函数分配内存失败后，snprintf()函数仍然尝试向空地址写入数据。攻击者可以利用该漏洞导致系统崩溃或拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://git.kernel.org/stable/c/01511ac7be8e45f80e637f6bf61af2d3d2dee9db\nhttps://git.kernel.org/stable/c/8c4889a9ea861d7be37463c10846eb75e1b49c9d\nhttps://git.kernel.org/stable/c/0801c893fd48cdba66a3c8f44c3fe43cc67d3b85\nhttps://git.kernel.org/stable/c/ca976c6a592f789700200069ef9052493c0b73d8\nhttps://git.kernel.org/stable/c/58a946ab43501f2eba058d24d96af0ad1122475b\nhttps://git.kernel.org/stable/c/7938e9ce39d6779d2f85d822cc930f73420e54a6",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.kernel.org",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/661406",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-26",
+    "收录时间": "2025-03-04",
+    "更新时间": "2025-03-04",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dreamer CMS跨站脚本漏洞（CNVD-2025-04175）",
+    "CNVD-ID": "CNVD-2025-04175",
+    "公开日期": "2025-02-28",
+    "危害级别": "中",
+    "影响产品": "Dreamer CMS Dreamer CMS 4.1.3",
+    "CVE ID": "CVE-2025-1548",
+    "漏洞描述": "Dreamer CMS是一个梦想家内容管理系统。\nDreamer CMS 4.1.3版本存在跨站脚本漏洞，该漏洞源于/admin/archives/edit位置的editorValue、answer和content参数对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-1548",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/cydtseng/Vulnerability-Research/blob/main/dreamercms/RemoteFileInclusion-ArticleEditorImageUpload.md",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2025-02-28",
+    "收录时间": "2025-03-04",
+    "更新时间": "2025-03-04",
+    "漏洞附件": "(无附件)"
+}

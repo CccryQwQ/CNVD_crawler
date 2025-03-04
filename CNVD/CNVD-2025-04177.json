@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft .NET远程代码执行漏洞",
+    "CNVD-ID": "CNVD-2025-04177",
+    "公开日期": "2025-02-27",
+    "危害级别": "高",
+    "影响产品": "Microsoft Visual Studio 2022 \nMicrosoft .NET \nMicrosoft PowerShell",
+    "CVE ID": "CVE-2025-21171",
+    "漏洞描述": "Microsoft .NET框架是微软公司继Windows DNA之后的新发平台，采用系统虚拟机运行，为应用程序接口（API）提供了新功能和发工具。\nMicrosoft .NET存在远程代码执行漏洞，攻击者可利用该漏洞在目标主机上执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-21171",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2025-21171",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/661101",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-26",
+    "收录时间": "2025-03-04",
+    "更新时间": "2025-03-04",
+    "漏洞附件": "(无附件)"
+}
