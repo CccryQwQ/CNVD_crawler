@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "D-Link DIR-825命令注入漏洞",
+    "CNVD-ID": "CNVD-2025-04181",
+    "公开日期": "2025-03-04",
+    "危害级别": "高",
+    "影响产品": "D-Link DIR-825 REVB 2.03",
+    "CVE ID": "CVE-2024-57595",
+    "漏洞描述": "D-Link DIR-825是中国友讯（D-Link）公司的一款路由器。\nDLINK DIR-825 REVB 2.03版本存在命令注入漏洞，该漏洞源于CGl接口apc_client_pin.cgi中未能正确过滤构造命令特殊字符、命令等。远程攻击者可利用该漏洞执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/IdaJea/IOT_vuln_1/blob/master/DIR825/wps_pin.md",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10341",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/657061",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-18",
+    "收录时间": "2025-03-04",
+    "更新时间": "2025-03-04",
+    "漏洞附件": "(无附件)"
+}
