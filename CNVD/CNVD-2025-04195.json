@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Office OneNote代码执行漏洞（CNVD-2025-04195）",
+    "CNVD-ID": "CNVD-2025-04195",
+    "公开日期": "2025-03-05",
+    "危害级别": "高",
+    "影响产品": "Microsoft Office LTSC for Mac 2021 \nMicrosoft Office LTSC for Mac 2024 \nMicrosoft OneNote for Mac",
+    "CVE ID": "CVE-2025-21402",
+    "漏洞描述": "Microsoft Office OneNote是一套用于自由形式的信息获取以及多用户协作工具。\nMicrosoft Office OneNote存在代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-21402",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21402",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/662701",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-25",
+    "收录时间": "2025-03-04",
+    "更新时间": "2025-03-04",
+    "漏洞附件": "(无附件)"
+}
