@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "FreeImage FreeImage_CreateICCProfile函数缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-04490",
+    "公开日期": "2025-03-07",
+    "危害级别": "中",
+    "影响产品": "FreeImage FreeImage v.3.19.0",
+    "CVE ID": "CVE-2024-28567",
+    "漏洞描述": "FreeImage是一个跨平台的用于支持流行的图形图像格式的开源库。\nFreeImage存在缓冲区溢出漏洞，该漏洞源于程序未能正确验证输入数据的长度大小，攻击者可利用该漏洞造成拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/Ruanxingzhi/vul-report/tree/master/freeimage-r1909",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://freeimage.sourceforge.io/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/663776",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-03-22",
+    "收录时间": "2025-03-07",
+    "更新时间": "2025-03-07",
+    "漏洞附件": "(无附件)"
+}

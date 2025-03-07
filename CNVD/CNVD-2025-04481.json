@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "LunaSVG存在未明漏洞",
+    "CNVD-ID": "CNVD-2025-04481",
+    "公开日期": "2025-03-07",
+    "危害级别": "高",
+    "影响产品": "LunaSVG LunaSVG v3.0.1",
+    "CVE ID": "CVE-2024-55456",
+    "漏洞描述": "LunaSVG是一个独立的C语言SVG渲染库。\nLunaSVG存在安全漏洞，该漏洞源于通过组件gray_find_cell包含分段违规。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/sammycage/lunasvg/issues/199",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/sammycage/lunasvg/releases/tag/v3.1.1",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/663746",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-18",
+    "收录时间": "2025-03-07",
+    "更新时间": "2025-03-07",
+    "漏洞附件": "(无附件)"
+}
