@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mautic任意文件上传漏洞",
+    "CNVD-ID": "CNVD-2025-04491",
+    "公开日期": "2025-03-06",
+    "危害级别": "高",
+    "影响产品": "Mautic Mautic <5.2.3",
+    "CVE ID": "CVE-2024-47051",
+    "漏洞描述": "Mautic是一款开源营销自动化应用程序。\nMautic 5.2.3之前版本存在任意文件上传漏洞，该漏洞源于对上传文件扩展名验证不足和文件路径处理不当。攻击者可以利用该漏洞上传恶意文件，例如PHP脚本，以执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/mautic/mautic/security/advisories/GHSA-73gx-x7r9-77x2\nhttps://owasp.org/www-community/attacks/Code_Injection\nhttps://owasp.org/www-community/attacks/Path_Traversal",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://mautic.org",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/663651",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-28",
+    "收录时间": "2025-03-07",
+    "更新时间": "2025-03-07",
+    "漏洞附件": "(无附件)"
+}
