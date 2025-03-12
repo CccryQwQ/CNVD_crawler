@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache Tomcat远程代码执行漏洞",
+    "CNVD-ID": "CNVD-2025-04973",
+    "公开日期": "2025-03-12",
+    "危害级别": "高",
+    "影响产品": "Apache Software Foundation Apache Tomcat >=11.0.0-M1，<=11.0.2\nApache Software Foundation Apache Tomcat >=10.1.0-M1，<=10.1.34\nApache Software Foundation Apache Tomcat >=9.0.0.M1，<=9.0.98",
+    "CVE ID": "CVE-2025-24813",
+    "漏洞描述": "Apache Tomcat是一个开源的轻量级Java Web服务器和Servlet容器，专为运行Java Servlet和JSP设计的核心工具，支持动态内容处理并托管静态资源，是中小型Java Web应用开发与部署的基石。\nApache Tomcat存在远程代码执行漏洞，该漏洞源于当应用程序DefaultServlet启用写入功能（默认情况下禁用）、使用 Tomcat默认会话持久机制和存储位置、依赖库存在反序列化利用链时所致，未授权攻击者可利用漏洞执行恶意代码获取服务器权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://lists.apache.org/thread/j5fkjv2k477os90nczf2v9l61fb0kkgq",
+    "漏洞解决方案": "厂商已发布安全更新修复漏洞，请广大用户及时下载更新至最新版本：\nApache Tomcat >=11.0.3 \nApache Tomcat >=10.1.35 \nApache Tomcat >=9.0.99 \n下载地址： \nhttps://tomcat.apache.org/security-11.html \nhttps://tomcat.apache.org/security-10.html \nhttps://tomcat.apache.org/security-9.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/665396",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-12",
+    "收录时间": "2025-03-12",
+    "更新时间": "2025-03-12",
+    "漏洞附件": "(无附件)"
+}
