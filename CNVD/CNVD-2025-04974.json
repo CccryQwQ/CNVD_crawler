@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Sterling B2B Integrator SQL注入漏洞（CNVD-2025-04974）",
+    "CNVD-ID": "CNVD-2025-04974",
+    "公开日期": "2025-03-11",
+    "危害级别": "中",
+    "影响产品": "IBM Sterling B2B Integrator >=6.0.0.0，<=6.1.2.5\nIBM Sterling B2B Integrator >=6.2.0.0，<=6.2.0.1",
+    "CVE ID": "CVE-2023-50316",
+    "漏洞描述": "IBM Sterling B2B Integrator是美国国际商业机器（IBM）公司的一套集成了重要的B2B流程、交易和关系的软件。该软件支持与不同的合作伙伴社区之间实现复杂的B2B流程的安全集成。\nIBM Sterling B2B Integrator存在SQL注入漏洞，该漏洞源于应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.ibm.com/support/pages/node/7176072",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7176080",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/665361",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-17",
+    "收录时间": "2025-03-12",
+    "更新时间": "2025-03-12",
+    "漏洞附件": "(无附件)"
+}
