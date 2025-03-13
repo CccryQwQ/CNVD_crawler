@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Esri ArcGIS Server路径遍历漏洞",
+    "CNVD-ID": "CNVD-2025-05081",
+    "公开日期": "2025-03-13",
+    "危害级别": "中",
+    "影响产品": "ESRI ArcGIS Server >=10.9.1，<=11.3",
+    "CVE ID": "CVE-2024-51958",
+    "漏洞描述": "Esri ArcGIS Server是Esri公司的一个面向Web的可用于提供地理位置服务的企业级软件平台。\nEsri ArcGIS Server 10.9.1至11.3版本存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素。远程认证攻击者可利用此漏洞访问文件系统外的文件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/arcgis-server-security-2025-update-1-patch/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.esri.com/en-us/patches-updates/2025/arcgis-server-security-2025-update-1",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/666936",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-07",
+    "收录时间": "2025-03-13",
+    "更新时间": "2025-03-13",
+    "漏洞附件": "(无附件)"
+}
