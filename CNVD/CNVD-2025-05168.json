@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache Camel任意命令执⾏漏洞（CNVD-2025-05168）",
+    "CNVD-ID": "CNVD-2025-05168",
+    "公开日期": "2025-03-17",
+    "危害级别": "高",
+    "影响产品": "Apache Camel >=4.10.0，<=4.10.1\nApache Camel >=4.8.0，<=4.8.4\nApache Camel >=3.10.0，<=3.22.3",
+    "CVE ID": "CVE-2025-29891",
+    "漏洞描述": "Apache Camel是美国阿帕奇（Apache）基金会的一套开源的基于Enterprise Integration Pattern（企业整合模式，简称EIP）的集成框架。该框架提供企业集成模式的Java对象（POJO）的实现，且通过应用程序接口来配置路由和中介的规则。\nApache Camel存在任意命令执⾏漏洞，该漏洞是由于Apache Camel对请求头⼤⼩写处理不当，攻击者可利用该漏洞通过传递特殊格式的头部（如\"CAmelExecCommandExecutable\"而非\"CamelExecCommandExecutable\"）绕过安全过滤，覆盖预定义命令，导致任意命令执⾏。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/akamai/CVE-2025-27636-Apache-Camel-PoC",
+    "漏洞解决方案": "厂商已提供漏洞修补方案，请关注厂商主页及时更新：\nhttp://www.apache.org/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/668781",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-13",
+    "收录时间": "2025-03-17",
+    "更新时间": "2025-03-17",
+    "漏洞附件": "附件暂不公开"
+}
