@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux kernel空指针解引用漏洞",
+    "CNVD-ID": "CNVD-2025-05378",
+    "公开日期": "2025-03-19",
+    "危害级别": "中",
+    "影响产品": "Linux Linux kernel 6.14\nLinux Linux kernel >=6.13，<6.13.5\nLinux Linux kernel >=6.2，<6.6.80\nLinux Linux kernel >=6.7，<6.12.17\nLinux Linux kernel >=4.16，<6.1.130",
+    "CVE ID": "CVE-2025-21848",
+    "漏洞描述": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。\nLinux kernel存在空指针解引用漏洞，该漏洞源于未检查nfp_app_ctrl_msg_alloc返回值，可能导致空指针取消引用。攻击者可利用该漏洞进行进一步恶意操作。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-21848",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://git.kernel.org/stable/c/1358d8e07afdf21d49ca6f00c56048442977e00a",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/669326",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-18",
+    "收录时间": "2025-03-19",
+    "更新时间": "2025-03-19",
+    "漏洞附件": "(无附件)"
+}
