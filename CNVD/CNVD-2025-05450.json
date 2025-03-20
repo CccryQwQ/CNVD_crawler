@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress ShareThis Dashboard for Google Analytics plugin授权问题漏洞",
+    "CNVD-ID": "CNVD-2025-05450",
+    "公开日期": "2025-03-20",
+    "危害级别": "低",
+    "影响产品": "WordPress ShareThis Dashboard for Analytics plugin <=3.2.1",
+    "CVE ID": "CVE-2025-1507",
+    "漏洞描述": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。 \nWordPress plugin ShareThis Dashboard for Google Analytics 3.2.1及之前版本存在授权问题漏洞，该漏洞源于handle_actions函数缺少功能检查，攻击者可利用该漏洞导致未授权修改数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-1507",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/googleanalytics/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/669666",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-19",
+    "收录时间": "2025-03-20",
+    "更新时间": "2025-03-20",
+    "漏洞附件": "(无附件)"
+}
