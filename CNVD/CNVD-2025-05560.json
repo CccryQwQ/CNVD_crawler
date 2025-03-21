@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Azure Arc Installer权限提升漏洞",
+    "CNVD-ID": "CNVD-2025-05560",
+    "公开日期": "2025-03-20",
+    "危害级别": "中",
+    "影响产品": "Microsoft Azure",
+    "CVE ID": "CVE-2025-26627",
+    "漏洞描述": "Microsoft Azure是美国微软（Microsoft）公司的一套开放的企业级云计算平台。\nMicrosoft Azure Arc Installer存在权限提升漏洞，攻击者可利用该漏洞提升权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-26627",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商网:\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-26627",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/669661",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-12",
+    "收录时间": "2025-03-21",
+    "更新时间": "2025-03-21",
+    "漏洞附件": "(无附件)"
+}
