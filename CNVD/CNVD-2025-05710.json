@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Secure Client存在数据伪造问题漏洞",
+    "CNVD-ID": "CNVD-2025-05710",
+    "公开日期": "2025-03-24",
+    "危害级别": "中",
+    "影响产品": "Cisco Cisco Secure Client",
+    "CVE ID": "CVE-2025-20206",
+    "漏洞描述": "Cisco Secure Client是美国思科（Cisco）公司的一个用于连接虚拟专用网络的软件。\nCisco Secure Client存在数据伪造问题漏洞，该漏洞源于运行时资源验证不足，攻击者可利用该漏洞导致DLL劫持攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-20206",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-secure-dll-injection-AOyzEqSg",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/671766",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-13",
+    "收录时间": "2025-03-25",
+    "更新时间": "2025-03-25",
+    "漏洞附件": "(无附件)"
+}
