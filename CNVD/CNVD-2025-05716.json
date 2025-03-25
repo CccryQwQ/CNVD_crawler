@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Vercel Next.js权限绕过漏洞",
+    "CNVD-ID": "CNVD-2025-05716",
+    "公开日期": "2025-03-26",
+    "危害级别": "高",
+    "影响产品": "vercel Next.js <15.2.3\nvercel Next.js <14.2.25",
+    "CVE ID": "CVE-2025-29927",
+    "漏洞描述": "Next.js是Vercel开源的一个React框架。\nVercel Next.js存在权限绕过漏洞，该漏洞源于如果授权检查发生在中间件中，攻击者可利用该漏洞绕过授权检查。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/vercel/next.js/security/advisories/GHSA-f82v-jwr5-mffw",
+    "漏洞解决方案": "厂商已提供漏洞修补方案，请关注厂商主页及时更新：\nhttps://github.com/vercel/next.js/security/advisories/GHSA-f82v-jwr5-mffw",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/671911",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-25",
+    "收录时间": "2025-03-25",
+    "更新时间": "2025-03-25",
+    "漏洞附件": "附件暂不公开"
+}
