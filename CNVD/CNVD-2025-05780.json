@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "festo多款产品存在拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2025-05780",
+    "公开日期": "2025-03-25",
+    "危害级别": "高",
+    "影响产品": "festo MSE6-D2M-5000-CBUS-S-RG-BAR-VCB-AGD \nfesto  MSE6-E2M-5000-FB13-AGD \nfesto  MSE6-E2M-5000-FB37-AGD \nfesto MSE6-E2M-5000-FB44-AGD \nfesto  MSE6-E2M-5000-FB43-AGD \nfesto MSE6-E2M-5000-FB36-AGD \nfesto MSE6-C2M-5000-FB44-D-M-RG-BAR-AMI-AGD \nfesto  MSE6-C2M-5000-FB43-D-M-RG-BAR-M12L4-MQ1-AGD \nfesto  MSE6-C2M-5000-FB36-D-M-RG-BAR-M12L4-AGD \nfesto  MSE6-C2M-5000-FB43-D-M-RG-BAR-M12L5-MQ1-AGD \nfesto  MSE6-C2M-5000-FB44-D-RG-BAR-AMI-AGD \nfesto  MSE6-C2M-5000-FB36-D-M-RG-BAR-M12L5-AGD",
+    "CVE ID": "CVE-2023-3634",
+    "漏洞描述": "MSE6-D2M-5000-CBUS-S-RG-BAR-VCB-AGD,MSE6-E2M-5000-FB13-AGD,MSE6-E2M-5000-FB37-AGD等均为工控组件。\nfesto多款产品存在拒绝服务漏洞，攻击者可利用该漏洞获取服务器控制权。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新： \nhttps://www.festo.com",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/671946",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-08",
+    "收录时间": "2025-03-26",
+    "更新时间": "2025-03-26",
+    "漏洞附件": "附件暂不公开"
+}
