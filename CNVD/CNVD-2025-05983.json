@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco IP Phone信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-05983",
+    "公开日期": "2025-03-25",
+    "危害级别": "中",
+    "影响产品": "Cisco Cisco Desk Phone 9800\nCisco Cisco IP Phone 7800\nCisco Cisco IP Phone 8800\nCisco Cisco Video Phone 8875",
+    "CVE ID": "CVE-2024-20445",
+    "漏洞描述": "Cisco IP Phone是美国思科（Cisco）公司的一个硬件设备。提供通话功能的IP电话。\nCisco IP Phone存在信息泄露漏洞，该漏洞源于基于会话初始协议(SIP)的电话负载的Web UI中敏感信息存储不当。攻击者可利用该漏洞访问设备中的敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20445",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-phone-infodisc-sbyqQVbG",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/673241",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-11",
+    "收录时间": "2025-03-27",
+    "更新时间": "2025-03-27",
+    "漏洞附件": "(无附件)"
+}
