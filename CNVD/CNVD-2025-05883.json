@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Ingress NGINX Controller存在远程代码执行漏洞（ CNVD-2025-05883）",
+    "CNVD-ID": "CNVD-2025-05883",
+    "公开日期": "2025-03-27",
+    "危害级别": "高",
+    "影响产品": "Ingress NGINX Controller Ingress NGINX Controller <1.11.5\nIngress NGINX Controller Ingress NGINX Controller <1.12.1",
+    "CVE ID": "CVE-2025-1974",
+    "漏洞描述": "Ingress NGINX Controller是一款开源的入口控制器，使用NGINX作为反向代理和负载均衡器。\nIngress NGINX Controller存在远程代码执行漏洞，攻击者可利用该漏洞获取集群中所有命名空间的敏感数据（如凭据和密钥），并可能完全接管集群。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-1974",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.12.1",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/673216",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-27",
+    "收录时间": "2025-03-27",
+    "更新时间": "2025-03-27",
+    "漏洞附件": "(无附件)"
+}
