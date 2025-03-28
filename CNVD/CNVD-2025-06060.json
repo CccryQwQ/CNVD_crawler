@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "LibreChat groupid参数访问控制错误漏洞",
+    "CNVD-ID": "CNVD-2025-06060",
+    "公开日期": "2025-03-28",
+    "危害级别": "高",
+    "影响产品": "LibreChat LibreChat <0.7.6",
+    "CVE ID": "CVE-2024-11167",
+    "漏洞描述": "LibreChat是一个增强的ChatGPT克隆。\nLibreChat 0.7.6之前版本存在访问控制错误漏洞，该漏洞源于groupid参数没有验证所提供的提示ID是否属于当前用户，攻击者可利用此漏洞导致删除其他用户的提示。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/danny-avila/librechat/commit/5071bdbf9ac621165f0e8d009818851f3951eee7",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/danny-avila/LibreChat/releases/tag/v0.7.7",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/673576",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-27",
+    "收录时间": "2025-03-28",
+    "更新时间": "2025-03-28",
+    "漏洞附件": "(无附件)"
+}

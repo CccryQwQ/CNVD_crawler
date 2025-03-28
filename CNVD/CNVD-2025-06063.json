@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "LibreChat拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2025-06063",
+    "公开日期": "2025-03-28",
+    "危害级别": "高",
+    "影响产品": "LibreChat LibreChat <0.7.6",
+    "CVE ID": "CVE-2024-11172",
+    "漏洞描述": "LibreChat是一个增强的ChatGPT克隆。\nLibreChat存在拒绝服务漏洞，攻击者可利用该漏洞导致服务器崩溃。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/danny-avila/librechat/commit/976784c01fa4cce00d4c2941801d56aed375c21b",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/danny-avila/librechat/commit/976784c01fa4cce00d4c2941801d56aed375c21b",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/673591",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-27",
+    "收录时间": "2025-03-28",
+    "更新时间": "2025-03-28",
+    "漏洞附件": "(无附件)"
+}

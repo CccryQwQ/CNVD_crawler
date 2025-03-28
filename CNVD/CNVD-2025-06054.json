@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Chrome资源管理错误漏洞（CNVD-2025-06054）",
+    "CNVD-ID": "CNVD-2025-06054",
+    "公开日期": "2025-03-28",
+    "危害级别": "高",
+    "影响产品": "Google Chrome <134.0.6998.117",
+    "CVE ID": "CVE-2025-2476",
+    "漏洞描述": "Google Chrome是一款由Google公司开发的WEB浏览器。\nGoogle Chrome存在资源管理错误漏洞，攻击者可利用该漏洞执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-2476",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop_19.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/673401",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-24",
+    "收录时间": "2025-03-28",
+    "更新时间": "2025-03-28",
+    "漏洞附件": "(无附件)"
+}
