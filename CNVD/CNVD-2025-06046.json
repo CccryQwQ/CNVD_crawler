@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Chrome沙箱逃逸漏洞",
+    "CNVD-ID": "CNVD-2025-06046",
+    "公开日期": "2025-03-28",
+    "危害级别": "高",
+    "影响产品": "Google Chrome <134.0.6998.177（windows）",
+    "CVE ID": "CVE-2025-2783",
+    "漏洞描述": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。\nGoogle Chrome存在沙箱逃逸漏洞，该漏洞源于Mojo组件处理不当导致沙箱逃逸。攻击者利用该漏洞可绕过沙箱系统，并在目标系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-2783",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop_25.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/673371",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-28",
+    "收录时间": "2025-03-28",
+    "更新时间": "2025-03-28",
+    "漏洞附件": "(无附件)"
+}
