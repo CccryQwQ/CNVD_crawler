@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "ChuanhuChatGPT访问控制错误漏洞",
+    "CNVD-ID": "CNVD-2025-06186",
+    "公开日期": "2025-03-31",
+    "危害级别": "高",
+    "影响产品": "ChuanhuChatGPT ChuanhuChatGPT 20240802",
+    "CVE ID": "CVE-2024-8613",
+    "漏洞描述": "ChuanhuChatGPT是一款应用程序，为ChatGPT等多种LLM提供了一个轻快好用的Web图形界面和众多附加功能。\nChuanhuChatGPT 20240802版本存在访问控制错误漏洞，该漏洞源于会话数据处理不当和缺乏访问控制机制，攻击者可利用此漏洞导致访问和操作其他用户的聊天记录。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/gaizhenbiao/chuanhuchatgpt/commit/526c615c437377ee9c71f866fd0f19011910f705",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/gaizhenbiao/chuanhuchatgpt/commit/526c615c437377ee9c71f866fd0f19011910f705",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/674316",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-27",
+    "收录时间": "2025-04-01",
+    "更新时间": "2025-04-01",
+    "漏洞附件": "(无附件)"
+}

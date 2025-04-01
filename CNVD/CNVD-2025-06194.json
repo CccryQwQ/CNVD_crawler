@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "ChuanhuChatGPT信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-06194",
+    "公开日期": "2025-04-01",
+    "危害级别": "中",
+    "影响产品": "ChuanhuChatGPT ChuanhuChatGPT 20240628",
+    "CVE ID": "CVE-2024-8143",
+    "漏洞描述": "ChuanhuChatGPT是一款应用程序，为ChatGPT等多种LLM提供了一个轻快好用的Web图形界面和众多附加功能。\nChuanhuChatGPT 20240628版本存在信息泄露漏洞，攻击者可利用该漏洞访问其他用户的聊天记录。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://huntr.com/bounties/71c5ea4b-524a-4173-8fd4-2fbabd69502e",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/tag/20240914",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/674341",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-07",
+    "收录时间": "2025-04-01",
+    "更新时间": "2025-04-01",
+    "漏洞附件": "(无附件)"
+}
