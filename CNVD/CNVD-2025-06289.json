@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "NVIDIA SHIELD Experience代码问题漏洞",
+    "CNVD-ID": "CNVD-2025-06289",
+    "公开日期": "2025-04-01",
+    "危害级别": "中",
+    "影响产品": "NVIDIA SHIELD Experience <9.0",
+    "CVE ID": "CVE-2021-34405",
+    "漏洞描述": "NVIDIA Shield Experience是美国英伟达（Nvidia）公司的一款流媒体播放器。\nNVIDIA SHIELD  Experience存在代码问题漏洞，该漏洞源于TrustZone中的NULL指针取消引用错误而存在的。攻击者可利用该漏洞执行拒绝服务 (DoS) 攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2021-34405",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://nvidia.custhelp.com/app/answers/detail/a_id/5259",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/674471",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-01-16",
+    "收录时间": "2025-04-02",
+    "更新时间": "2025-04-02",
+    "漏洞附件": "(无附件)"
+}
