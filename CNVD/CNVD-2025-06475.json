@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Payroll Management System SQL注入漏洞（CNVD-2025-06475）",
+    "CNVD-ID": "CNVD-2025-06475",
+    "公开日期": "2025-04-03",
+    "危害级别": "中",
+    "影响产品": "Payroll Management System Payroll Management System 1.0",
+    "CVE ID": "CVE-2025-2854",
+    "漏洞描述": "Payroll Management System是一个工资管理系统。\nPayroll Management System 1.0版本存在SQL注入漏洞，该漏洞源于参数emp_type缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-2854",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://code-projects.org/",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2025-04-03",
+    "收录时间": "2025-04-03",
+    "更新时间": "2025-04-03",
+    "漏洞附件": "(无附件)"
+}

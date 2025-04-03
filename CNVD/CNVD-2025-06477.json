@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Blue Captcha plugin跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-06477",
+    "公开日期": "2025-04-02",
+    "危害级别": "高",
+    "影响产品": "WordPress Blue Captcha plugin <=1.7.4",
+    "CVE ID": "CVE-2025-28880",
+    "漏洞描述": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress是一套使用PHP语言开发的博客平台。WordPress plugin是一个应用插件。 \nWordPress Blue Captcha plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-28880",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.com/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-31",
+    "收录时间": "2025-04-03",
+    "更新时间": "2025-04-03",
+    "漏洞附件": "(无附件)"
+}
