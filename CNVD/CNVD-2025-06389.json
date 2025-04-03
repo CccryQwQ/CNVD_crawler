@@ -1,0 +1,17 @@
+{
+    "漏洞标题": "Tourism Management System存在SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-06389",
+    "公开日期": "2025-03-28",
+    "危害级别": "中",
+    "影响产品": "Tourism Management System Tourism Management System",
+    "漏洞描述": "Tourism Management System是一个综合性的旅游服务平台。\nTourism Management System存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "",
+    "漏洞解决方案": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://code-projects.org/",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2025-02-11",
+    "收录时间": "2025-04-03",
+    "更新时间": "2025-04-03",
+    "漏洞附件": "附件暂不公开"
+}
