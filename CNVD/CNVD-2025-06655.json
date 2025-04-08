@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Sterling File Gateway信息泄漏漏洞（CNVD-2025-06655）",
+    "CNVD-ID": "CNVD-2025-06655",
+    "公开日期": "2025-04-09",
+    "危害级别": "中",
+    "影响产品": "IBM IBM Sterling File Gateway >=6.0.0.0，<=6.1.2.6\nIBM IBM Sterling File Gateway >=6.2.0.0，<=6.2.0.3",
+    "CVE ID": "CVE-2024-47109",
+    "漏洞描述": "IBM Sterling File Gateway是美国国际商业机器（IBM）公司的一套文件传输软件。该软件可整合不同的文件传输活动中心，并帮助基于文件的数据通过因特网实现安全交换。\nIBM Sterling File Gateway 6.0.0.0至6.1.2.6版本和6.2.0.0至6.2.0.3版本存在信息泄漏漏洞，该漏洞源于应用对于敏感信息保护不足，攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-47109",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7185259",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/669636",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-12",
+    "收录时间": "2025-04-08",
+    "更新时间": "2025-04-08",
+    "漏洞附件": "(无附件)"
+}
