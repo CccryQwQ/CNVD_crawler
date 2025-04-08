@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Delta Electronics CNCSoft-G2输入验证错误漏洞",
+    "CNVD-ID": "CNVD-2025-06647",
+    "公开日期": "2025-04-08",
+    "危害级别": "高",
+    "影响产品": "Delta Electronics CNCSoft-G2 <=2.1.0.16",
+    "CVE ID": "CVE-2024-12858",
+    "漏洞描述": "Delta Electronics CNCSoft-G2是中国台达电子（Delta Electronics）公司的一种人机界面（HMI）软件。\nDelta Electronics CNCSoft-G2 2.1.0.16及之前版本存在输入验证错误漏洞，该漏洞源于未正确验证用户提供的数据长度，攻击者可利用此漏洞在当前进程环境中执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://downloadcenter.delta-china.com.cn/zh-CN/DownloadCenter?v=1&q=cncsoft&sort_expr=cdate&sort_dir=DESC",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://downloadcenter.delta-china.com.cn/zh-CN/DownloadCenter?v=1&q=cncsoft&sort_expr=cdate&sort_dir=DESC",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/676731",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-24",
+    "收录时间": "2025-04-08",
+    "更新时间": "2025-04-08",
+    "漏洞附件": "(无附件)"
+}

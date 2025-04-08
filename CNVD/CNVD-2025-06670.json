@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Application Policy Infrastructure Controller跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-06670",
+    "公开日期": "2025-04-07",
+    "危害级别": "中",
+    "影响产品": "Cisco Application Policy Infrastructure Controller (APIC)",
+    "CVE ID": "CVE-2025-20116",
+    "漏洞描述": "Cisco Application Policy Infrastructure Controller是美国思科（Cisco）公司的一款用于 Cisco ACI交换矩阵自动化和管理的软件。\nCisco Application Policy Infrastructure Controller存在跨站脚本漏洞，攻击者可利用该漏洞注入恶意脚本或HTML代码，当恶意数据被查看时，可获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-20116",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apic-multi-vulns-9ummtg5",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/675251",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-03",
+    "收录时间": "2025-04-08",
+    "更新时间": "2025-04-08",
+    "漏洞附件": "(无附件)"
+}
