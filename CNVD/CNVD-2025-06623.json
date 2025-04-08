@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Delta Electronics DIAEnergie路径遍历漏洞（CNVD-2025-06623）",
+    "CNVD-ID": "CNVD-2025-06623",
+    "公开日期": "2025-04-08",
+    "危害级别": "高",
+    "影响产品": "Delta Electronics DIAEnergie <1.10.00.005",
+    "CVE ID": "CVE-2024-25567",
+    "漏洞描述": "Delta Electronics DIAEnergie是中国台湾台达电子（Delta Electronics）公司的一个工业能源管理系统，用于实时监控和分析能源消耗、计算能源消耗和负载特性、优化设备性能、改进生产流程并最大限度地提高能源效率。\nDelta Electronics DIAEnergie v1.10.00.005之前版本存在路径遍历漏洞，攻击者可利用该漏洞访问敏感信息或覆盖原始文件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2024-25567/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.deltaww.com/en-US/products/DIAEnergie-Industrial-Energy-Management-System/ALL/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/676701",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-03-26",
+    "收录时间": "2025-04-08",
+    "更新时间": "2025-04-08",
+    "漏洞附件": "(无附件)"
+}
