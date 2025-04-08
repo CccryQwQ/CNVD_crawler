@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Identity Services Engine路径遍历漏洞（CNVD-2025-06738）",
+    "CNVD-ID": "CNVD-2025-06738",
+    "公开日期": "2025-04-07",
+    "危害级别": "中",
+    "影响产品": "Cisco Identity Services Engine",
+    "CVE ID": "CVE-2024-20532",
+    "漏洞描述": "Cisco Identity Services Engine是美国思科（Cisco）公司的一款环境感知平台。\nCisco Identity Services Engine存在路径遍历漏洞，该漏洞源于API请求中对用户提供的参数未进行充分过滤和验证。攻击者可利用该漏洞读取系统上的任意文件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-20532",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-multi-vuln-DBQdWRy",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/675271",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-11",
+    "收录时间": "2025-04-08",
+    "更新时间": "2025-04-08",
+    "漏洞附件": "(无附件)"
+}
