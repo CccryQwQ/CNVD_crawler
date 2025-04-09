@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM SPSS Statistics加密问题漏洞",
+    "CNVD-ID": "CNVD-2025-06812",
+    "公开日期": "2025-04-09",
+    "危害级别": "中",
+    "影响产品": "IBM IBM SPSS Statistics 26.0\nIBM IBM SPSS Statistics 27.0.1\nIBM IBM SPSS Statistics 28.0.1\nIBM IBM SPSS Statistics 29.0.2",
+    "CVE ID": "CVE-2024-31896",
+    "漏洞描述": "IBM Spss Statistics是美国国际商业机器（IBM）公司的一个软件包。用于交互式或批量统计分析。\nIBM SPSS Statistics 26.0版本、27.0.1版本、28.0.1版本和29.0.2版本存在加密问题漏洞，该漏洞源于使用弱加密算法，攻击者可利用该漏洞解密高度敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-31896",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7228971",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/677116",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-27",
+    "收录时间": "2025-04-09",
+    "更新时间": "2025-04-09",
+    "漏洞附件": "(无附件)"
+}
