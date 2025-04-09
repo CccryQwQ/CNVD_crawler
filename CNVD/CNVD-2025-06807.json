@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM InfoSphere Information Server信息泄露漏洞（CNVD-2025-06807）",
+    "CNVD-ID": "CNVD-2025-06807",
+    "公开日期": "2025-04-09",
+    "危害级别": "低",
+    "影响产品": "IBM IBM InfoSphere Information Server 11.7",
+    "CVE ID": "CVE-2024-55895",
+    "漏洞描述": "IBM InfoSphere Information Server是美国国际商业机器（IBM）公司的一套数据整合平台。该平台可用于整合各种渠道获取的数据信息。\nIBM InfoSphere Information Server 11.7版本存在安全漏洞，该漏洞源于存在安全问题，攻击者可利用该漏洞泄露敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-55895",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.ibm.com/support/pages/node/7185450",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/677101",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-03",
+    "收录时间": "2025-04-09",
+    "更新时间": "2025-04-09",
+    "漏洞附件": "(无附件)"
+}
