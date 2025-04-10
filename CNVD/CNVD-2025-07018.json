@@ -1,0 +1,17 @@
+{
+    "漏洞标题": "TRAVEL_MANAGEMENT_SYSTEM_USING_PHP_WITH_SOURCE_CODE存在SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-07018",
+    "公开日期": "2025-04-05",
+    "危害级别": "中",
+    "影响产品": "TRAVEL_MANAGEMENT_SYSTEM_USING_PHP_WITH_SOURCE_CODE TRAVEL_MANAGEMENT_SYSTEM_USING_PHP_WITH_SOURCE_CODE",
+    "漏洞描述": "TRAVEL_MANAGEMENT_SYSTEM_USING_PHP_WITH_SOURCE_CODE基于PHP的旅行管理系统。\nTRAVEL_MANAGEMENT_SYSTEM_USING_PHP_WITH_SOURCE_CODE存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "",
+    "漏洞解决方案": "厂商尚未提供漏洞修补方案，请关注主页及时更新：\nhttps://code-projects.org/travel-management-system-using-php-source-code/",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2025-02-19",
+    "收录时间": "2025-04-10",
+    "更新时间": "2025-04-10",
+    "漏洞附件": "附件暂不公开"
+}
