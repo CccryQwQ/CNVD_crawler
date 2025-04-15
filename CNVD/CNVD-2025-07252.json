@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe ColdFusion输入验证不当漏洞",
+    "CNVD-ID": "CNVD-2025-07252",
+    "公开日期": "2025-04-16",
+    "危害级别": "高",
+    "影响产品": "Adobe ColdFusion 2025 Build 331385\nAdobe ColdFusion 2023 <=Update 12\nAdobe ColdFusion 2021 <=Update 18",
+    "CVE ID": "CVE-2025-24446",
+    "漏洞描述": "Adobe ColdFusion是美国奥多比（Adobe）公司的一套快速应用程序开发平台。该平台包括集成开发环境和脚本语言。\nAdobe ColdFusion存在输入验证不当漏洞，攻击者可利用此漏洞读取任意文件系统。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://helpx.adobe.com/security/products/coldfusion/apsb25-15.html",
+    "漏洞解决方案": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://helpx.adobe.com/security/products/coldfusion/apsb25-15.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/680281",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-14",
+    "收录时间": "2025-04-15",
+    "更新时间": "2025-04-15",
+    "漏洞附件": "(无附件)"
+}
