@@ -1,0 +1,17 @@
+{
+    "漏洞标题": "online-complaint-site-using-php-source-code存在SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-07486",
+    "公开日期": "2025-04-13",
+    "危害级别": "中",
+    "影响产品": "online-complaint-site-using-php-source-code online-complaint-site-using-php-source-code",
+    "漏洞描述": "online-complaint-site-using-php-source-code是一款WEB应用系统。\nonline-complaint-site-using-php-source-code存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "",
+    "漏洞解决方案": "厂商尚未发布漏洞修复程序，请及时关注更新：\nhttps://code-projects.org/online-complaint-site-using-php-source-code/",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2025-02-27",
+    "收录时间": "2025-04-18",
+    "更新时间": "2025-04-18",
+    "漏洞附件": "附件暂不公开"
+}
