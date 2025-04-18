@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SAP BusinessObjects Business Intelligence Platform信息泄露漏洞（CNVD-2025-07611）",
+    "CNVD-ID": "CNVD-2025-07611",
+    "公开日期": "2025-04-15",
+    "危害级别": "高",
+    "影响产品": "SAP SAP BusinessObjects Business Intelligence Platform",
+    "CVE ID": "CVE-2025-0061",
+    "漏洞描述": "SAP BusinessObjects Business Intelligence Platform是德国思爱普（SAP）公司的一款完备的商务分析平台。\nSAP BusinessObjects Business Intelligence Platform存在信息泄露漏洞，攻击者可利用该漏洞劫持会话，访问并修改程序的敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-0061",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://support.sap.com/en/my-support/knowledge-base/security-notes-news/january-2025.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/680216",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-21",
+    "收录时间": "2025-04-18",
+    "更新时间": "2025-04-18",
+    "漏洞附件": "(无附件)"
+}
