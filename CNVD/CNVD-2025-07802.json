@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe After Effects越界写入漏洞（CNVD-2025-07802）",
+    "CNVD-ID": "CNVD-2025-07802",
+    "公开日期": "2025-04-22",
+    "危害级别": "高",
+    "影响产品": "Adobe After Effects <=24.6.4\nAdobe After Effects <=25.1",
+    "CVE ID": "CVE-2025-27182",
+    "漏洞描述": "Adobe After Effects是美国奥多比（Adobe）公司的一套视觉效果和动态图形制作软件。该软件主要用于2D和3D合成、动画制作和视觉特效制作等。\nAdobe After Effects 25.1版本和24.6.4及之前版本存在越界写入漏洞，攻击者可利用此漏洞导致任意代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://helpx.adobe.com/security/products/after_effects/apsb25-23.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/after_effects/apsb25-23.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/682076",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-18",
+    "收录时间": "2025-04-21",
+    "更新时间": "2025-04-21",
+    "漏洞附件": "(无附件)"
+}
