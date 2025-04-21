@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Windows Hello安全功能绕过漏洞（CNVD-2025-07780）",
+    "CNVD-ID": "CNVD-2025-07780",
+    "公开日期": "2025-04-10",
+    "危害级别": "高",
+    "影响产品": "Microsoft Windows Server 2019 \nMicrosoft Windows 10 1809\nMicrosoft Windows Server 2022 \nMicrosoft Windows 10 21H2\nMicrosoft Windows 11 22H2\nMicrosoft Windows 10 22H2\nMicrosoft Windows 11 23H2\nMicrosoft Windows 11 22H3",
+    "CVE ID": "CVE-2025-26635",
+    "漏洞描述": "Microsoft Windows Hello是登录Windows设备的一种更个性化、更安全的方式。\nMicrosoft Windows Hello存在安全功能绕过漏洞，攻击者可利用该漏洞绕过某些功能。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-26635",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2025-26635",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/678431",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-09",
+    "收录时间": "2025-04-18",
+    "更新时间": "2025-04-18",
+    "漏洞附件": "(无附件)"
+}

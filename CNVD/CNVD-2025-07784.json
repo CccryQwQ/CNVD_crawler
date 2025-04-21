@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Windows Telephony Service远程代码执行漏洞（CNVD-2025-07784）",
+    "CNVD-ID": "CNVD-2025-07784",
+    "公开日期": "2025-04-10",
+    "危害级别": "高",
+    "影响产品": "Microsoft Windows Server 2008  \nMicrosoft Windows 10 1607\nMicrosoft Windows Server 2016 \nMicrosoft Windows Server 2019 \nMicrosoft Windows 10 1809\nMicrosoft Windows Server 2012 \nMicrosoft Windows Server 2022 \nMicrosoft Windows 10 21H2\nMicrosoft Windows 11 22H2\nMicrosoft Windows 10 22H2\nMicrosoft Windows 11 23H2\nMicrosoft Windows 10 1507\nMicrosoft Windows 11 22H3\nMicrosoft Windows Server 2025 \nMicrosoft Windows 11 24h2",
+    "CVE ID": "CVE-2025-21221",
+    "漏洞描述": "Microsoft Windows Telephony Service是基于IBinder提供话机状态及电话服务。\nMicrosoft Windows Telephony Service存在远程代码执行漏洞，攻击者可利用该漏洞在目标主机上执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-21221",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2025-21221",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/678461",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-09",
+    "收录时间": "2025-04-18",
+    "更新时间": "2025-04-18",
+    "漏洞附件": "(无附件)"
+}
