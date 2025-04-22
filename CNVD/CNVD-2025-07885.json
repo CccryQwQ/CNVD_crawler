@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apple多款产品内存释放后再利用漏洞",
+    "CNVD-ID": "CNVD-2025-07885",
+    "公开日期": "2025-04-22",
+    "危害级别": "高",
+    "影响产品": "Apple macOS Sequoia <15.3\nApple iOS <18.3\nApple iPadOS <18.3\nApple visionOS <2.3\nApple watchOS <11.3\nApple tvOS <18.3",
+    "CVE ID": "",
+    "漏洞描述": "visionOS是苹果公司于2023年6月6日在2023苹果全球开发者大会上发布的AR眼镜系统，Apple Vision Pro将首次搭载该系统。tvOS是苹果公司研发的基于iOS的电视操作系统。watchOS是苹果公司基于iOS系统开发的一套使用于Apple Watch的手表操作系统。iOS是由苹果公司开发的移动操作系统。iPadOS‌是苹果公司为iPad设备开发的移动端操作系统，它是基于iOS开发的，专门针对iPad进行优化。macOS是一套由苹果开发的运行于Macintosh系列电脑上的操作系统。‌\nApple多款产品存在内存释放后再利用漏洞，攻击者可利用漏洞提升权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://support.apple.com/en-us/122066",
+    "漏洞解决方案": "厂商已发布补丁修复漏洞，请广大用户及时下载更新：\nhttps://support.apple.com",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/682241",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-22",
+    "收录时间": "2025-04-22",
+    "更新时间": "2025-04-22",
+    "漏洞附件": "(无附件)"
+}
