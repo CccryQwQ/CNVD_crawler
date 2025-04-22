@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens License Server权限管理不当漏洞",
+    "CNVD-ID": "CNVD-2025-07817",
+    "公开日期": "2025-04-23",
+    "危害级别": "低",
+    "影响产品": "SIEMENS Siemens License Server <V4.3",
+    "CVE ID": "CVE-2025-29999",
+    "漏洞描述": "Siemens License Server（SLS）是德国西门子（Siemens）公司的一个用于管理和分发西门子软件产品许可证的工具。\nSiemens License Server存在权限管理不当漏洞，该漏洞源于未正确验证应用文件夹中的可执行文件，攻击者可利用该漏洞通过将恶意可执行文件放置在同一目录中，以管理权限执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-525431.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cert-portal.siemens.com/productcert/html/ssa-525431.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/682166",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-18",
+    "收录时间": "2025-04-21",
+    "更新时间": "2025-04-21",
+    "漏洞附件": "(无附件)"
+}
