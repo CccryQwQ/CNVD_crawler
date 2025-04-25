@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "TOTOLINK N350RT访问控制错误漏洞",
+    "CNVD-ID": "CNVD-2025-08340",
+    "公开日期": "2025-04-22",
+    "危害级别": "高",
+    "影响产品": "TOTOLINK N350RT 9.3.5u.6139_B20201216",
+    "CVE ID": "CVE-2024-42966",
+    "漏洞描述": "TOTOLINK N350RT是中国吉翁电子（TOTOLINK）公司的一款小型家用路由器。\nTOTOLINK N350RT存在访问控制错误漏洞，该漏洞源于/cgi-bin/ExportSettings.sh文件中包含一个访问控制错误漏洞。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-42966",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/206/ids/36.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/682286",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-16",
+    "收录时间": "2025-04-25",
+    "更新时间": "2025-04-25",
+    "漏洞附件": "(无附件)"
+}
