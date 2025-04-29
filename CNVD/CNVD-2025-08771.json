@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Attendance Manager存储型跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-08771",
+    "公开日期": "2025-04-27",
+    "危害级别": "中",
+    "影响产品": "WordPress Attendance Manager <=0.6.2",
+    "CVE ID": "CVE-2025-39515",
+    "漏洞描述": "Attendance Manager是一款用于WordPress的插件，主要用于管理出勤记录。\nWordPress Attendance Manager存在存储型跨站脚本漏洞，该漏洞源于网页生成过程中对输入的中和不足。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-39515",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/attendance-manager/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/684461",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-22",
+    "收录时间": "2025-04-29",
+    "更新时间": "2025-04-29",
+    "漏洞附件": "(无附件)"
+}
