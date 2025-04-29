@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Esri Portal for ArcGIS跨站请求伪造漏洞",
+    "CNVD-ID": "CNVD-2025-08809",
+    "公开日期": "2025-04-29",
+    "危害级别": "中",
+    "影响产品": "esri Esri Portal For ArcGis <=11.1",
+    "CVE ID": "CVE-2024-25692",
+    "漏洞描述": "Esri Portal For ArcGIS是Esri公司的一种允许在组织内与其他人共享地图、场景、应用程序和其他地理信息的组件。\nEsri Portal for ArcGIS存在跨站请求伪造漏洞，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-25692",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.esri.com/arcgis-blog/products/arcgis-enterprise/administration/portal-for-arcgis-security-2024-update-2/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/684676",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-04-10",
+    "收录时间": "2025-04-29",
+    "更新时间": "2025-04-29",
+    "漏洞附件": "(无附件)"
+}

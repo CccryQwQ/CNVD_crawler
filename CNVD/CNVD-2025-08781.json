@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe XMP Toolkit缓冲区溢出漏洞（CNVD-2025-08781）",
+    "CNVD-ID": "CNVD-2025-08781",
+    "公开日期": "2025-04-29",
+    "危害级别": "中",
+    "影响产品": "Adobe XMP Toolkit <=2023.12",
+    "CVE ID": "CVE-2025-30308",
+    "漏洞描述": "Adobe XMP Toolkit是美国奥多比（Adobe）公司的一个工具包。用于将Xmp功能集成到产品或解决方案中。\nAdobe XMP Toolkit存在缓冲区溢出漏洞，该漏洞源于越界读取，攻击者可利用该漏洞导致敏感内存泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-30308",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/xmpcore/apsb25-34.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/684611",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-18",
+    "收录时间": "2025-04-29",
+    "更新时间": "2025-04-29",
+    "漏洞附件": "(无附件)"
+}
