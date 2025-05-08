@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SAP Capital Yield Tax Management目录遍历漏洞",
+    "CNVD-ID": "CNVD-2025-09254",
+    "公开日期": "2025-05-08",
+    "危害级别": "中",
+    "影响产品": "SAP Capital Yield Tax Management",
+    "CVE ID": "CVE-2025-30014",
+    "漏洞描述": "SAP Capital Yield Tax Management是德国思爱普（SAP）公司的一个用于资本收益税的计算、报告和合规管理的工具。\nSAP Capital Yield Tax Management存在目录遍历漏洞，攻击者可利用该漏洞提交特殊的请求，查看系统文件内容。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-30014",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://me.sap.com/notes/2927164",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/686806",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-14",
+    "收录时间": "2025-05-08",
+    "更新时间": "2025-05-08",
+    "漏洞附件": "(无附件)"
+}
