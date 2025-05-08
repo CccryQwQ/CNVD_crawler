@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Docassemble信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-09225",
+    "公开日期": "2025-05-08",
+    "危害级别": "低",
+    "影响产品": "Jonathan Pyle Docassemble >=1.4.53，<=1.4.96",
+    "CVE ID": "CVE-2024-27292",
+    "漏洞描述": "Docassemble是一个免费的开源专家系统，用于指导访谈和文档组装。\nDocassemble 1.4.53至1.4.96版本存在信息泄露漏洞，攻击者可利用该漏洞通过操作URL获得对系统信息的未授权的访问。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/jhpyle/docassemble/security/advisories/GHSA-jq57-3w7p-vwvv",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/jhpyle/docassemble/commit/97f77dc486a26a22ba804765bfd7058aabd600c9",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/686746",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-03-26",
+    "收录时间": "2025-05-08",
+    "更新时间": "2025-05-08",
+    "漏洞附件": "(无附件)"
+}

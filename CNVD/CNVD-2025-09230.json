@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "FreeBSD信息泄露漏洞（CNVD-2025-09230）",
+    "CNVD-ID": "CNVD-2025-09230",
+    "公开日期": "2025-05-08",
+    "危害级别": "中",
+    "影响产品": "FreeBSD FreeBSD",
+    "CVE ID": "CVE-2025-0374",
+    "漏洞描述": "FreeBSD是FreeBSD基金会的一套类Unix操作系统。\nFreeBSD存在信息泄露漏洞，该漏洞是由于未能正确的权限分配缺陷引起的。攻击者可利用该漏洞访问系统文件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://security.freebsd.org/advisories/FreeBSD-SA-25:03.etcupdate.asc",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.freebsd.org/advisories/FreeBSD-SA-25:03.etcupdate.asc",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/686766",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-17",
+    "收录时间": "2025-05-08",
+    "更新时间": "2025-05-08",
+    "漏洞附件": "(无附件)"
+}

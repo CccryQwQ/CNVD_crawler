@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Docassemble跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-09227",
+    "公开日期": "2025-05-08",
+    "危害级别": "中",
+    "影响产品": "Jonathan Pyle Docassemble <1.4.97",
+    "CVE ID": "CVE-2024-27290",
+    "漏洞描述": "Docassemble是一个免费的开源专家系统，用于指导访谈和文档组装。\nDocassemble 1.4.97之前版本存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞向users name等字段注入HTML代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/jhpyle/docassemble/security/advisories/GHSA-pcfx-g2j2-f6f6",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/jhpyle/docassemble/commit/4801ac7ff7c90df00ac09523077930cdb6dea2aa",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/686756",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-03-26",
+    "收录时间": "2025-05-08",
+    "更新时间": "2025-05-08",
+    "漏洞附件": "(无附件)"
+}
