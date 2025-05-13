@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens OpenV2G缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-09488",
+    "公开日期": "2025-05-12",
+    "危害级别": "中",
+    "影响产品": "Siemens OpenV2G <0.9.6",
+    "CVE ID": "CVE-2025-24956",
+    "漏洞描述": "Siemens OpenV2G是德国西门子（Siemens）公司的一种V2G基础设施组件的开源实现。\nSiemens OpenV2G存在缓冲区溢出漏洞。该漏洞是由于OpenV2G EXI解析功能在解析X509序列号时缺少长度检查。攻击者可利用发漏洞导致内存破坏。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-647005.html",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://siemens.com",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/687576",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-30",
+    "收录时间": "2025-05-13",
+    "更新时间": "2025-05-13",
+    "漏洞附件": "(无附件)"
+}
