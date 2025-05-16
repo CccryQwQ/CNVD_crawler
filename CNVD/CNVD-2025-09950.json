@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Windows HTML Platforms安全功能绕过漏洞",
+    "CNVD-ID": "CNVD-2025-09950",
+    "公开日期": "2025-05-16",
+    "危害级别": "中",
+    "影响产品": "Microsoft Windows Server 2012 R2\nMicrosoft Windows 10 1607\nMicrosoft Windows Server 2016 \nMicrosoft Windows Server 2019 \nMicrosoft Windows Server 2008 R2\nMicrosoft Windows 10 1809\nMicrosoft Windows Server 2012 \nMicrosoft Windows Server 2022 \nMicrosoft Windows 10 21H2\nMicrosoft Windows 10 22H2\nMicrosoft Window 11 \nMicrosoft Window 10 \nMicrosoft Windows Server 2022 23H2\nMicrosoft Windows 11 23H2\nMicrosoft Windows Server 2025 \nMicrosoft Windows 11 24h2\nMicrosoft Windows Server 2008 22H2",
+    "CVE ID": "CVE-2025-21269",
+    "漏洞描述": "Microsoft Windows HTML Platforms是一种用于在Windows操作系统上呈现和执行HTML内容的技术。\nMicrosoft Windows HTML Platforms存在安全功能绕过漏洞，该漏洞是由HTML平台组件中的安全功能绕过漏洞引起的。攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-21269",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21269",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/688201",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-17",
+    "收录时间": "2025-05-16",
+    "更新时间": "2025-05-16",
+    "漏洞附件": "(无附件)"
+}
