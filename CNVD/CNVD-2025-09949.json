@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Ivanti Endpoint Manager Mobile身份认证绕过漏洞",
+    "CNVD-ID": "CNVD-2025-09949",
+    "公开日期": "2025-05-16",
+    "危害级别": "中",
+    "影响产品": "Ivanti. Ivanti Endpoint Manager Mobile <=12.5.0.0",
+    "CVE ID": "CVE-2025-4427",
+    "漏洞描述": "Ivanti Endpoint Manager Mobile（EPMM）是一款企业级的移动设备管理解决方案，用于集中管理和保护企业中的移动设备，支持设备注册、应用分发、安全策略实施等功能。\nIvanti Endpoint Manager Mobile存在身份认证绕过漏洞，该漏洞源于API组件未能正确验证输入数据，攻击者可利用该漏洞通过精心构造的API请求绕过认证机制。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "",
+    "漏洞解决方案": "Ivanti已发布安全更新，用户应立即升级到修复版本：\nhttps://forums.ivanti.com/s/product-downloads",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/688186",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-16",
+    "收录时间": "2025-05-16",
+    "更新时间": "2025-05-16",
+    "漏洞附件": "附件暂不公开"
+}
