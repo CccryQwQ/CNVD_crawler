@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache OFBiz跨站脚本漏洞（CNVD-2025-10035）",
+    "CNVD-ID": "CNVD-2025-10035",
+    "公开日期": "2025-04-10",
+    "危害级别": "中",
+    "影响产品": "Apache Apache OFBiz <18.12.19",
+    "CVE ID": "CVE-2025-30676",
+    "漏洞描述": "Apache OFBiz是美国阿帕奇（Apache）基金会的一套企业资源计划（ERP）系统。该系统提供了一整套基于Java的Web应用程序组件和工具。\nApache OFBiz 18.12.19之前版本存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://issues.apache.org/jira/browse/OFBIZ-13219",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/8d718qt8dqthnw1gmyxsq8glfdjklnjf",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/678566",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-09",
+    "收录时间": "2025-05-19",
+    "更新时间": "2025-05-19",
+    "漏洞附件": "(无附件)"
+}

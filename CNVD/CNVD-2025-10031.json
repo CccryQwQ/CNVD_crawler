@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache Tomcat输入验证错误漏洞（CNVD-2025-10031）",
+    "CNVD-ID": "CNVD-2025-10031",
+    "公开日期": "2025-05-07",
+    "危害级别": "高",
+    "影响产品": "Apache Tomcat >=9.0.0，<9.0.104\nApache Tomcat >=10.1.0，<10.1.40\nApache Tomcat >=11.0.0，<11.0.6",
+    "CVE ID": "CVE-2025-31651",
+    "漏洞描述": "Apache Tomcat是美国阿帕奇（Apache）基金会的一款轻量级Web应用服务器。用于实现对Servlet和JavaServer Page（JSP）的支持。\nApache Tomcat存在输入验证错误漏洞，该漏洞源于转义、元或控制序列中和不当，攻击者可利用该漏洞导致安全约束绕过。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "http://www.openwall.com/lists/oss-security/2025/04/28/3",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://tomcat.apache.org/security-11.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/686356",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-07",
+    "收录时间": "2025-05-19",
+    "更新时间": "2025-05-19",
+    "漏洞附件": "(无附件)"
+}

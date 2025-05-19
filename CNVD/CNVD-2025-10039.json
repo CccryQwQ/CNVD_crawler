@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache Commons VFS信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-10039",
+    "公开日期": "2025-05-07",
+    "危害级别": "中",
+    "影响产品": "Apache Apache Commons VFS <2.10.0",
+    "CVE ID": "CVE-2025-30474",
+    "漏洞描述": "Apache Commons VFS是美国阿帕奇（Apache）基金会的一个公共虚拟文件系统。\nApache Commons VFS  2.10.0之前版本存在信息泄露漏洞，该漏洞源于FtpFileObject类在文件未找到时可能泄露包含密码的原始URI。攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "http://www.openwall.com/lists/oss-security/2025/03/23/2",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/w6ztgnbk6ccry3470x191g3xwrpgy6f4",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/686381",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-27",
+    "收录时间": "2025-05-19",
+    "更新时间": "2025-05-19",
+    "漏洞附件": "(无附件)"
+}

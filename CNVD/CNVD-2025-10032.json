@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache HttpClient逻辑错误漏洞",
+    "CNVD-ID": "CNVD-2025-10032",
+    "公开日期": "2025-05-08",
+    "危害级别": "高",
+    "影响产品": "Apache Apache HttpClient <5.4.3",
+    "CVE ID": "CVE-2025-27820",
+    "漏洞描述": "Apache HttpClient是美国阿帕奇（Apache）基金会的一个Java编写的访问HTTP资源的客户端程序。该程序用于使用HTTP协议访问网络资源。\nApache HttpClient 5.4.3之前版本存在逻辑错误漏洞，该漏洞源于PSL验证逻辑错误，攻击者可利用该漏洞影响cookie管理和主机名验证。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/apache/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/apache/httpcomponents-client/tags",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/686661",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-07",
+    "收录时间": "2025-05-19",
+    "更新时间": "2025-05-19",
+    "漏洞附件": "(无附件)"
+}
