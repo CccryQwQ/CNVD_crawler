@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "RT-Labs P-Net存在未明漏洞（CNVD-2025-10048）",
+    "CNVD-ID": "CNVD-2025-10048",
+    "公开日期": "2025-05-20",
+    "危害级别": "高",
+    "影响产品": "RT-Labs P-Net <=1.0.1",
+    "CVE ID": "CVE-2025-32400",
+    "漏洞描述": "RT-Labs P-Net是RT-Labs公司的一个开源PROFINET协议栈，实现工业设备与PROFINET控制器的标准通信。\nRT-Labs P-Net 1.0.1及之前版本存在安全漏洞，攻击者可利用该漏洞导致IO设备崩溃。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.nozominetworks.com/labs/vulnerability-advisories-cve-2025-32400",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://rt-labs.com/product/p-net/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/689171",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-14",
+    "收录时间": "2025-05-19",
+    "更新时间": "2025-05-19",
+    "漏洞附件": "(无附件)"
+}
