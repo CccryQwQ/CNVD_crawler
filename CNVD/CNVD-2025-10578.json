@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Triangle MicroWorks SCADA Data Gateway任意代码执行漏洞",
+    "CNVD-ID": "CNVD-2025-10578",
+    "公开日期": "2025-05-21",
+    "危害级别": "高",
+    "影响产品": "Triangle MicroWorks SCADA Data Gateway",
+    "CVE ID": "CVE-2023-39468",
+    "漏洞描述": "Triangle MicroWorks SCADA Data Gateway是美国Triangle MicroWorks公司的一款SCADA数据网关产品。\nTriangle MicroWorks SCADA Data Gateway存在任意代码执行漏洞，攻击者可利用该漏洞执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.zerodayinitiative.com/advisories/ZDI-23-1036/",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.trianglemicroworks.com/products/scada-data-gateway/what's-new",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/689626",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-08-07",
+    "收录时间": "2025-05-23",
+    "更新时间": "2025-05-23",
+    "漏洞附件": "(无附件)"
+}
