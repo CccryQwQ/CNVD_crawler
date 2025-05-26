@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Moodle权限问题漏洞（CNVD-2025-10589）",
+    "CNVD-ID": "CNVD-2025-10589",
+    "公开日期": "2025-05-26",
+    "危害级别": "中",
+    "影响产品": "moodle Moodle",
+    "CVE ID": "CVE-2025-26526",
+    "漏洞描述": "Moodle是一款开源的电子学习软件平台，也称为课程管理系统、学习管理系统或虚拟学习环境。\nMoodle中存在权限问题漏洞。该漏洞源于未在查看或删除Feedback活动响应时正确考虑分组模式的权限检查。攻击者可利用该漏洞查看或删除未授权的Feedback活动响应。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "http://git.moodle.org/gw?p=moodle.git&a=search&h=HEAD&st=commit&s=MDL-79976\n https://moodle.org/mod/forum/discuss.php?d=466142\n https://access.redhat.com/security/cve/cve-2025-26526",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://download.moodle.org/releases/latest/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/691341",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-26",
+    "收录时间": "2025-05-26",
+    "更新时间": "2025-05-26",
+    "漏洞附件": "(无附件)"
+}
