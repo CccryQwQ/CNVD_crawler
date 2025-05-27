@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "NETGEAR DGN2200权限问题漏洞",
+    "CNVD-ID": "CNVD-2025-10685",
+    "公开日期": "2025-05-27",
+    "危害级别": "高",
+    "影响产品": "NetGear DGN2200 <=1.0.0.46",
+    "CVE ID": "CVE-2024-57046",
+    "漏洞描述": "NETGEAR DGN2200是美国网件（NETGEAR）公司的一款无线路由器。\nNETGEAR DGN2200存在权限问题漏洞。攻击者可利用该漏洞在请求的URL中添加“?x=1.gif”即可识别为通过身份验证。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.netgear.com/about/security/https://github.com/Shuanunio/CVE_Requests/blob/main/Netgear/DGN2200/ACL%20bypass%20Vulnerability%20in%20Netgear%20DGN2200.mdhttps://access.redhat.com/security/cve/cve-2024-57046",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-07",
+    "收录时间": "2025-05-27",
+    "更新时间": "2025-05-27",
+    "漏洞附件": "(无附件)"
+}
