@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Office代码执行漏洞（CNVD-2025-10660）",
+    "CNVD-ID": "CNVD-2025-10660",
+    "公开日期": "2025-05-27",
+    "危害级别": "高",
+    "影响产品": "Microsoft Office 2016 \nMicrosoft Office 2019 \nMicrosoft 365 Apps for Enterprise \nMicrosoft Office LTSC 2021 \nMicrosoft Office LTSC for Mac 2021 \nMicrosoft Microsoft Office LTSC 2024 \nMicrosoft Office LTSC for Mac 2024",
+    "CVE ID": "CVE-2025-27745",
+    "漏洞描述": "Microsoft Office是美国微软（Microsoft）公司的一款办公软件套件产品。该产品常用组件包括Word、Excel、Access、Powerpoint、FrontPage等。\nMicrosoft Office存在代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-27745",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2025-27745",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/692011",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-09",
+    "收录时间": "2025-05-27",
+    "更新时间": "2025-05-27",
+    "漏洞附件": "(无附件)"
+}
