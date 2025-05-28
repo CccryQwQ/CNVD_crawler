@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "ZTE GoldenDB输入验证漏洞",
+    "CNVD-ID": "CNVD-2025-10857",
+    "公开日期": "2025-05-29",
+    "危害级别": "中",
+    "影响产品": "ZTE ZXCLOUD GoldenDB >=6.1.03，<=6.1.03.10\nZTE ZXCLOUD GoldenDB 7.2.01.01\nZTE ZXCLOUD GoldenDB Lite7.2.01.01",
+    "CVE ID": "CVE-2025-46574",
+    "漏洞描述": "ZTE GoldenDB是中国中兴通讯（ZTE）公司的一款金融级交易型分布式数据库。用于金融、政企、电信等行业，提供高可用数据服务。\nZTE GoldenDB存在输入验证漏洞，攻击者可利用该漏洞通过接口操纵参数来提交对系统无效的值。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://support.zte.com.cn/zte-iccp-isupport-webui/bulletin/detail/4693390139849392200",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.zte.com.cn/china/solutions_latest/goldendb.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/692346",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-30",
+    "收录时间": "2025-05-28",
+    "更新时间": "2025-05-28",
+    "漏洞附件": "(无附件)"
+}
