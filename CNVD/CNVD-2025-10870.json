@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "PCMan FTP Server缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-10870",
+    "公开日期": "2025-05-28",
+    "危害级别": "高",
+    "影响产品": "PCMan PCMan FTP Server 2.0.7",
+    "CVE ID": "CVE-2025-3375",
+    "漏洞描述": "PCMan FTP Server是PCMan开源的一套FTP服务器软件‌。\nPCMan FTP Server存在缓冲区溢出漏洞，该漏洞源于CDUP Command Handler在处理CDUP命令时未对输入进行有效长度校验，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.303621\nhttps://vuldb.com/?ctiid.303621\nhttps://vuldb.com/?submit.552337\nhttps://fitoxs.com/exploit/exploit-b81a4a56b5d867bc810b183e3c9791ef.txt",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://pcman.openfoundry.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-18",
+    "收录时间": "2025-05-28",
+    "更新时间": "2025-05-28",
+    "漏洞附件": "(无附件)"
+}
