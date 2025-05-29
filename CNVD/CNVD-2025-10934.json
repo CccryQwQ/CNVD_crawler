@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "TOTOLINK A950RG命令执行漏洞",
+    "CNVD-ID": "CNVD-2025-10934",
+    "公开日期": "2025-05-29",
+    "危害级别": "高",
+    "影响产品": "TOTOLINK A950RG V4.1.2cu.5204_B20210112",
+    "CVE ID": "CVE-2025-45798",
+    "漏洞描述": "TOTOLINK A950RG是中国吉翁电子（TOTOLINK）公司的一款超世代Giga无线路由器。\nTOTOLINK A950RG存在命令执行漏洞，该漏洞源于/lib/cste_modules/system.so中setNoticeCfg接口IpTo参数未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/ToTolink/A950RG/5024-setNoticeCFG-IpTo-command.md",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-20",
+    "收录时间": "2025-05-29",
+    "更新时间": "2025-05-29",
+    "漏洞附件": "(无附件)"
+}
