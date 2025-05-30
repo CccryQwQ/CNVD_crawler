@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IceWarp Mail Server输入验证错误漏洞",
+    "CNVD-ID": "CNVD-2025-11211",
+    "公开日期": "2025-05-30",
+    "危害级别": "中",
+    "影响产品": "IceWarp IceWarp Mail Server 11.4.0",
+    "CVE ID": "CVE-2025-40630",
+    "漏洞描述": "IceWarp Mail Server是捷克爱思华宝（IceWarp）公司的一款邮件服务器产品。该产品支持电子邮件归档、SmartAttach附件、自动迁移等。\nIceWarp Mail Server存在输入验证错误漏洞，该漏洞源于系统未对目标跳转做合理处理，攻击者可利用该漏洞导致用户被重定向到任意域。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.incibe.es/en/incibe-cert/notices/aviso/multiple-vulnerabilities-icewarp-mail-server",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.icewarp.com/downloads/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/692951",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-22",
+    "收录时间": "2025-05-30",
+    "更新时间": "2025-05-30",
+    "漏洞附件": "(无附件)"
+}
