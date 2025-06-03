@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Web Designer代码执行漏洞",
+    "CNVD-ID": "CNVD-2025-11251",
+    "公开日期": "2025-06-03",
+    "危害级别": "高",
+    "影响产品": "Google Web Designer",
+    "CVE ID": "CVE-2025-1079",
+    "漏洞描述": "Google Web Designer是美国谷歌（Google）公司的一个专业级HTML5广告与网页内容创作工具，支持可视化设计与代码编辑。\nGoogle Web Designer存在代码执行漏洞，该漏洞源于预览功能中符号链接解析不当，攻击者可利用该漏洞导致macOS和Linux上的远程代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://balintmagyar.com/articles/google-web-designer-symlink-client-side-rce-cve-2025-1079",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.google.com/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-20",
+    "收录时间": "2025-06-03",
+    "更新时间": "2025-06-03",
+    "漏洞附件": "(无附件)"
+}
