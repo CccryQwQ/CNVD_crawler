@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "D-Link DIR-605L/DIR-618 formAdvNetwork函数访问控制错误漏洞",
+    "CNVD-ID": "CNVD-2025-11320",
+    "公开日期": "2025-06-04",
+    "危害级别": "低",
+    "影响产品": "D-Link DIR-618 2.02\nD-Link DIR-605L 3.02",
+    "CVE ID": "CVE-2025-2547",
+    "漏洞描述": "D-Link DIR-605L和D-Link DIR-618都是中国友讯（D-Link）公司的一款无线路由器。\nD-Link DIR-605L 3.02版本和D-Link DIR-618 2.02版本存在访问控制错误漏洞，该漏洞源于文件/goform/formAdvNetwork的访问控制不当，攻击者可利用该漏洞设置设备的upnp服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://lavender-bicycle-a5a.notion.site/D-Link-DIR-605L-formAdvNetwork-1b153a41781f80109325dbc96ffc0295?pvs=4",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttp://www.dlink.com.cn/‌",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-27",
+    "收录时间": "2025-06-04",
+    "更新时间": "2025-06-04",
+    "漏洞附件": "(无附件)"
+}
