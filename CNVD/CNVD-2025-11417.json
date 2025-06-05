@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Chrome信息泄露漏洞（CNVD-2025-11417）",
+    "CNVD-ID": "CNVD-2025-11417",
+    "公开日期": "2025-06-03",
+    "危害级别": "中",
+    "影响产品": "Google Chrome <136.0.7103.113",
+    "CVE ID": "CVE-2025-4664",
+    "漏洞描述": "Google Chrome是谷歌开发的一款Web浏览器，提供快速、安全的浏览体验。\nGoogle Chrome存在信息泄露漏洞，该漏洞源于Loader中策略执行不足。攻击者可利用该漏洞获取跨源数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://chromereleases.googleblog.com/2025/05/stable-channel-update-for-desktop_14.html\nhttps://issues.chromium.org/issues/415810136",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://chromereleases.googleblog.com/2025/05/stable-channel-update-for-desktop_14.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/693876",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-20",
+    "收录时间": "2025-06-05",
+    "更新时间": "2025-06-05",
+    "漏洞附件": "(无附件)"
+}
