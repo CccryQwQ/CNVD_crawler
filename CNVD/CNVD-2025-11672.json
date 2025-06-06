@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Planet UNI-NMS-Lite信任管理问题漏洞",
+    "CNVD-ID": "CNVD-2025-11672",
+    "公开日期": "2025-06-06",
+    "危害级别": "高",
+    "影响产品": "Planet UNI-NMS-Lite",
+    "CVE ID": "CVE-2025-46273",
+    "漏洞描述": "Planet UNI-NMS-Lite是中国PLANET公司的一个通用网络管理系统，可监控所有已部署的有线或无线 PoE 工业级网络设备。\nPlanet UNI-NMS-Lite存在信任管理问题漏洞，攻击者可利用该漏洞提交特殊的请求，执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-114-06",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.planet.com.tw/en/product/uni-nms",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/694766",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-27",
+    "收录时间": "2025-06-06",
+    "更新时间": "2025-06-06",
+    "漏洞附件": "(无附件)"
+}

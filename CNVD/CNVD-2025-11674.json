@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Planet IGS-4215-16T2S IP address功能命令注入漏洞",
+    "CNVD-ID": "CNVD-2025-11674",
+    "公开日期": "2025-06-06",
+    "危害级别": "中",
+    "影响产品": "Planet IGS-4215-16T2S 1.305b210528",
+    "CVE ID": "CVE-2024-2742",
+    "漏洞描述": "Planet IGS-4215-16T2S是一款工业级交换机设备。\nPlanet IGS-4215-16T2S存在命令注入漏洞，攻击者可利用该漏洞通过IP地址在主机上执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.incibe.es/en/incibe-cert/notices/aviso-sci/multiple-vulnerabilities-planet-igs-4215-16t2s",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.planet.com.tw/en/product/igs-4215-16t2s",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/694781",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-04-15",
+    "收录时间": "2025-06-06",
+    "更新时间": "2025-06-06",
+    "漏洞附件": "(无附件)"
+}
