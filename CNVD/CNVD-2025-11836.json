@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Samsung  Notes访问控制错误漏洞",
+    "CNVD-ID": "CNVD-2025-11836",
+    "公开日期": "2025-06-06",
+    "危害级别": "中",
+    "影响产品": "Samsung Samsung Notes <4.4.26.71",
+    "CVE ID": "CVE-2025-20924",
+    "漏洞描述": "Samsung Notes是韩国三星（SAMSUNG）公司的一个应用软件。\nSamsung Notes存在访问控制错误漏洞，该漏洞源于访问控制不当，攻击者可利用该漏洞访问多个用户配置文件中的数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=03",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=03",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/695271",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-13",
+    "收录时间": "2025-06-06",
+    "更新时间": "2025-06-06",
+    "漏洞附件": "(无附件)"
+}

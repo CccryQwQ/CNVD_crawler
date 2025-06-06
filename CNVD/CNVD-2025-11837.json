@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Samsung Notes解析bmp越界写入漏洞",
+    "CNVD-ID": "CNVD-2025-11837",
+    "公开日期": "2025-06-06",
+    "危害级别": "中",
+    "影响产品": "Samsung Samsung Notes <4.4.26.71",
+    "CVE ID": "CVE-2025-20931",
+    "漏洞描述": "Samsung Notes是一款简洁好用的手机记事本软件,支持全系三星机型安装使用。\nSamsung Notes存在越界写入漏洞，漏洞源于bmp图像解析，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=03",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=03",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/695281",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-10",
+    "收录时间": "2025-06-06",
+    "更新时间": "2025-06-06",
+    "漏洞附件": "(无附件)"
+}
