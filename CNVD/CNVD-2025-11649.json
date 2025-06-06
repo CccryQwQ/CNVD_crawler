@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Planet FW-WGS-804HPT web_snmpv3_remote_engineId_add_post函数缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-11649",
+    "公开日期": "2025-06-06",
+    "危害级别": "高",
+    "影响产品": "Planet FW-WGS-804HPT v1.305b241111",
+    "CVE ID": "CVE-2025-44885",
+    "漏洞描述": "Planet FW-WGS-804HPT是中国Planet公司的一款壁挂式管理型交换机。\nPlanet FW-WGS-804HPT存在缓冲区溢出漏洞，该漏洞源于web_snmpv3_remote_engineId_add_post函数中remote_ip参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞执行任意代码或者导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://lafdrew.github.io/2025/04/20/web-snmpv3-remote-engineId-add-post-remote-ip/",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.planet.com.tw/en/product/wgs-804hpt-v2",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/694746",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-28",
+    "收录时间": "2025-06-06",
+    "更新时间": "2025-06-06",
+    "漏洞附件": "(无附件)"
+}
