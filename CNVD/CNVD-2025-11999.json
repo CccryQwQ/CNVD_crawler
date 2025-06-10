@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "TOTOLINK A720R身份验证不当漏洞",
+    "CNVD-ID": "CNVD-2025-11999",
+    "公开日期": "2025-06-10",
+    "危害级别": "中",
+    "影响产品": "TOTOLINK A720R 4.1.5cu.374",
+    "CVE ID": "CVE-2025-4268",
+    "漏洞描述": "TOTOLINK A720R是中国吉翁电子（TOTOLINK）公司的一款无线路由器。\nTOTOLINK A720R存在身份验证不当漏洞，该漏洞源于文件/cgi-bin/cstecgi.cgi中参数topicurl处理不当，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://access.redhat.com/security/cve/cve-2025-4268",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/home/menu/detail/menu_listtpl/download/id/203/ids/36.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/695691",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-14",
+    "收录时间": "2025-06-10",
+    "更新时间": "2025-06-10",
+    "漏洞附件": "(无附件)"
+}

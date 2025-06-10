@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "TOTOLINK A3002R和A3002RU缓冲区溢出漏洞（CNVD-2025-11996）",
+    "CNVD-ID": "CNVD-2025-11996",
+    "公开日期": "2025-06-10",
+    "危害级别": "高",
+    "影响产品": "TOTOLINK A3002R 3.0.0-B20230809.1615\nTOTOLINK A3002RU 3.0.0-B20230809.1615",
+    "CVE ID": "CVE-2025-4733",
+    "漏洞描述": "TOTOLINK A3002R和A3002RU是TOTOLINK公司生产的路由器，支持多种网络功能和服务。\nTOTOLINK A3002R和A3002RU存在缓冲区溢出漏洞，该漏洞源于HTTP POST请求处理程序中文件/boafrm/formIpQoS的处理不当。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/CH13hh/tmp_store_cc/blob/main/tt/ta/7.md\nhttps://vuldb.com/?ctiid.309035\nhttps://vuldb.com/?id.309035\nhttps://vuldb.com/?submit.570703\nhttps://www.totolink.net/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://m.totolink.net/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-20",
+    "收录时间": "2025-06-10",
+    "更新时间": "2025-06-10",
+    "漏洞附件": "(无附件)"
+}

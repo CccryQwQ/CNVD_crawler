@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tenda O3 formQosSet函数缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-12009",
+    "公开日期": "2025-06-06",
+    "危害级别": "高",
+    "影响产品": "Tenda O3 1.0.0.10",
+    "CVE ID": "CVE-2024-6962",
+    "漏洞描述": "Tenda O3是一款无线网桥设备，主要用于扩展和增强无线网络信号，适用于家庭和小型企业网络环境。\nTenda O3存在基于堆栈的缓冲区溢出漏洞，该漏洞源于函数formQosSet中对参数/ipRange/upSpeed/downSpeed/的操作会导致基于栈的缓冲区溢出。攻击者可利用该漏洞导致任意代码执行、设备控制权获取，甚至使设备崩溃或无法正常工作等严重后果。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/O3V2.0/formQosSet.md\nhttps://vuldb.com/?ctiid.272116\nhttps://vuldb.com/?id.272116",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-2941.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/694851",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-23",
+    "收录时间": "2025-06-10",
+    "更新时间": "2025-06-10",
+    "漏洞附件": "(无附件)"
+}
