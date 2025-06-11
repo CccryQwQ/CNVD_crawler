@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SonicWall SMA1000跨站请求伪造漏洞",
+    "CNVD-ID": "CNVD-2025-12131",
+    "公开日期": "2025-06-11",
+    "危害级别": "中",
+    "影响产品": "SonicWall SMA1000",
+    "CVE ID": "CVE-2025-40595",
+    "漏洞描述": "SonicWALL SMA1000是美国SonicWALL公司的一系列安全移动访问解决方案。简化了对跨本地、云和混合数据中心托管的企业资源的端到端安全远程访问。\nSonicWALL SMA1000存在跨站请求伪造漏洞，该漏洞源于服务器未实现足够的验证机制来确认请求的来源，攻击者可利用该漏洞导致请求重定向。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0010",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.sonicwall.com/products/remote-access/secure-mobile-access-1000-series",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/696021",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-20",
+    "收录时间": "2025-06-11",
+    "更新时间": "2025-06-11",
+    "漏洞附件": "(无附件)"
+}
