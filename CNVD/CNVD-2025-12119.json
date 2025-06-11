@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "GNU Savane跨站请求伪造漏洞",
+    "CNVD-ID": "CNVD-2025-12119",
+    "公开日期": "2025-06-10",
+    "危害级别": "高",
+    "影响产品": "Gnu GNU Savane <=v.3.12",
+    "CVE ID": "CVE-2024-27631",
+    "漏洞描述": "GNU Savane是美国GNU社区的一套合作软件发展管理系统。\nGNU Savane存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://git.savannah.nongnu.org/cgit/administration/savane.git/commit/?h=i18n&id=d3962d3feb75467489b869204db98e2dffaaaf09",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://git.savannah.nongnu.org/cgit/administration/savane.git/?h=release-3.13",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/695676",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-04-10",
+    "收录时间": "2025-06-11",
+    "更新时间": "2025-06-11",
+    "漏洞附件": "(无附件)"
+}
