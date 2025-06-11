@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Pimcore Admin Classic Bundle跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-12127",
+    "公开日期": "2025-06-11",
+    "危害级别": "低",
+    "影响产品": "Pimcore Pimcore Admin Classic Bundle",
+    "CVE ID": "CVE-2025-30166",
+    "漏洞描述": "Pimcore Admin Classic Bundle是Pimcore开源的一个Pimcore的核心捆绑包。\nPimcore Admin Classic Bundle存在跨站脚本漏洞，该漏洞源于HTML注入，攻击者可利用该漏洞窃取会话cookie。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/pimcore/admin-ui-classic-bundle/commit/76b690d4f8fcd9c9d41766bc5238c2513242e60e",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://github.com/pimcore/admin-ui-classic-bundle/security/advisories/GHSA-x82r-6j37-vrgg",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/696001",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-18",
+    "收录时间": "2025-06-11",
+    "更新时间": "2025-06-11",
+    "漏洞附件": "(无附件)"
+}
