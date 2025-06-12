@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "GNU Emacs存在未明漏洞",
+    "CNVD-ID": "CNVD-2025-12279",
+    "公开日期": "2025-06-12",
+    "危害级别": "高",
+    "影响产品": "Gnu GNU Emacs <29.4",
+    "CVE ID": "CVE-2024-39331",
+    "漏洞描述": "GNU Emacs是美国GNU社区的一个文本编辑器家族。\nGNU Emacs存在安全漏洞，该漏洞源于指定了不安全的函数。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://git.savannah.gnu.org/cgit/emacs.git/tree/etc/NEWS?h=emacs-29",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://git.savannah.gnu.org/cgit/emacs/org-mode.git/commit/?id=f4cc61636947b5c2f0afc67174dd369fe3277aa8",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/696056",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-06-28",
+    "收录时间": "2025-06-12",
+    "更新时间": "2025-06-12",
+    "漏洞附件": "(无附件)"
+}
