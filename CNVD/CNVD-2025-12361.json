@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Schneider Electric EcoStruxure Power Automation System User Interface授权问题漏洞",
+    "CNVD-ID": "CNVD-2025-12361",
+    "公开日期": "2025-06-12",
+    "危害级别": "高",
+    "影响产品": "Schneider Electric Schneider Electric EcoStruxure Power Automation System User Interface >=v2.1，<=v2.9",
+    "CVE ID": "CVE-2025-0813",
+    "漏洞描述": "Schneider Electric EcoStruxure Power Automation System User Interface是法国施耐德电气（Schneider Electric）公司的一款施耐德电气用于电力自动化系统的用户界面软件。用于操作人员与电力自动化系统交互，提高操作效率。\nSchneider Electric EcoStruxure Power Automation System User Interface存在授权问题漏洞，该漏洞源于身份验证不当，攻击者可利用该漏洞导致未经授权的用户绕过身份验证。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2025-070-02&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2025-070-02.pdf",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2025-070-02&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2025-070-02.pdf",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/696116",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-24",
+    "收录时间": "2025-06-13",
+    "更新时间": "2025-06-13",
+    "漏洞附件": "(无附件)"
+}

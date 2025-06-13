@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SonicWall NetExtender Windows client链接解析不当漏洞",
+    "CNVD-ID": "CNVD-2025-12367",
+    "公开日期": "2025-06-13",
+    "危害级别": "中",
+    "影响产品": "SonicWall SonicWall NetExtender Windows client <=10.3.1",
+    "CVE ID": "CVE-2025-23010",
+    "漏洞描述": "SonicWALL NetExtender Windows client是美国SonicWALL公司的一款基于Windows平台的SSL VPN（虚拟私人网络）客户端应用程序。\nSonicWALL NetExtender Windows client存在链接解析不当漏洞，该漏洞源于不当链接解析，攻击者可利用该漏洞导致文件路径被操纵。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0006",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0006",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/697071",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-25",
+    "收录时间": "2025-06-13",
+    "更新时间": "2025-06-13",
+    "漏洞附件": "(无附件)"
+}
