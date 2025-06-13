@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell PowerProtect DD堆栈缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-12410",
+    "公开日期": "2025-06-13",
+    "危害级别": "低",
+    "影响产品": "DELL PowerProtect DD >=7.10.1.0，<7.10.1.50\nDELL PowerProtect DD >=7.13.1.0，<7.13.1.20",
+    "CVE ID": "CVE-2024-53296",
+    "漏洞描述": "PowerProtect DD是一款由Dell公司提供的数据保护和备份解决方案，旨在提供高效的存储和数据恢复功能。\nDell PowerProtect DD 7.13.1.10及之前版本和7.10.1.40及之前版本存在堆栈缓冲区溢出漏洞，该漏洞源于RestAPI中未能正确处理特定请求。攻击者可以利用该漏洞通过远程访问执行高权限操作，导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-53296",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttps://www.dell.com/support/kbdoc/en-us/000279157/dsa-2025-022-security-update-for-dell-powerprotect-dd-multiple-vulnerabilities",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/697091",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-13",
+    "收录时间": "2025-06-13",
+    "更新时间": "2025-06-13",
+    "漏洞附件": "(无附件)"
+}
