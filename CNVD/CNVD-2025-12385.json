@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Chrome路径遍历漏洞",
+    "CNVD-ID": "CNVD-2025-12385",
+    "公开日期": "2025-06-13",
+    "危害级别": "高",
+    "影响产品": "Google Chrome <134.0.6998.35",
+    "CVE ID": "CVE-2025-1915",
+    "漏洞描述": "Google Chrome是一款由Google公司开发的WEB浏览器。\nGoogle Chrome存在路径遍历漏洞，该漏洞是由于DevTools中的错误引起的。攻击者可利用该漏洞绕过文件访问限制。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-1915",
+    "漏洞解决方案": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/697191",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-10",
+    "收录时间": "2025-06-13",
+    "更新时间": "2025-06-13",
+    "漏洞附件": "(无附件)"
+}
