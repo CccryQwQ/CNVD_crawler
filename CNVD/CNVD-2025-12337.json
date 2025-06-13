@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Framemaker空指针解引用漏洞",
+    "CNVD-ID": "CNVD-2025-12337",
+    "公开日期": "2025-06-10",
+    "危害级别": "中",
+    "影响产品": "Adobe Adobe Framemaker <=2022.6\nAdobe Adobe Framemakers 2020.8",
+    "CVE ID": "CVE-2025-30300",
+    "漏洞描述": "Adobe Framemaker是一款用于编写和编辑大型或复杂文档的页面排版软件。\nAdobe Framemaker中存在空指针解引用漏洞。该漏洞源于对空指针进行解引用操作。攻击者可利用该漏洞使应用程序崩溃，导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-30300",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://helpx.adobe.com/security/products/framemaker/apsb25-33.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/695726",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-11",
+    "收录时间": "2025-06-13",
+    "更新时间": "2025-06-13",
+    "漏洞附件": "(无附件)"
+}
