@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress WP Event Manager文件名控制不当漏洞",
+    "CNVD-ID": "CNVD-2025-12623",
+    "公开日期": "2025-06-16",
+    "危害级别": "高",
+    "影响产品": "WordPress WP Event Manager <=3.1.49",
+    "CVE ID": "CVE-2025-48125",
+    "漏洞描述": "WordPress WP Event Manager 是一个专门为 WordPress 设计的活动管理插件，它允许用户创建、管理和推广各种类型的活动，包括会议、研讨会、展览、派对等‌‌。\nWordPress WP Event Manager存在文件名控制不当漏洞。攻击者可利用该漏洞在受影响的服务器上执行任意PHP代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://patchstack.com/database/wordpress/plugin/wp-event-manager/vulnerability/wordpress-wp-event-manager-3-1-49-local-file-inclusion-vulnerability?_s_id=cve",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/wp-event-manager/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/698431",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-13",
+    "收录时间": "2025-06-16",
+    "更新时间": "2025-06-16",
+    "漏洞附件": "(无附件)"
+}
