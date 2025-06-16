@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mattermost权限问题漏洞",
+    "CNVD-ID": "CNVD-2025-12637",
+    "公开日期": "2025-06-16",
+    "危害级别": "中",
+    "影响产品": "Mattermost Mattermost >=9.9.x，<=9.9.1\nMattermost Mattermost >=9.5.x，<=9.5.7\nMattermost Mattermost >=9.8.x，<=9.8.2\nMattermost Mattermost >=9.10.x，<=9.10.0",
+    "CVE ID": "CVE-2024-42497",
+    "漏洞描述": "Mattermost是美国Mattermost公司的一个开源协作平台。\nMattermost存在权限问题漏洞，该漏洞源于未能正确执行权限，攻击者可利用该漏洞对团队执行写操作。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://mattermost.com/security-updates",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-29",
+    "收录时间": "2025-06-16",
+    "更新时间": "2025-06-16",
+    "漏洞附件": "(无附件)"
+}
