@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Accessibility Suite plugin授权问题漏洞",
+    "CNVD-ID": "CNVD-2025-12617",
+    "公开日期": "2025-06-16",
+    "危害级别": "中",
+    "影响产品": "WordPress Accessibility Suite plugin <=4.19",
+    "CVE ID": "CVE-2025-30636",
+    "漏洞描述": "WordPress Accessibility Suite plugin‌ 是一个专门用于提升网站无障碍性的插件。 \nWordPress Accessibility Suite plugin存在授权问题漏洞，该漏洞源于授权缺失，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://patchstack.com/database/wordpress/plugin/online-accessibility/vulnerability/wordpress-accessibility-suite-4-19-broken-access-control-vulnerability?_s_id=cve",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-10",
+    "收录时间": "2025-06-16",
+    "更新时间": "2025-06-16",
+    "漏洞附件": "(无附件)"
+}
