@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiPortal日志信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-12683",
+    "公开日期": "2025-06-17",
+    "危害级别": "低",
+    "影响产品": "FortiPortal FortiPortal 7.4.0\nFortiPortal FortiPortal >=7.2.0，<=7.2.5\nFortiPortal FortiPortal >=7.0.0，<=7.0.9",
+    "CVE ID": "CVE-2025-46777",
+    "漏洞描述": "Fortinet FortiPortal是美国飞塔（Fortinet）公司的FortiGate、FortiWiFi和FortiAP产品线的高级、功能丰富的托管安全分析和管理支持工具，可作为虚拟机供MSP使用。\nFortinet FortiPortal存在日志信息泄露漏洞，该漏洞源于敏感信息插入日志文件，攻击者可利用该漏洞查看加密秘密。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://fortiguard.fortinet.com/psirt/FG-IR-24-380",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.fortinet.com/cn/products/management/fortiportal",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/698671",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-11",
+    "收录时间": "2025-06-17",
+    "更新时间": "2025-06-17",
+    "漏洞附件": "(无附件)"
+}
