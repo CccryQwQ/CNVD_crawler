@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Raisely Donation Form跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-12703",
+    "公开日期": "2025-06-17",
+    "危害级别": "中",
+    "影响产品": "WordPress Raisely Donation Form <=1.0",
+    "CVE ID": "CVE-2025-3781",
+    "漏洞描述": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。\nWordPress Raisely Donation Form存在跨站脚本漏洞，该漏洞源于raisely_donation_form短码对用户提供属性输入清理和转义不足，攻击者可利用该漏洞注入任意Web脚本。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/raisely-donation-form/trunk/inc/base/providers/shortcodes.php#L46\nhttps://wordpress.org/plugins/raisely-donation-form/#developers\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/0716485b-e94b-4e09-9c01-1059017bfcc8?source=cve",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-17",
+    "收录时间": "2025-06-17",
+    "更新时间": "2025-06-17",
+    "漏洞附件": "(无附件)"
+}
