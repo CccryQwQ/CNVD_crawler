@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "TOTOLINK CP900 cstecgi.cgi文件UploadCustomModule函数缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-12713",
+    "公开日期": "2025-06-17",
+    "危害级别": "高",
+    "影响产品": "TOTOLINK CP900 6.3c.566",
+    "CVE ID": "CVE-2024-7463",
+    "漏洞描述": "TOTOLINK CP900是一款无线路由器。\nTOTOLINK CP900存在缓冲区溢出漏洞，该漏洞源于文件/cgi-bin/cstecgi.cgi的UploadCustomModule函数对File参数的处理不当。攻击者可利用该漏洞导致设备的崩溃、任意代码执行、设备控制权获取，甚至进一步用于攻击其他网络或设备。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/TOTOLINK/CP900/UploadCustomModule.md\nhttps://vuldb.com/?submit.381333\nhttps://vuldb.com/?ctiid.273556",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-05",
+    "收录时间": "2025-06-17",
+    "更新时间": "2025-06-17",
+    "漏洞附件": "(无附件)"
+}
