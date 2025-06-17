@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tenda A15拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2025-12688",
+    "公开日期": "2025-06-17",
+    "危害级别": "中",
+    "影响产品": "Tenda A15 15.13.07.13",
+    "CVE ID": "CVE-2025-4867",
+    "漏洞描述": "Tenda A15是中国腾达（Tenda）公司的一款WiFi扩展器。\nTenda A15存在拒绝服务漏洞，该漏洞源于对文件/goform/ArpNerworkSet的函数formArpNerworkSet错误操作，攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/xubeining/Cve_report/blob/main/Notification%20of%20Denial%20of%20Service%20Vulnerability%20in%20Tenda%20A15%20Router%20(Version%20V15.13.07.13)%20by%20Shenzhen%20Jixiang%20Tenda%20Technology.md",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-22",
+    "收录时间": "2025-06-17",
+    "更新时间": "2025-06-17",
+    "漏洞附件": "(无附件)"
+}
