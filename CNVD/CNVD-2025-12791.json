@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiOS访问控制错误漏洞（CNVD-2025-12791）",
+    "CNVD-ID": "CNVD-2025-12791",
+    "公开日期": "2025-06-16",
+    "危害级别": "高",
+    "影响产品": "Fortinet Inc. FortiOS 7.6.0\nFortinet Inc. FortiOS >=7.4.4，<=7.4.6\nFortinet FortiProxy >=7.6.0，<=7.6.1\nFortinet FortiSwitchManager 7.2.5",
+    "CVE ID": "CVE-2025-22252",
+    "漏洞描述": "Fortinet FortiOS是美国飞塔（Fortinet）公司的一套专用于FortiGate网络安全平台上的安全操作系统。该系统为用户提供防火墙、防病毒、IPSec/SSLVPN、Web内容过滤和反垃圾邮件等多种安全功能。\nFortinet FortiOS存在访问控制错误漏洞，该漏洞源于关键功能缺少认证，攻击者可利用该漏洞导致认证绕过。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-22252",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-24-472",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/698446",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-11",
+    "收录时间": "2025-06-18",
+    "更新时间": "2025-06-18",
+    "漏洞附件": "(无附件)"
+}

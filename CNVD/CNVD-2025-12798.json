@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiClientMAC代码执行漏洞",
+    "CNVD-ID": "CNVD-2025-12798",
+    "公开日期": "2025-06-17",
+    "危害级别": "中",
+    "影响产品": "Fortinet FortiClientMAC >=7.2.0，<=7.2.3\nFortinet FortiClientMAC >=7.0.6，<=7.0.10",
+    "CVE ID": "CVE-2023-45588",
+    "漏洞描述": "Fortinet FortiClientMAC是美国飞塔（Fortinet）公司的一款基于macOS平台的安全防护工具。\nFortinet FortiClientMAC存在代码执行漏洞，该漏洞源于文件名或路径的外部控制，本地攻击者可利用该漏洞在安装过程开始前通过写入恶意配置文件执行任意代码或命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://fortiguard.com/psirt/FG-IR-23-345",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.fortiguard.com/psirt/FG-IR-23-345",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/698711",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-27",
+    "收录时间": "2025-06-18",
+    "更新时间": "2025-06-18",
+    "漏洞附件": "(无附件)"
+}
