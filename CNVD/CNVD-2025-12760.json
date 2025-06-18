@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Samsung MagicINFO 9 Server路径遍历漏洞",
+    "CNVD-ID": "CNVD-2025-12760",
+    "公开日期": "2025-06-17",
+    "危害级别": "高",
+    "影响产品": "Samsung MagicINFO 9 Server <21.1052",
+    "CVE ID": "CVE-2025-4632",
+    "漏洞描述": "Samsung MagicINFO 9 Server是MagicINFO解决方案中的一个核心组件，主要负责内容管理和调度功能。\nSamsung MagicINFO 9 Server存在路径遍历漏洞，该漏洞源于路径名限制不当，攻击者可利用该漏洞以系统权限写入任意文件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://security.samsungtv.com/securityUpdates#SVP-MAY-2025",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.samsung.com/levant/business/display-solutions/magicinfo/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/698751",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-28",
+    "收录时间": "2025-06-18",
+    "更新时间": "2025-06-18",
+    "漏洞附件": "(无附件)"
+}

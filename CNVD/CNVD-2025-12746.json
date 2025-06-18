@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "深圳市吉祥腾达科技有限公司AC6 /goform/setPptpUserList文件缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-12746",
+    "公开日期": "2025-06-18",
+    "危害级别": "高",
+    "影响产品": "深圳市吉祥腾达科技有限公司 AC6 15.03.05.16",
+    "CVE ID": "CVE-2025-5852",
+    "漏洞描述": "AC6是中国腾达（Tenda）公司的一款无线路由器。\n深圳市吉祥腾达科技有限公司AC6 15.03.05.16版本存在缓冲区溢出漏洞，该漏洞源于文件/goform/setPptpUserList中参数list未能正确验证输入数据的长度大小，远程攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://lavender-bicycle-a5a.notion.site/Tenda-AC6-formSetPPTPUserList-20a53a41781f801280e7e2dbdbd8625c?source=copy_link",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.tenda.com.cn/product/help/AC6#download",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/698831",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-17",
+    "收录时间": "2025-06-18",
+    "更新时间": "2025-06-18",
+    "漏洞附件": "(无附件)"
+}

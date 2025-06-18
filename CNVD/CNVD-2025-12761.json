@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mattermost存在未明漏洞",
+    "CNVD-ID": "CNVD-2025-12761",
+    "公开日期": "2025-06-18",
+    "危害级别": "低",
+    "影响产品": "Mattermost Mattermost >=10.5.x，<=10.5.3\nMattermost Mattermost >=9.11.x，<=9.11.11",
+    "CVE ID": "CVE-2025-2570",
+    "漏洞描述": "Mattermost是美国Mattermost公司的一个开源协作平台。\nMattermost存在安全漏洞，该漏洞源于未检查RestrictSystemAdmin设置，攻击者可利用该漏洞导致系统管理员访问ExperimentSettings。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://mattermost.com/security-updates",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/download/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/698871",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-20",
+    "收录时间": "2025-06-18",
+    "更新时间": "2025-06-18",
+    "漏洞附件": "(无附件)"
+}
