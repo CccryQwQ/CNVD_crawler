@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mattermost信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-12803",
+    "公开日期": "2025-06-18",
+    "危害级别": "低",
+    "影响产品": "Mattermost Mattermost >=9.11.x，<=9.11.9\nMattermost Mattermost >=10.4.x，<=10.4.2\nMattermost Mattermost >=10.5.x，<=10.5.0",
+    "CVE ID": "CVE-2025-31363",
+    "漏洞描述": "Mattermost是美国Mattermost公司的一个开源协作平台。\nMattermost存在信息泄露漏洞。该漏洞源于LLM请求域限制不足。攻击者可利用该漏洞在AI插件的Jira工具中执行提示注入，从而访问任意服务器窃取数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://mattermost.com/security-updates",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/download/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/698891",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-25",
+    "收录时间": "2025-06-18",
+    "更新时间": "2025-06-18",
+    "漏洞附件": "(无附件)"
+}
