@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress CryptoCloud - Crypto Payment Gateway plugin权限提升漏洞",
+    "CNVD-ID": "CNVD-2025-12883",
+    "公开日期": "2025-06-19",
+    "危害级别": "中",
+    "影响产品": "WordPress CryptoCloud - Crypto Payment Gateway plugin <=2.1.2",
+    "CVE ID": "CVE-2025-48147",
+    "漏洞描述": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。 \nWordPress CryptoCloud - Crypto Payment Gateway plugin存在权限提升漏洞，该漏洞源于访问控制配置不当，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://patchstack.com/database/wordpress/plugin/cryptocloud-crypto-payment-gateway/vulnerability/wordpress-cryptocloud-crypto-payment-gateway-2-1-2-broken-access-control-vulnerability?_s_id=cve",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/cryptocloud-crypto-payment-gateway/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/699671",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-17",
+    "收录时间": "2025-06-19",
+    "更新时间": "2025-06-19",
+    "漏洞附件": "(无附件)"
+}
