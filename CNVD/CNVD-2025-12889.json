@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Zoom Workplace Apps for Windows权限提升漏洞",
+    "CNVD-ID": "CNVD-2025-12889",
+    "公开日期": "2025-06-19",
+    "危害级别": "低",
+    "影响产品": "Zoom Workplace Apps for Windows",
+    "CVE ID": "CVE-2025-0145",
+    "漏洞描述": "‌ Zoom Workplace Apps for Windows ‌是一款专业的视频会话客户端，专为企业会议打造，是一款移动化、云端化的视频会议软件。\nZoom Workplace Apps for Windows存在权限提升漏洞，该漏洞源于安装程序中存在不受信任的搜索路径。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-0145",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.zoom.com/en/trust/security-bulletin/zsb-25004/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/699656",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-13",
+    "收录时间": "2025-06-19",
+    "更新时间": "2025-06-19",
+    "漏洞附件": "(无附件)"
+}

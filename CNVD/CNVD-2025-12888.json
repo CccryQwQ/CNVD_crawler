@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Zoom Workplace Apps越界写入漏洞",
+    "CNVD-ID": "CNVD-2025-12888",
+    "公开日期": "2025-06-19",
+    "危害级别": "低",
+    "影响产品": "Zoom Workplace Apps",
+    "CVE ID": "CVE-2025-0144",
+    "漏洞描述": "Zoom Workplace Apps是一款应用程序，适用于多个平台，包括Linux、MacOS、Windows、iOS和Android。\nZoom Workplace Apps存在越界写入漏洞，该漏洞源于应用程序在处理特定请求时未能正确验证边界。攻击者可利用该漏洞导致完整性损失。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-0144",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.zoom.com/en/trust/security-bulletin/zsb-25003/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/699651",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-13",
+    "收录时间": "2025-06-19",
+    "更新时间": "2025-06-19",
+    "漏洞附件": "(无附件)"
+}
