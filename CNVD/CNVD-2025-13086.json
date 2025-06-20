@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell BSAFE信任管理问题漏洞",
+    "CNVD-ID": "CNVD-2025-13086",
+    "公开日期": "2025-06-20",
+    "危害级别": "中",
+    "影响产品": "DELL Dell BSAFE <6.6",
+    "CVE ID": "CVE-2024-29171",
+    "漏洞描述": "Dell BSAFE是美国戴尔（Dell）公司的一款安全软件产品，它支持加密算法、证书链验证和传输层安全性（TLS）加密套件等，以帮助用户实现其应用程序的各种安全目标。\nDell BSAFE SSL-J 6.6之前版本存在信任管理问题漏洞，该漏洞源于存在证书验证不当，攻击者可利用该漏洞导致信息泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.dell.com/support/kbdoc/en-us/000226620/dsa-2024-221-security-update-for-dell-bsafe-ssl-j-multiple-vulnerabilities",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000226622/dell-bsafe-ssl-j-6-6-release-advisory",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/699826",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-17",
+    "收录时间": "2025-06-20",
+    "更新时间": "2025-06-20",
+    "漏洞附件": "(无附件)"
+}
