@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "NETGEAR EX8000 action_wireless命令注入漏洞",
+    "CNVD-ID": "CNVD-2025-13404",
+    "公开日期": "2025-06-23",
+    "危害级别": "高",
+    "影响产品": "NETGEAR EX8000 V1.0.0.126",
+    "CVE ID": "CVE-2025-45492",
+    "漏洞描述": "NETGEAR EX8000是一款三频WiFi无线扩展器 ，主要用于扩展WiFi覆盖范围，消除WiFi死角，并提供更快的网络速度。\nNETGEAR EX8000存在命令注入漏洞，该漏洞源于action_wireless函数中Iface参数，攻击者可利用该漏洞执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/JZP018/vuln03/blob/main/netgear/EX8000/cve-netgear_EX8000_CI_action_wireless.pdf",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.netgear.com/support/product/ex8000/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/700416",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-12",
+    "收录时间": "2025-06-25",
+    "更新时间": "2025-06-25",
+    "漏洞附件": "(无附件)"
+}
