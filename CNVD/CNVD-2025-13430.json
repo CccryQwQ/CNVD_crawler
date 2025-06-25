@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "TOTOLINK EX1200T缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-13430",
+    "公开日期": "2025-06-24",
+    "危害级别": "高",
+    "影响产品": "TOTOLINK TOTOLINK EX1200T 4.1.2cu.5232_B20210713",
+    "CVE ID": "CVE-2025-6129",
+    "漏洞描述": "TOTOLINK EX1200T是TOTOLINK公司的一款无线路由器，提供便捷的网络连接和管理功能。\nTOTOLINK EX1200T 4.1.2cu.5232_B20210713版本存在缓冲区溢出漏洞。该漏洞产生的原因是HTTP POST请求处理程序中的/boafrm/formSaveConfig文件在处理submit-url参数时存在缺陷。攻击者可利用该漏洞远程执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?submit.592695\nhttps://www.totolink.net/\nhttps://github.com/byxs0x0/cve2/blob/main/9.md\nhttps://github.com/byxs0x0/cve2/blob/main/9.md#poc\nhttps://vuldb.com/?ctiid.312598\nhttps://vuldb.com/?id.312598",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.totolink.net/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-20",
+    "收录时间": "2025-06-25",
+    "更新时间": "2025-06-25",
+    "漏洞附件": "(无附件)"
+}
