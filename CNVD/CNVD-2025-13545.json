@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "JetBrains Rider存在未明漏洞",
+    "CNVD-ID": "CNVD-2025-13545",
+    "公开日期": "2025-06-26",
+    "危害级别": "中",
+    "影响产品": "JetBrains JetBrains Rider <2025.1.2",
+    "CVE ID": "CVE-2025-43016",
+    "漏洞描述": "JetBrains Rider是捷克JetBrains公司的一套跨平台的.NET集成开发环境（IDE）。\nJetBrains Rider存在安全漏洞，该漏洞源于远程调试会话期间自定义归档解包器允许任意文件覆盖，攻击者可利用该漏洞导致任意文件覆盖。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-43016",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/701801",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-30",
+    "收录时间": "2025-06-26",
+    "更新时间": "2025-06-26",
+    "漏洞附件": "(无附件)"
+}

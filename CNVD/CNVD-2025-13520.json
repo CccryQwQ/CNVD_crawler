@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "D-Link DAP-1320栈缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-13520",
+    "公开日期": "2025-06-26",
+    "危害级别": "高",
+    "影响产品": "D-Link DAP-1320 1.00",
+    "CVE ID": "CVE-2025-1539",
+    "漏洞描述": "D-Link DAP-1320是中国友讯（D-Link）公司的一款无线信号扩展器。\nD-Link DAP-1320存在栈缓冲区溢出漏洞，该漏洞源于文件/storagein.pd-XXXXXX的函数replace_special_char。攻击者可利用该漏洞导致程序崩溃甚至任意代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://legacy.us.dlink.com/pages/product.aspx?id=4b2bbe2e3f1d440ea65bc56c7e3dcc5chttps://tasty-foxtrot-3a8.notion.site/D-link-DAP-1320-replace_special_char-Vulnerability-1960448e6195809c94f9fd2ff1f59bcf?pvs=4https://vuldb.com/?ctiid.296480https://vuldb.com/?id.296480https://vuldb.com/?submit.497496https://www.dlink.com/https://access.redhat.com/security/cve/cve-2025-1539",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2025-03-07",
+    "收录时间": "2025-06-26",
+    "更新时间": "2025-06-26",
+    "漏洞附件": "(无附件)"
+}

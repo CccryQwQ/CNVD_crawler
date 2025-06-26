@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fuji Electric Monitouch V-SFT代码执行漏洞",
+    "CNVD-ID": "CNVD-2025-13532",
+    "公开日期": "2025-06-25",
+    "危害级别": "高",
+    "影响产品": "Fuji Electric Monitouch V-SFT <6.2.3.0",
+    "CVE ID": "CVE-2024-5597",
+    "漏洞描述": "Fuji Electric Monitouch V-SFT是Fuji Electric公司的一款人机界面软件。\nFuji Electric Monitouch V-SFT存在代码执行漏洞，该漏洞源于容易受到类型混淆的影响，攻击者可利用该漏洞导致系统崩溃或执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-151-02",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://felib.fujielectric.co.jp/en/M10009/M20104/document_detail/55ff739b-bd06-4241-b078-3b9c9728bdfd",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/701726",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-06-11",
+    "收录时间": "2025-06-26",
+    "更新时间": "2025-06-26",
+    "漏洞附件": "(无附件)"
+}

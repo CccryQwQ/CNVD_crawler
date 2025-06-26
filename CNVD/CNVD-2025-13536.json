@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fuji Electric TELLUS/TELLUS Lite信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-13536",
+    "公开日期": "2025-06-25",
+    "危害级别": "高",
+    "影响产品": "Fuji Electric TELLUS <=v4.0.17.0\nFuji Electric Tellus Lite <=v4.0.17.0",
+    "CVE ID": "CVE-2023-47582",
+    "漏洞描述": "‌ Fuji Electric （富士电机）‌是一家以大型电气机器为主的日本重电机制造商。\nFuji Electric TELLUS和TELLUS Lite存在信息泄露漏洞，该漏洞源于未初始化指针访问，攻击者可利用该漏洞泄露信息或执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2023-47582",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://monitouch.fujielectric.com/site/download-e/03tellus_inf/index.php",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/701751",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-11-21",
+    "收录时间": "2025-06-26",
+    "更新时间": "2025-06-26",
+    "漏洞附件": "(无附件)"
+}

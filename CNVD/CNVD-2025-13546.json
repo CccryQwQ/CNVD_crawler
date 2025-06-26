@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "JetBrains rubymine存在未明漏洞",
+    "CNVD-ID": "CNVD-2025-13546",
+    "公开日期": "2025-06-26",
+    "危害级别": "中",
+    "影响产品": "JetBrains rubymine <2025.1",
+    "CVE ID": "CVE-2025-43015",
+    "漏洞描述": "JetBrains rubymine是一款用于Ruby开发的集成开发环境（IDE），提供代码编辑、调试等功能。\nJetBrains rubymine存在安全漏洞，该漏洞源于远程解释器覆盖了监听所有接口的端口。攻击者可利用该漏洞导致信息泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.jetbrains.com/privacy-security/issues-fixed/",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/toolbox-app/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/701806",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-22",
+    "收录时间": "2025-06-26",
+    "更新时间": "2025-06-26",
+    "漏洞附件": "(无附件)"
+}
