@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Red Hat Connectivity Link资源管理错误漏洞",
+    "CNVD-ID": "CNVD-2025-14218",
+    "公开日期": "2025-06-27",
+    "危害级别": "中",
+    "影响产品": "Red Hat Red Hat Connectivity Link",
+    "CVE ID": "CVE-2025-25207",
+    "漏洞描述": "Red Hat Connectivity Link是美国红帽（Red Hat）公司的一个Kubernetes网络连接管理平台。\nRed Hat Connectivity Link存在资源管理错误漏洞，该漏洞源于应用存在不受控制的资源消耗，攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://access.redhat.com/security/cve/CVE-2025-25207",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://access.redhat.com/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-23",
+    "收录时间": "2025-06-27",
+    "更新时间": "2025-06-27",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Red Hat Build of Keycloak信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-14215",
+    "公开日期": "2025-06-27",
+    "危害级别": "低",
+    "影响产品": "Red Hat Red Hat Build of Keycloak",
+    "CVE ID": "CVE-2025-5416",
+    "漏洞描述": "Red Hat build of Keycloak是美国红帽（Red Hat）公司的一款用于单点登录的Web应用。\nRed Hat build of Keycloak存在信息泄露漏洞，该漏洞源于/admin/serverinfo端点包含内部服务器详细信息，当经过身份验证的用户尝试直接访问该端点时，会返回401未授权错误，攻击者可利用该漏洞导致信息泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://bugzilla.redhat.com/show_bug.cgi?id=2369601",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://access.redhat.com/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-27",
+    "收录时间": "2025-06-27",
+    "更新时间": "2025-06-27",
+    "漏洞附件": "(无附件)"
+}
