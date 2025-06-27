@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Automation By Autonami plugin输入验证错误漏洞",
+    "CNVD-ID": "CNVD-2025-13882",
+    "公开日期": "2025-06-26",
+    "危害级别": "中",
+    "影响产品": "WordPress Automation By Autonami plugin <=3.6.0",
+    "CVE ID": "CVE-2025-49868",
+    "漏洞描述": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。 \nWordPress Automation By Autonami plugin存在输入验证错误漏洞，该漏洞源于URL重定向不当，导致钓鱼攻击。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://patchstack.com/database/wordpress/plugin/wp-marketing-automations/vulnerability/wordpress-automation-by-autonami-plugin-3-6-0-open-redirection-vulnerability?_s_id=cve",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/wp-marketing-automations/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/702451",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-24",
+    "收录时间": "2025-06-27",
+    "更新时间": "2025-06-27",
+    "漏洞附件": "(无附件)"
+}
