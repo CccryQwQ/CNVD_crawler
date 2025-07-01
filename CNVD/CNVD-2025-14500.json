@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "FreeFloat FTP Server缓冲区溢出漏洞（CNVD-2025-14500）",
+    "CNVD-ID": "CNVD-2025-14500",
+    "公开日期": "2025-07-02",
+    "危害级别": "高",
+    "影响产品": "Freefloat Freefloat FTP Server v1.0",
+    "CVE ID": "CVE-2025-4791",
+    "漏洞描述": "FreeFloat FTP Server是Freefloat的一个FTP服务。\nFreeFloat FTP Server存在缓冲区溢出漏洞，该漏洞源于HASH Command Handler组件未能正确验证输入数据的长度大小，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://fitoxs.com/exploit/exploit-bc230ff2f41a996bdab8ab4072a38e2e99aa486f2d7f50f8f9e983adb7dc4536.txt",
+    "漏洞解决方案": "目前没有详细解决方案提供：\nhttp://freefloat.com/ftpserver",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2025-05-22",
+    "收录时间": "2025-07-01",
+    "更新时间": "2025-07-01",
+    "漏洞附件": "(无附件)"
+}
