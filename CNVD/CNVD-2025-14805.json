@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SONY XAV-AX8500 Bluetooth不正确隔离验证绕过漏洞",
+    "CNVD-ID": "CNVD-2025-14805",
+    "公开日期": "2025-07-01",
+    "危害级别": "中",
+    "影响产品": "SONY XAV-AX8500",
+    "CVE ID": "CVE-2025-5476",
+    "漏洞描述": "SONY XAV-AX8500是一款具有增强功能的汽车AV接收器。\nSONY XAV-AX8500存在验证绕过漏洞，该漏洞源于蓝牙ACL-U链接实现不当，攻击者可利用该漏洞未授权访问系统。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.zerodayinitiative.com/advisories/ZDI-25-357/",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.sony.com/electronics/support/mobile-cd-players-digital-media-players-xav-series/xav-ax8500/downloads",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/703856",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-24",
+    "收录时间": "2025-07-02",
+    "更新时间": "2025-07-02",
+    "漏洞附件": "(无附件)"
+}
