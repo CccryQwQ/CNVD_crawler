@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Ivanti Workspace Control存在未明漏洞",
+    "CNVD-ID": "CNVD-2025-15107",
+    "公开日期": "2025-07-04",
+    "危害级别": "中",
+    "影响产品": "Ivanti Workspace Control <10.19.10.0",
+    "CVE ID": "CVE-2025-22463",
+    "漏洞描述": "Ivanti Workspace Control是Ivanti公司提供的桌面管理解决方案。\nIvanti Workspace Control存在安全漏洞，该漏洞源于硬编码密钥，攻击者可利用该漏洞导对存储环境变量凭据进行解密，获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Workspace-Control-CVE-2025-5353-CVE-CVE-2025-22463-CVE-2025-22455?language=en_US",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.ivanti.com/resources/downloads",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/705241",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-17",
+    "收录时间": "2025-07-04",
+    "更新时间": "2025-07-04",
+    "漏洞附件": "(无附件)"
+}

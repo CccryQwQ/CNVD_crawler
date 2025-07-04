@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Ivanti Neurons for ITSM身份验证绕过漏洞",
+    "CNVD-ID": "CNVD-2025-15110",
+    "公开日期": "2025-07-04",
+    "危害级别": "高",
+    "影响产品": "Ivanti Neurons for ITSM <2023.4\nIvanti Neurons for ITSM <2024.2\nIvanti Neurons for ITSM <2024.3",
+    "CVE ID": "CVE-2025-22462",
+    "漏洞描述": "Ivanti Neurons for ITSM是一款面向 IT服务管理的自动化平台，基于人工智能和机器学习技术，旨在优化IT服务交付流程并提升用户体验。\nIvanti Neurons for ITSM存在身份验证绕过漏洞，攻击者可利用该漏洞获取管理员权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Neurons-for-ITSM-on-premises-only-CVE-2025-22462",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.ivanti.com/products/ivanti-neurons-itsm",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/705256",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-28",
+    "收录时间": "2025-07-04",
+    "更新时间": "2025-07-04",
+    "漏洞附件": "(无附件)"
+}

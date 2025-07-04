@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Enhanced Blocks – Page Builder Blocks for Gutenberg plugin访问控制不当漏洞",
+    "CNVD-ID": "CNVD-2025-15105",
+    "公开日期": "2025-07-04",
+    "危害级别": "中",
+    "影响产品": "WordPress Enhanced Blocks – Page Builder Blocks for Gutenberg plugin <=1.4.1",
+    "CVE ID": "CVE-2025-50034",
+    "漏洞描述": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。 \nWordPress Enhanced Blocks – Page Builder Blocks for Gutenberg plugin存在访问控制不当漏洞，该漏洞源于缺少授权，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://patchstack.com/database/wordpress/plugin/enhanced-blocks/vulnerability/wordpress-enhanced-blocks-page-builder-blocks-for-gutenberg-plugin-1-4-1-broken-access-control-vulnerability?_s_id=cve",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/enhanced-blocks/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/705231",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-27",
+    "收录时间": "2025-07-04",
+    "更新时间": "2025-07-04",
+    "漏洞附件": "(无附件)"
+}
