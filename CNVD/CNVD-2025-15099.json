@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Custom Post Carousels with Owl plugin存在未明漏洞",
+    "CNVD-ID": "CNVD-2025-15099",
+    "公开日期": "2025-07-04",
+    "危害级别": "中",
+    "影响产品": "WordPress Custom Post Carousels with Owl plugin <1.4.12",
+    "CVE ID": "CVE-2025-5125",
+    "漏洞描述": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。 \nWordPress Custom Post Carousels with Owl plugin存在安全漏洞，该漏洞源于未清理data-featherlight属性。攻击者可利用该漏洞导致机密性、完整性受影响。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://wpscan.com/vulnerability/aaf9e3f8-b312-432d-a635-6fe89ff8d13f/",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/dd-post-carousel/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/705031",
+    "验证信息": "已验证",
+    "报送时间": "2025-06-27",
+    "收录时间": "2025-07-04",
+    "更新时间": "2025-07-04",
+    "漏洞附件": "(无附件)"
+}
