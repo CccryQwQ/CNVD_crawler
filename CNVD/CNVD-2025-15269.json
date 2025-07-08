@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell Encryption Admin Utilities不正确链路解析漏洞",
+    "CNVD-ID": "CNVD-2025-15269",
+    "公开日期": "2025-07-08",
+    "危害级别": "中",
+    "影响产品": "DELL Encryption Admin Utilities <11.10.2",
+    "CVE ID": "CVE-2025-36564",
+    "漏洞描述": "Dell Encryption Admin Utilities是美国Dell公司的一款用于数据加密管理和故障排除的软件。\nDell Encryption Admin Utilities 11.10.2之前版本存在不正确链路解析漏洞，攻击者可利用该漏洞提升权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.dell.com/support/kbdoc/en-us/000325203/dsa-2025-224",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000325203/dsa-2025-224",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/706221",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-11",
+    "收录时间": "2025-07-08",
+    "更新时间": "2025-07-08",
+    "漏洞附件": "(无附件)"
+}
