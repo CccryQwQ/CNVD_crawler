@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "GNU Scientific Library存在未明漏洞",
+    "CNVD-ID": "CNVD-2025-15359",
+    "公开日期": "2025-07-09",
+    "危害级别": "低",
+    "影响产品": "Gnu GNU Scientific Library <=2.8",
+    "CVE ID": "CVE-2024-50610",
+    "漏洞描述": "GNU Scientific Library是GNU组织开发的开源数值计算库，提供丰富的数学和科学计算功能，支持C/C++语言开发。\nGNU Scientific Library存在安全漏洞，该漏洞源于siman/siman.c中的gsl_siman_solve_many中存在整数符号错误。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://git.savannah.gnu.org/cgit/gsl.git/log/siman/siman.c",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.gnu.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-31",
+    "收录时间": "2025-07-09",
+    "更新时间": "2025-07-09",
+    "漏洞附件": "(无附件)"
+}

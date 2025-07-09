@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "GNU libcdio缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-15360",
+    "公开日期": "2025-07-09",
+    "危害级别": "高",
+    "影响产品": "Gnu GNU libcdio v2.1.0",
+    "CVE ID": "CVE-2024-36600",
+    "漏洞描述": "GNU libcdio是GNU项目开发的用于访问CD-ROM和CD镜像的函数库，主要用于处理光盘文件系统的读取、目录结构解析等功能。\nGNU libcdio存在缓冲区溢出漏洞，攻击者可利用该漏洞通过精心设计的ISO 9660镜像文件执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/gashasbi/My-Reports/tree/main/CVE-2024-36600",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://git.savannah.gnu.org/cgit/libcdio.git/tree/lib/iso9660/iso9660_fs.c#n814",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/706321",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-06-21",
+    "收录时间": "2025-07-09",
+    "更新时间": "2025-07-09",
+    "漏洞附件": "(无附件)"
+}
