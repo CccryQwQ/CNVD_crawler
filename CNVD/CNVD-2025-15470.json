@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Ivanti Endpoint Manager跨站脚本漏洞（CNVD-2025-15470）",
+    "CNVD-ID": "CNVD-2025-15470",
+    "公开日期": "2025-07-11",
+    "危害级别": "中",
+    "影响产品": "Ivanti Ivanti Endpoint Manager <2024 SU1\nIvanti Ivanti Endpoint Manager <2022 SU7",
+    "CVE ID": "CVE-2025-22465",
+    "漏洞描述": "Ivanti Endpoint Manager是一款企业级端点管理解决方案，主要用于集中管理各类设备（包括Windows、MacOS、Linux、iOS/Android移动设备等），实现统一配置、安全管控和远程运维。\nIvanti Endpoint Manager存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-22465",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://forums.ivanti.com/s/article/Security-Advisory-EPM-April-2025-for-EPM-2024-and-EPM-2022-SU6",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/707061",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-18",
+    "收录时间": "2025-07-11",
+    "更新时间": "2025-07-11",
+    "漏洞附件": "(无附件)"
+}
