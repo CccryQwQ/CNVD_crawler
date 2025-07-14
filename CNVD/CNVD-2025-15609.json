@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cisco Identity Services Engine授权问题漏洞（CNVD-2025-15609）",
+    "CNVD-ID": "CNVD-2025-15609",
+    "公开日期": "2025-07-11",
+    "危害级别": "中",
+    "影响产品": "Cisco Cisco Identity Services Engine",
+    "CVE ID": "CVE-2025-20264",
+    "漏洞描述": "Cisco Identity Services Engine（Cisco ISE）是美国思科（Cisco）公司的一款环境感知平台（ISE身份服务引擎）。该平台通过收集网络、用户和设备中的实时信息，制定并实施相应策略来监管网络。\nCisco Identity Services Engine（Cisco ISE）存在授权问题漏洞，该漏洞源于授权机制不足，攻击者可利用该漏洞导致修改系统设置。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-20264",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-auth-bypass-mVfKVQAU",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/707036",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-04",
+    "收录时间": "2025-07-14",
+    "更新时间": "2025-07-14",
+    "漏洞附件": "(无附件)"
+}

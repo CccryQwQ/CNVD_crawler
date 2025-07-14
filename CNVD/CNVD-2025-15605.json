@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Amazon Products to WooCommerce plugin代码问题漏洞",
+    "CNVD-ID": "CNVD-2025-15605",
+    "公开日期": "2025-07-14",
+    "危害级别": "中",
+    "影响产品": "WordPress Amazon Products to WooCommerce plugin <=1.2.7",
+    "CVE ID": "CVE-2025-5817",
+    "漏洞描述": "WordPress Events Manager插件是一款功能全面的活动管理工具，支持事件注册、票务销售、预订管理及重复事件设置等功能。\nWordPress Amazon Products to WooCommerce plugin存在代码问题漏洞，该漏洞源于函数wcta2w_get_urls验证不足，攻击者可利用该漏洞导致服务端请求伪造。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/import-products-to-wc/trunk/inc/urls-ajax.php#L28",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-11",
+    "收录时间": "2025-07-14",
+    "更新时间": "2025-07-14",
+    "漏洞附件": "(无附件)"
+}
