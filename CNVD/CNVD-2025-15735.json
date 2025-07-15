@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mattermost SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-15735",
+    "公开日期": "2025-07-15",
+    "危害级别": "高",
+    "影响产品": "Mattermost Mattermost >=10.4.x，<= 10.4.1\nMattermost Mattermost >=9.11.x，<= 9.11.7\nMattermost Mattermost >=10.3.x，<= 10.3.2\nMattermost Mattermost >=10.2.x，<= 10.2.2",
+    "CVE ID": "CVE-2025-24490",
+    "漏洞描述": "Mattermost是美国Mattermost公司的一个开源协作平台。\nMattermost存在SQL注入漏洞，该漏洞源于未使用预编译语句，攻击者可利用该漏洞通过特别设计的分类重新排序检索数据库数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-24490",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://mattermost.com/security-updates/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-28",
+    "收录时间": "2025-07-15",
+    "更新时间": "2025-07-15",
+    "漏洞附件": "(无附件)"
+}
