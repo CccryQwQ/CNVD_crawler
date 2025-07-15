@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tenda AC6缓冲区溢出漏洞（CNVD-2025-15722）",
+    "CNVD-ID": "CNVD-2025-15722",
+    "公开日期": "2025-07-15",
+    "危害级别": "高",
+    "影响产品": "Tenda AC6 15.03.05.16",
+    "CVE ID": "CVE-2025-5854",
+    "漏洞描述": "Tenda AC6是腾达推出的双频无线路由器。\nTenda AC6存在缓冲区溢出漏洞，该漏洞源于文件/goform/AdvSetLanip中参数lanMask的操作。攻击者可利用该漏洞远程执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://lavender-bicycle-a5a.notion.site/Tenda-AC6-fromadvsetlanip-20a53a41781f80a29bdff7dca9a4773e?source=copy_link\nhttps://vuldb.com/?ctiid.311600\nhttps://vuldb.com/?id.311600\nhttps://vuldb.com/?submit.591420\nhttps://www.tenda.com.cn/",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/product/help/AC6#download",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/709081",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-12",
+    "收录时间": "2025-07-15",
+    "更新时间": "2025-07-15",
+    "漏洞附件": "(无附件)"
+}
