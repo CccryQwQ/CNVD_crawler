@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tenda RX2 Pro信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-15793",
+    "公开日期": "2025-07-15",
+    "危害级别": "高",
+    "影响产品": "Tenda RX2 Pro 16.03.30.14",
+    "CVE ID": "CVE-2025-46633",
+    "漏洞描述": "Tenda RX2 Pro是中国腾达（Tenda）公司的一款高性能WiFi 6信号放大器。\nTenda RX2 Pro存在信息泄露漏洞，该漏洞源于web管理门户中敏感信息明文传输，攻击者可利用该漏洞解密客户端和服务器之间的流量。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://blog.uturn.dev/#/writeups/iot-village/tenda-rx2pro/README?id=cve-2025-46633-transmission-of-plaintext-symmetric-key-in-",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tendacn.com/us/download/detail-5715.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/709361",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-14",
+    "收录时间": "2025-07-15",
+    "更新时间": "2025-07-15",
+    "漏洞附件": "(无附件)"
+}
