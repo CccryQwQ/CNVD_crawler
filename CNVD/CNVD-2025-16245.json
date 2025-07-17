@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Experience Manager代码问题漏洞（CNVD-2025-16245）",
+    "CNVD-ID": "CNVD-2025-16245",
+    "公开日期": "2025-07-17",
+    "危害级别": "高",
+    "影响产品": "Adobe Experience Manager (AEM) Forms on JEE 6.5.0.0.20250527.0",
+    "CVE ID": "CVE-2025-49533",
+    "漏洞描述": "Adobe Experience Manager是美国奥多比（Adobe）公司的一套可用于构建网站、移动应用程序和表单的内容管理解决方案。该方案支持移动内容管理、营销销售活动管理和多站点管理等。\nAdobe Experience Manager存在代码问题漏洞，该漏洞源于反序列化不可信数据，攻击者可利用该漏洞导致执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://helpx.adobe.com/security/products/aem-forms/apsb25-67.html",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://helpx.adobe.com/security/products/aem-forms/apsb25-67.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/710146",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-15",
+    "收录时间": "2025-07-17",
+    "更新时间": "2025-07-17",
+    "漏洞附件": "(无附件)"
+}
