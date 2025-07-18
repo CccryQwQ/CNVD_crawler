@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tenda Ax1803栈缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-16329",
+    "公开日期": "2025-07-18",
+    "危害级别": "高",
+    "影响产品": "Tenda AX1803 V1.0.0.1",
+    "CVE ID": "CVE-2025-7597",
+    "漏洞描述": "Tenda Ax1803是腾达公司推出的固件产品，它提供了一系列功能用于网络设备的设置和管理。用户可以通过Tenda Ax1803 Firmware进行网络配置、管理路由器等操作，方便实用。\nTenda Ax1803存在栈缓冲区溢出漏洞。该漏洞源于文件/goform/setMacFilterCfg中参数deviceList的错误操作导致栈缓冲区溢出。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/panda666-888/vuls/blob/main/tenda/ax1803/formSetMacFilterCfg.md\nhttps://github.com/panda666-888/vuls/blob/main/tenda/ax1803/formSetMacFilterCfg.md#poc\nhttps://vuldb.com/?ctiid.316296\nhttps://vuldb.com/?id.316296\nhttps://vuldb.com/?submit.615268\nhttps://www.tenda.com.cn/",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新: \nhttps://www.tenda.com.cn/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-18",
+    "收录时间": "2025-07-18",
+    "更新时间": "2025-07-18",
+    "漏洞附件": "(无附件)"
+}
