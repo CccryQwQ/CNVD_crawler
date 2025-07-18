@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress GB Forms DB plugin代码注入漏洞",
+    "CNVD-ID": "CNVD-2025-16371",
+    "公开日期": "2025-07-18",
+    "危害级别": "高",
+    "影响产品": "WordPress GB Forms DB plugin <=1.0.2",
+    "CVE ID": "CVE-2025-5392",
+    "漏洞描述": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。 \nWordPress GB Forms DB plugin存在代码注入漏洞，该漏洞源于gbfdb_talk_to_front函数接受用户输入并通过call_user_func传递，攻击者可利用该漏洞导致远程代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/gb-forms-db/trunk/core/functions.php#L334",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/gb-forms-db",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/710576",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-18",
+    "收录时间": "2025-07-18",
+    "更新时间": "2025-07-18",
+    "漏洞附件": "(无附件)"
+}
