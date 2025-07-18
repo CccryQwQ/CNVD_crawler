@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tenda AC10缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-16320",
+    "公开日期": "2025-07-18",
+    "危害级别": "中",
+    "影响产品": "Tenda AC10 4.0\nTenda AC10 16.03.10.13\nTenda AC10 16.03.10.20",
+    "CVE ID": "CVE-2024-32317",
+    "漏洞描述": "Tenda A18是推出的双频千兆无线路由器，主要面向200M及以上光纤用户。\nTenda AC10存在缓冲区溢出漏洞，该漏洞源于formWanParameterSetting方法的adslPwd参数未能正确验证输入数据的长度大小，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/AC10/V16.03.10.13/formWanParameterSetting.md",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-3506.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/710301",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-04-22",
+    "收录时间": "2025-07-18",
+    "更新时间": "2025-07-18",
+    "漏洞附件": "(无附件)"
+}
