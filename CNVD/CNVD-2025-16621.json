@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens SICAM TOOLBOX II信任管理问题漏洞（CNVD-2025-16621）",
+    "CNVD-ID": "CNVD-2025-16621",
+    "公开日期": "2025-07-22",
+    "危害级别": "高",
+    "影响产品": "Siemens SICAM TOOLBOX II <v07.11",
+    "CVE ID": "CVE-2024-31854",
+    "漏洞描述": "Siemens SICAM TOOLBOX II是德国西门子（Siemens）公司的一款工程软件。\nSiemens SICAM TOOLBOX II存在信任管理问题漏洞，该漏洞源于未检查设备证书的通用名称，攻击者可利用该漏洞导致中间人攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-183963.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.industry.siemens.com/cs/document/109822197/sicam-toolbox-ii-v07-10-and-v07-11-package?lc=en-ww",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/711126",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-21",
+    "收录时间": "2025-07-22",
+    "更新时间": "2025-07-22",
+    "漏洞附件": "(无附件)"
+}
