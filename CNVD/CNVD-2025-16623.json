@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens TIA Administrator访问控制错误漏洞",
+    "CNVD-ID": "CNVD-2025-16623",
+    "公开日期": "2025-07-22",
+    "危害级别": "中",
+    "影响产品": "Siemens TIA Administrator <3.0.6",
+    "CVE ID": "CVE-2025-23365",
+    "漏洞描述": "Siemens TIA Administrator是德国西门子（Siemens）公司的一款用于授权和许可SIMATIC产品的管理程序。\nSiemens TIA Administrator存在访问控制错误漏洞，攻击者可利用该漏洞导致权限提升和任意代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-573669.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.industry.siemens.com/cs/document/109825038/tia-administrator-updates?dti=0&lc=en-WW",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/711141",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-21",
+    "收录时间": "2025-07-22",
+    "更新时间": "2025-07-22",
+    "漏洞附件": "(无附件)"
+}

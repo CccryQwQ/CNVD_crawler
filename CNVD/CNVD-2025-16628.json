@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Siemens Solid Edge SE2025越界读取漏洞（CNVD-2025-16628）",
+    "CNVD-ID": "CNVD-2025-16628",
+    "公开日期": "2025-07-22",
+    "危害级别": "高",
+    "影响产品": "Siemens Solid Edge SE2025 <V225.0 Update 5",
+    "CVE ID": "CVE-2025-40739",
+    "漏洞描述": "Siemens Solid Edge SE2025是德国西门子（Siemens）公司的一款开发软件。\nSiemens Solid Edge SE2025存在越界读取漏洞，攻击者可利用该漏洞在当前进程的上下文中执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cert-portal.siemens.com/productcert/html/ssa-091753.html",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://cert-portal.siemens.com/productcert/html/ssa-091753.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/711161",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-15",
+    "收录时间": "2025-07-22",
+    "更新时间": "2025-07-22",
+    "漏洞附件": "(无附件)"
+}
