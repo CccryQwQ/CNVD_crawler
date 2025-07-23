@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft SharePoint Server欺骗漏洞（CNVD-2025-16687）",
+    "CNVD-ID": "CNVD-2025-16687",
+    "公开日期": "2025-07-23",
+    "危害级别": "中",
+    "影响产品": "Microsoft SharePoint Enterprise Server 2016 \nMicrosoft SharePoint Server 2019 \nMicrosoft SharePoint Server Subscription Edition <16.0.18526.20424",
+    "CVE ID": "CVE-2025-49706",
+    "漏洞描述": "SharePoint Server是微软提供的本地部署的企业协作平台，支持内容共享、知识管理和应用整合，可与 Microsoft 365订阅无缝对接以获取最新功能。\nMicrosoft SharePoint Server存在欺骗漏洞，该漏洞源于Microsoft Office SharePoint不当的身份验证，攻击者可利用漏洞通过网络发起欺骗攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-49706",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49706",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/711406",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-21",
+    "收录时间": "2025-07-23",
+    "更新时间": "2025-07-23",
+    "漏洞附件": "(无附件)"
+}
