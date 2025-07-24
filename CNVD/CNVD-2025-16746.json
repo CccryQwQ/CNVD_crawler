@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IrfanView CADImage Plugin缓冲区溢出漏洞（CNVD-2025-16746）",
+    "CNVD-ID": "CNVD-2025-16746",
+    "公开日期": "2025-07-24",
+    "危害级别": "高",
+    "影响产品": "IrfanView CADImage Plugin 4.70",
+    "CVE ID": "CVE-2025-7303",
+    "漏洞描述": "IrfanView CADImage Plugin是IrfanView公司的一个CAD插件。\nIrfanView CADImage Plugin存在缓冲区溢出漏洞，该漏洞源于解析DWG文件时缺少对用户提供数据的验证，攻击者可利用该漏洞在当前进程的上下文中执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.zerodayinitiative.com/advisories/ZDI-25-550/",
+    "漏洞解决方案": "用户可联系供应商获得补丁信息：\nhttps://www.irfanview.com/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/711981",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-23",
+    "收录时间": "2025-07-24",
+    "更新时间": "2025-07-24",
+    "漏洞附件": "(无附件)"
+}

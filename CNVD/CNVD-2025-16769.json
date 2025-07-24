@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell Client Platform BIOS访问控制错误漏洞",
+    "CNVD-ID": "CNVD-2025-16769",
+    "公开日期": "2025-07-24",
+    "危害级别": "中",
+    "影响产品": "DELL Dell Client Platform BIOS",
+    "CVE ID": "CVE-2025-36600",
+    "漏洞描述": "Dell Client Platform BIOS是美国戴尔（Dell）公司的一个客户端平台BIOS。\nDell Client Platform BIOS存在访问控制错误漏洞，该漏洞源于外部开发组件中对镜像或别名内存区域的访问控制不当，攻击者可利用该漏洞导致代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-36600",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000320876/dsa-2025-205",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/712086",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-21",
+    "收录时间": "2025-07-24",
+    "更新时间": "2025-07-24",
+    "漏洞附件": "(无附件)"
+}
