@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Birth Chart Compatibility plugin信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-16818",
+    "公开日期": "2025-07-25",
+    "危害级别": "中",
+    "影响产品": "WordPress Birth Chart Compatibility plugin <=2.0",
+    "CVE ID": "CVE-2025-6082",
+    "漏洞描述": "WordPress Birth Chart Compatibility plugin是一款用于测试星座配对兼容性的工具。\nWordPress Birth Chart Compatibility plugin存在信息泄露漏洞，该漏洞源于直接访问index.php文件导致完整路径泄露，攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.svn.wordpress.org/birth-chart-compatibility/trunk/index.php",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-25",
+    "收录时间": "2025-07-25",
+    "更新时间": "2025-07-25",
+    "漏洞附件": "(无附件)"
+}

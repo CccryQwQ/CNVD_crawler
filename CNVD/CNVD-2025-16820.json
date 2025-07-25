@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Extensions For CF7 Plugin路径遍历漏洞",
+    "CNVD-ID": "CNVD-2025-16820",
+    "公开日期": "2025-07-25",
+    "危害级别": "高",
+    "影响产品": "WordPress Extensions For CF7 Plugin <=3.2.8",
+    "CVE ID": "CVE-2025-7645",
+    "漏洞描述": "WordPress Extensions For CF7 Plugin是一款扩展Contact Form 7功能的插件，主要用于增强原生表单的数据库管理、条件逻辑处理和用户引导能力。\nWordPress Extensions For CF7 Plugin存在路径遍历漏洞，该漏洞源于delete-file字段文件路径验证不足。攻击者可利用该漏洞导致任意文件删除。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/changeset?sfp_email=&sfph_mail=&reponame=&old=3330857%40extensions-for-cf7&new=3330857%40extensions-for-cf7&sfp_email=&sfph_mail=",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/extensions-for-cf7/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/712291",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-25",
+    "收录时间": "2025-07-25",
+    "更新时间": "2025-07-25",
+    "漏洞附件": "(无附件)"
+}

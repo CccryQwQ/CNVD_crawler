@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress bSecure plugin权限提升漏洞",
+    "CNVD-ID": "CNVD-2025-16819",
+    "公开日期": "2025-07-25",
+    "危害级别": "高",
+    "影响产品": "WordPress bSecure plugin >=1.3.7，<=1.7.9",
+    "CVE ID": "CVE-2025-6187",
+    "漏洞描述": "WordPress bSecure plugin是用于增强网站安全性的插件，主要针对GiveWP的支付页面提供安全防护功能。\nWordPress bSecure plugin存在权限提升漏洞，，该漏洞源于order_info REST端点缺少授权，攻击者可利用该漏洞导致权限提升。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/bsecure/tags/1.7.9/includes/class-bsecure-checkout.php",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-25",
+    "收录时间": "2025-07-25",
+    "更新时间": "2025-07-25",
+    "漏洞附件": "(无附件)"
+}

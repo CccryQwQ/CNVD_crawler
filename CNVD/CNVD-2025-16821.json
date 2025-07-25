@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Latest Post Accordian Slider plugin跨站请求伪造漏洞",
+    "CNVD-ID": "CNVD-2025-16821",
+    "公开日期": "2025-07-25",
+    "危害级别": "中",
+    "影响产品": "WordPress Latest Post Accordian Slider plugin <=1.3",
+    "CVE ID": "CVE-2025-7687",
+    "漏洞描述": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。 \n WordPress Latest Post Accordian Slider plugin存在跨站请求伪造漏洞，该漏洞源于lpaccordian页面缺少随机数验证。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/latest-post-accordian-slider/trunk/lpaccordian.php",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/latest-post-accordian-slider/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/712591",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-25",
+    "收录时间": "2025-07-25",
+    "更新时间": "2025-07-25",
+    "漏洞附件": "(无附件)"
+}
