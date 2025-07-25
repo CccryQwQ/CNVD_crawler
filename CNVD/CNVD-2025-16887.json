@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "JetBrains TeamCity访问控制不当漏洞",
+    "CNVD-ID": "CNVD-2025-16887",
+    "公开日期": "2025-07-25",
+    "危害级别": "中",
+    "影响产品": "JetBrains JetBrains TeamCity <2022.04.7\nJetBrains JetBrains TeamCity <2022.10.6\nJetBrains JetBrains TeamCity <2023.05.6\nJetBrains JetBrains TeamCity <2023.11.5",
+    "CVE ID": "CVE-2024-36364",
+    "漏洞描述": "JetBrains TeamCity是捷克JetBrains公司的一套分布式构建管理和持续集成工具。该工具提供持续单元测试、代码质量分析和构建问题分析报告等功能。\nJetBrains TeamCity存在访问控制不当漏洞。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-36364",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.jetbrains.com/privacy-security/issues-fixed/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/712771",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-05-30",
+    "收录时间": "2025-07-25",
+    "更新时间": "2025-07-25",
+    "漏洞附件": "(无附件)"
+}
