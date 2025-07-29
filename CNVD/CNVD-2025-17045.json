@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tenda FH1203 fromDhcpListClient方法page参数缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-17045",
+    "公开日期": "2025-07-29",
+    "危害级别": "高",
+    "影响产品": "Tenda FH1203 V2.0.1.6",
+    "CVE ID": "CVE-2024-30606",
+    "漏洞描述": "Tenda FH1203是中国腾达推出的双频无线路由器，主要用于家庭网络覆盖。\nTenda FH1203存在缓冲区溢出漏洞，该漏洞源于fromDhcpListClient方法的page参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/FH/FH1203/fromDhcpListClient_page.md",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-2495.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/713181",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-04-03",
+    "收录时间": "2025-07-29",
+    "更新时间": "2025-07-29",
+    "漏洞附件": "(无附件)"
+}
