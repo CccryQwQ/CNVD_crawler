@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tenda AC20缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-17008",
+    "公开日期": "2025-07-29",
+    "危害级别": "高",
+    "影响产品": "Tenda AC20 <=16.03.08.12",
+    "CVE ID": "CVE-2025-8160",
+    "漏洞描述": "Tenda AC20是一款双频无线路由器，支持IPv6协议，采用三核1GHz主控芯片，配备6根6dBi外置天线，最高无线传输速率达2033Mbps。\nTenda AC20存在缓冲区溢出漏洞，该漏洞源于httpd组件/goform/SetSysTimeCfg文件中对timeZone参数处理不当。攻击者可利用该漏洞执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.317574\nhttps://vuldb.com/?ctiid.317574\nhttps://vuldb.com/?submit.620625\nhttps://github.com/CH13hh/cve/blob/main/tenda1.md\nhttps://www.tenda.com.cn/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-28",
+    "收录时间": "2025-07-29",
+    "更新时间": "2025-07-29",
+    "漏洞附件": "(无附件)"
+}
