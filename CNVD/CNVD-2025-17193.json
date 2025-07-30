@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Traveler plugin SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-17193",
+    "公开日期": "2025-07-30",
+    "危害级别": "高",
+    "影响产品": "WordPress Traveler plugin <3.2.2",
+    "CVE ID": "CVE-2025-52714",
+    "漏洞描述": "WordPress Traveler plugin是一款专为旅行行业设计的WordPress插件 ，主要用于创建旅行和徒步网站，支持在线预订系统、行程管理等功能。\nWordPress Traveler plugin存在SQL注入漏洞，该漏洞源于应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://patchstack.com/database/wordpress/theme/traveler/vulnerability/wordpress-traveler-3-2-2-sql-injection-vulnerability?_s_id=cve",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/713536",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-25",
+    "收录时间": "2025-07-30",
+    "更新时间": "2025-07-30",
+    "漏洞附件": "(无附件)"
+}
