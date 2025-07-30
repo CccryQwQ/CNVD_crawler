@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Azure Machine Learning权限提升漏洞（CNVD-2025-17136）",
+    "CNVD-ID": "CNVD-2025-17136",
+    "公开日期": "2025-07-28",
+    "危害级别": "高",
+    "影响产品": "Microsoft Azure Machine Learning",
+    "CVE ID": "CVE-2025-49746",
+    "漏洞描述": "Microsoft Azure Machine Learning是美国微软（Microsoft）公司的机器学习服务平台。\nMicrosoft Azure Machine Learning存在安全漏洞，攻击者可利用该漏洞可能导致权限提升。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-49746",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49746",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/712966",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-25",
+    "收录时间": "2025-07-30",
+    "更新时间": "2025-07-30",
+    "漏洞附件": "(无附件)"
+}

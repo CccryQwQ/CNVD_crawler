@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft PC Manager访问控制错误漏洞（CNVD-2025-17139）",
+    "CNVD-ID": "CNVD-2025-17139",
+    "公开日期": "2025-07-28",
+    "危害级别": "中",
+    "影响产品": "Microsoft Windows Server 2022 \nMicrosoft Window 11 24H2\nMicrosoft Windows Server 2025",
+    "CVE ID": "CVE-2025-47993",
+    "漏洞描述": "Microsoft PC Manager是美国微软（Microsoft）公司的一款电脑管理软件，可以一键加速，系统空间管理，弹窗管理，全面体检等功能。\nMicrosoft PC Manager存在访问控制错误漏洞。攻击者利用该漏洞可以提升权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-47993",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47993",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/713011",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-21",
+    "收录时间": "2025-07-30",
+    "更新时间": "2025-07-30",
+    "漏洞附件": "(无附件)"
+}

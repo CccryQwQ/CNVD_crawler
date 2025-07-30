@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Experience Manager跨站脚本漏洞（CNVD-2025-17110）",
+    "CNVD-ID": "CNVD-2025-17110",
+    "公开日期": "2025-07-28",
+    "危害级别": "中",
+    "影响产品": "Adobe Adobe Experience Manager <=6.5.22",
+    "CVE ID": "CVE-2025-47053",
+    "漏洞描述": "Adobe Experience Manager是Adobe公司推出的企业级内容管理解决方案‌，旨在帮助企业高效构建、管理和交付多渠道数字内容与个性化体验。\nAdobe Experience Manager存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-47053",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/experience-manager/apsb25-48.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/712866",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-25",
+    "收录时间": "2025-07-30",
+    "更新时间": "2025-07-30",
+    "漏洞附件": "(无附件)"
+}
