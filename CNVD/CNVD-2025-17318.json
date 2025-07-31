@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Restaurant Menu by MotoPress跨站请求伪造漏洞",
+    "CNVD-ID": "CNVD-2025-17318",
+    "公开日期": "2025-07-31",
+    "危害级别": "中",
+    "影响产品": "WordPress Restaurant Menu by MotoPress <=2.4.6",
+    "CVE ID": "CVE-2025-54038",
+    "漏洞描述": "WordPress Restaurant Menu by MotoPress是一款专为餐饮行业设计的菜单插件，支持免费下载并可通过添加付费扩展功能增强。\nWordPress Restaurant Menu by MotoPress存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户，攻击者可利用该漏洞通过用户已登录目标网站后，诱使用户访问攻击页面，发起伪造操作。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-54038",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/mp-restaurant-menu/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/714416",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-23",
+    "收录时间": "2025-07-31",
+    "更新时间": "2025-07-31",
+    "漏洞附件": "(无附件)"
+}
