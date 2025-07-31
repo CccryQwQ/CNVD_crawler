@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress AI Engine信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-17309",
+    "公开日期": "2025-07-31",
+    "危害级别": "中",
+    "影响产品": "WordPress AI Engine <=2.9.4",
+    "CVE ID": "CVE-2025-7780",
+    "漏洞描述": "WordPress AI Engine是一款基于OpenAI技术的插件，主要用于将人工智能功能集成到WordPress网站中，提升内容生成、自动化运营等效率。\nWordPress AI Engine存在信息泄露漏洞，该漏洞源于simpleTranscribeAudio端点未限制URL方案，攻击者可利用该漏洞通过读取Web服务器上的任何文件，并通过插件的OpenAI API集成将其泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-7780",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/ai-engine",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/714401",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-30",
+    "收录时间": "2025-07-31",
+    "更新时间": "2025-07-31",
+    "漏洞附件": "(无附件)"
+}

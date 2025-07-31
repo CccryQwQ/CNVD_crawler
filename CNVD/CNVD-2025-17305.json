@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Voltax Video Player跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-17305",
+    "公开日期": "2025-07-31",
+    "危害级别": "中",
+    "影响产品": "WordPress Voltax Video Player <=1.6.5",
+    "CVE ID": "CVE-2025-6539",
+    "漏洞描述": "WordPress Voltax Video Player是WordPress平台的一款视频插件，由Minute Media开发，主要用于将Minute Media在线视频平台中的视频和播放列表嵌入到WordPress网站。\nWordPress Voltax Video Player存在跨站脚本漏洞，该漏洞源于输入清理和输出转义不足，攻击者可利用该漏洞通过在用户浏览器中注入恶意脚本，这些脚本将在用户访问注入的页面时执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-6539",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-30",
+    "收录时间": "2025-07-31",
+    "更新时间": "2025-07-31",
+    "漏洞附件": "(无附件)"
+}
