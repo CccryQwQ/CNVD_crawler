@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress JetFormBuilder反序列化漏洞",
+    "CNVD-ID": "CNVD-2025-17276",
+    "公开日期": "2025-07-30",
+    "危害级别": "高",
+    "影响产品": "WordPress JetFormBuilder <=3.5.1.2",
+    "CVE ID": "CVE-2025-53990",
+    "漏洞描述": "WordPress JetFormBuilder是WordPress平台的一款免费插件，主要用于通过拖放式界面快速构建各类表单，支持Gutenberg编辑器设计。\nWordPress JetFormBuilder存在反序列化漏洞，该漏洞源于反序列化不可信数据，攻击者可利用该漏洞导致对象注入。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-53990",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/jetformbuilder/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/713541",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-23",
+    "收录时间": "2025-07-31",
+    "更新时间": "2025-07-31",
+    "漏洞附件": "(无附件)"
+}
