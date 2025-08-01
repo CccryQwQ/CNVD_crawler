@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "D-Link DI-8400空指针取消引用漏洞",
+    "CNVD-ID": "CNVD-2025-17381",
+    "公开日期": "2025-08-01",
+    "危害级别": "中",
+    "影响产品": "D-Link DI-8400 16.07.26A1",
+    "CVE ID": "CVE-2025-8175",
+    "漏洞描述": "D-Link DI-8400是D-Link公司推出的专为中大型企业网络环境设计的上网行为管理路由器，支持360台用户并行接入，采用全千兆端口配置。\nD-Link DI-8400存在空指针取消引用漏洞，该漏洞源于jhttpd组件的usb_paswd.asp文件中share_enable参数处理不当。攻击者可利用该漏洞导致服务崩溃。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.317589\nhttps://vuldb.com/?ctiid.317589\nhttps://vuldb.com/?submit.621708\nhttps://github.com/Kriswu1337/CVE/blob/main/DI_8400%20Null%20pointer%20dereference%20vulnerability.md\nhttps://www.dlink.com/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-28",
+    "收录时间": "2025-08-01",
+    "更新时间": "2025-08-01",
+    "漏洞附件": "(无附件)"
+}
