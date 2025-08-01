@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tenda AC8V4缓冲区溢出漏洞（CNVD-2025-17345）",
+    "CNVD-ID": "CNVD-2025-17345",
+    "公开日期": "2025-07-31",
+    "危害级别": "中",
+    "影响产品": "Tenda AC8V4 V16.03.34.06",
+    "CVE ID": "CVE-2025-51085",
+    "漏洞描述": "Tenda AC8V4是中国腾达（Tenda）公司的一款无线路由器。 \nTenda AC8V4存在缓冲区溢出漏洞，该漏洞源于/goform/SetSysTimeCfg中timeZone和timeType参数存在栈缓冲区溢出，攻击者可利用该漏洞使应用程序崩溃。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/TL-SN/IOT/blob/main/Tenda/Tenda-AC8v4%20%20V16.03.34.06/CVE-2025-51085.md",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/download/detail-3683.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/714496",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-29",
+    "收录时间": "2025-08-01",
+    "更新时间": "2025-08-01",
+    "漏洞附件": "(无附件)"
+}
