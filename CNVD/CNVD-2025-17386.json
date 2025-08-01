@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "D-Link DIR-645命令注入漏洞",
+    "CNVD-ID": "CNVD-2025-17386",
+    "公开日期": "2025-08-01",
+    "危害级别": "中",
+    "影响产品": "D-Link DIR-645 <=1.05B01",
+    "CVE ID": "CVE-2025-7192",
+    "漏洞描述": "D-Link DIR-645是D-Link公司于2012年推出的面向家庭及中小企业用户的千兆无线路由器。\nD-Link DIR-645存在命令注入漏洞，该漏洞源于组件ssdpcgi中文件/htdocs/cgibin函数ssdpcgi_main未能正确过滤构造命令特殊字符、命令等。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/Thir0th/Thir0th-CVE/blob/main/D-Link%20DIR%E2%80%91645%20A1%20has%20a%20remote%20arbitrary%20command%20execution%20vulnerability%20in%20ssdpcgi.md",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dlink.com/en",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-21",
+    "收录时间": "2025-08-01",
+    "更新时间": "2025-08-01",
+    "漏洞附件": "(无附件)"
+}
