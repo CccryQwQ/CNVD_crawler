@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "TOTOLINK A702R缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-17436",
+    "公开日期": "2025-08-01",
+    "危害级别": "高",
+    "影响产品": "TOTOLINK A702R 4.0.0B20230721.1521",
+    "CVE ID": "CVE-2025-8138",
+    "漏洞描述": "TOTOLINK A702R是中国吉翁电子推出的无线路由器型号，主要功能包括双频段（2.4GHz/5.8GHz）网络连接、最高1200Mbps传输速率、4根5dBi天线以及内置防火墙等。\nTOTOLINK A702R存在缓冲区溢出漏洞，该漏洞源于HTTP POST请求处理组件中/boafrm/formOneKeyAccessButton文件的submit-url参数未进行有效边界检查。攻击者可利用该漏洞导致设备拒绝服务或执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.317534\nhttps://vuldb.com/?ctiid.317534\nhttps://vuldb.com/?submit.620484\nhttps://github.com/panda666-888/vuls/blob/main/totolink/a702r/formOneKeyAccessButton.md\nhttps://www.totolink.net/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000258904/dsa-2024-488-security-update-for-dell-nativeedge-multiple-vulnerabilities",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-28",
+    "收录时间": "2025-08-04",
+    "更新时间": "2025-08-04",
+    "漏洞附件": "(无附件)"
+}
