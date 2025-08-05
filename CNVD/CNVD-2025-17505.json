@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "GNU Binutils bfd_elf_set_group_contents函数缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-17505",
+    "公开日期": "2025-08-04",
+    "危害级别": "中",
+    "影响产品": "Gnu GNU Binutils 2.45",
+    "CVE ID": "CVE-2025-7546",
+    "漏洞描述": "GNU Binutils是一组用于处理二进制文件（如目标文件、可执行文件、库文件等）的开源工具集，主要用于编译、调试、逆向工程等领域。\nGNU Binutils存在缓冲区溢出漏洞，该漏洞源于文件bfd/elf.c中函数bfd_elf_set_group_contents未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://sourceware.org/bugzilla/attachment.cgi?id=16118",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://ftp.gnu.org/gnu/binutils/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/714881",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-25",
+    "收录时间": "2025-08-05",
+    "更新时间": "2025-08-05",
+    "漏洞附件": "(无附件)"
+}

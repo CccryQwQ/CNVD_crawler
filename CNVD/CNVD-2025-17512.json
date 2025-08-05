@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "DELL PowerProtect DD路径遍历漏洞",
+    "CNVD-ID": "CNVD-2025-17512",
+    "公开日期": "2025-08-04",
+    "危害级别": "中",
+    "影响产品": "DELL PowerProtect DD <8.3.0.0\nDELL PowerProtect DD <7.10.1.50\nDELL PowerProtect DD  <7.13.1.20",
+    "CVE ID": "CVE-2024-51534",
+    "漏洞描述": "DELL PowerProtect DD是戴尔推出的数据保护存储设备系列，基于Data Domain平台构建，专为企业级用户设计。\nDELL PowerProtect DD存在路径遍历漏洞，攻击者可利用该漏洞非法覆盖服务器文件系统中的操作系统文件，导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-51534",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000279157/dsa-2025-022-security-update-for-dell-powerprotect-dd-multiple-vulnerabilities",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/714746",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-10",
+    "收录时间": "2025-08-05",
+    "更新时间": "2025-08-05",
+    "漏洞附件": "(无附件)"
+}

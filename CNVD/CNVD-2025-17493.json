@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Word代码执行漏洞（CNVD-2025-17493）",
+    "CNVD-ID": "CNVD-2025-17493",
+    "公开日期": "2025-08-04",
+    "危害级别": "高",
+    "影响产品": "Microsoft Office 2019 for Mac \nMicrosoft 365 Apps for Enterprise",
+    "CVE ID": "CVE-2021-36941",
+    "漏洞描述": "Microsoft Word是美国微软（Microsoft）公司的一套Office套件中的文字处理软件。\nMicrosoft Word存在代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-36941",
+    "漏洞解决方案": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-36941",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/715101",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2021-08-16",
+    "收录时间": "2025-08-05",
+    "更新时间": "2025-08-05",
+    "漏洞附件": "(无附件)"
+}

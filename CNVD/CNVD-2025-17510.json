@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell SupportAssist OS Recovery符号链接攻击漏洞",
+    "CNVD-ID": "CNVD-2025-17510",
+    "公开日期": "2025-08-04",
+    "危害级别": "中",
+    "影响产品": "DELL Dell SupportAssist OS Recovery <5.5.13.1",
+    "CVE ID": "CVE-2025-22480",
+    "漏洞描述": "Dell SupportAssist OS Recovery是戴尔电脑内置的恢复工具，主要用于解决系统问题或硬件故障。\nDell SupportAssist OS Recovery存在符号链接攻击漏洞，攻击者可利用该漏洞导致任意文件删除和权限提升。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-22480",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000275712/dsa-2025-051",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/714846",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-18",
+    "收录时间": "2025-08-05",
+    "更新时间": "2025-08-05",
+    "漏洞附件": "(无附件)"
+}

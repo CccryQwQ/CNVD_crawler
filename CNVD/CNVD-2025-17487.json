@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Word信息泄露漏洞（CNVD-2025-17487）",
+    "CNVD-ID": "CNVD-2025-17487",
+    "公开日期": "2025-08-04",
+    "危害级别": "低",
+    "影响产品": "Microsoft Office Web Apps Server 2013 SP1\nMicrosoft Word 2016 \nMicrosoft Office Online Server \nMicrosoft SharePoint Enterprise Server 2016  \nMicrosoft SharePoint Enterprise Server 2013 Service Pack 1\nMicrosoft Word 2013 RT Service Pack 1\nMicrosoft Microsoft SharePoint Enterprise Server 2016\nMicrosoft Microsoft SharePoint Server 2019\nMicrosoft SharePoint Server 2019 null\nMicrosoft Microsoft SharePoint Foundation 2013 Service Pack 1\nMicrosoft Word 2013 Service Pack 1 \nMicrosoft Office 2019 \nMicrosoft Microsoft SharePoint Server Subscription Edition \nMicrosoft Microsoft Office Online Server \nMicrosoft Microsoft 365 Apps for Enterprise for 64-bit Systems \nMicrosoft Microsoft 365 Apps for Enterprise for 32-bit Systems \nMicrosoft Microsoft Office 2019 for 64-bit editions\nMicrosoft Microsoft Office 2019 for 32-bit editions\nMicrosoft Microsoft Office LTSC 2021 for 32-bit editions\nMicrosoft Microsoft Office LTSC 2021 for 64-bit editions\nMicrosoft Microsoft Office Web Apps Server 2013 Service P\nMicrosoft Microsoft SharePoint Enterprise Server 2013 Service Pack 1\nMicrosoft Corporation Microsoft Word 2013 RT Service Pack 1\nMicrosoft Corporation Microsoft Word 2016 (32-bit edition)\nMicrosoft Corporation Microsoft Word 2016 (64-bit edition)\nMicrosoft Corporation Microsoft Word 2013 Service Pack 1 (32-bit ed\nMicrosoft Corporation Microsoft Word 2013 Service Pack 1 (64-bit ed",
+    "CVE ID": "CVE-2022-41060",
+    "漏洞描述": "Microsoft Word是美国微软（Microsoft）公司的一套Office套件中的文字处理软件。\nMicrosoft Word存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2022-41060",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-41060",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/715056",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-11-10",
+    "收录时间": "2025-08-05",
+    "更新时间": "2025-08-05",
+    "漏洞附件": "(无附件)"
+}
