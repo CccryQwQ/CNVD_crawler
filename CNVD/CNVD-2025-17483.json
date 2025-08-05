@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Word信息泄露漏洞（CNVD-2025-17483）",
+    "CNVD-ID": "CNVD-2025-17483",
+    "公开日期": "2025-08-04",
+    "危害级别": "高",
+    "影响产品": "Microsoft Word 2016 \nMicrosoft Word 2013 RT Service Pack 1\nMicrosoft 365 Apps for Enterprise \nMicrosoft Word 2013 Service Pack 1 \nMicrosoft Office LTSC 2021 \nMicrosoft Office 2019",
+    "CVE ID": "CVE-2023-36761",
+    "漏洞描述": "Microsoft Word是美国微软（Microsoft）公司的一套Office套件中的文字处理软件。\nMicrosoft Word存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-36761",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2023-36761",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/715131",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-09-15",
+    "收录时间": "2025-08-05",
+    "更新时间": "2025-08-05",
+    "漏洞附件": "(无附件)"
+}
