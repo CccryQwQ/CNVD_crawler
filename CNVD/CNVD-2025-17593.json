@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell SupportAssist OS Recovery身份验证绕过漏洞",
+    "CNVD-ID": "CNVD-2025-17593",
+    "公开日期": "2025-08-04",
+    "危害级别": "高",
+    "影响产品": "DELL Dell SupportAssist OS Recovery <5.5.2",
+    "CVE ID": "CVE-2022-26865",
+    "漏洞描述": "Dell SupportAssist OS Recovery是戴尔电脑内置的恢复工具，主要用于解决系统问题或硬件故障。\nDell SupportAssist OS Recovery存在身份验证绕过漏洞，攻击者可利用该漏洞绕过操作系统恢复身份验证，在系统上以管理员身份执行意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cxsecurity.com/cveshow/CVE-2022-26865/",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000198780/dsa-2022-102",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/714856",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-05-31",
+    "收录时间": "2025-08-06",
+    "更新时间": "2025-08-06",
+    "漏洞附件": "(无附件)"
+}
