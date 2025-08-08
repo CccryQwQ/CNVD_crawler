@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress FluentSnippets跨站请求伪造漏洞",
+    "CNVD-ID": "CNVD-2025-17888",
+    "公开日期": "2025-08-08",
+    "危害级别": "高",
+    "影响产品": "WordPress FluentSnippets <=10.50",
+    "CVE ID": "CVE-2025-54010",
+    "漏洞描述": "WordPress FluentSnippets是一个开源项目，主要用于提供WordPress开发者创建自定义主题的函数代码片段。\nWordPress FluentSnippets存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-54010",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/easy-code-manager/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/716936",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-23",
+    "收录时间": "2025-08-08",
+    "更新时间": "2025-08-08",
+    "漏洞附件": "(无附件)"
+}
