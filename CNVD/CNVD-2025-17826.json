@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Advantech iView跨站脚本漏洞（CNVD-2025-17826）",
+    "CNVD-ID": "CNVD-2025-17826",
+    "公开日期": "2025-08-08",
+    "危害级别": "中",
+    "影响产品": "Advantech iView <5.7.05 build 7057",
+    "CVE ID": "CVE-2025-53397",
+    "漏洞描述": "Advantech iView是中国研华（Advantech）公司的一个基于简单网络协议（SNMP）来对B + B SmartWorx设备进行管理的软件。\nAdvantech iView存在跨站脚本漏洞，该漏洞是由于对用户提供的输入验证不当造成的。攻击者可利用该漏洞在用户的浏览器中执行未经授权的脚本，从而导致信息泄露或其他恶意活动。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-191-08",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.advantech.com/en/support/details/firmware-?id=1-HIPU-183",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/716881",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-18",
+    "收录时间": "2025-08-08",
+    "更新时间": "2025-08-08",
+    "漏洞附件": "(无附件)"
+}
