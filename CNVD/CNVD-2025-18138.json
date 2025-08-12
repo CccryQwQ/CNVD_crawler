@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Oracle MySQL Server存在未明漏洞（CNVD-2025-18138）",
+    "CNVD-ID": "CNVD-2025-18138",
+    "公开日期": "2025-08-12",
+    "危害级别": "中",
+    "影响产品": "Oracle MySQL Server <=8.0.31\nOracle MySQL Server <=5.7.42",
+    "CVE ID": "CVE-2023-22015",
+    "漏洞描述": "Oracle MySQL Server是美国甲骨文（Oracle）公司的一款关系型数据库。\nOracle MySQL Server存在安全漏洞，攻击者可利用该漏洞通过多种协议进行网络访问来危害MySQL服务器。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.oracle.com/security-alerts/cpuoct2023.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpuoct2023.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/718211",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-10-20",
+    "收录时间": "2025-08-12",
+    "更新时间": "2025-08-12",
+    "漏洞附件": "(无附件)"
+}
