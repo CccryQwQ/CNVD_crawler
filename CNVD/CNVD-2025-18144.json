@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress AI Engine plugin代码执行漏洞",
+    "CNVD-ID": "CNVD-2025-18144",
+    "公开日期": "2025-08-11",
+    "危害级别": "高",
+    "影响产品": "WordPress AI Engine plugin 2.9.3\nWordPress AI Engine plugin 2.9.4",
+    "CVE ID": "CVE-2025-7847",
+    "漏洞描述": "WordPress AI Engine插件是一款集成人工智能功能的WordPress插件，提供聊天机器人、内容生成、图像生成等功能，支持与OpenAI等平台对接。\nWordPress AI Engine plugin存在代码执行漏洞，该漏洞源于rest_simpleFileUpload函数未验证文件类型，攻击者可利用该漏洞导致任意文件上传和远程代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/ai-engine/tags/2.9.3/classes/api.php#L673",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/ai-engine",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/717726",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-10",
+    "收录时间": "2025-08-12",
+    "更新时间": "2025-08-12",
+    "漏洞附件": "(无附件)"
+}
