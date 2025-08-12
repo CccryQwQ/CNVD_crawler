@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Oracle MySQL存在未明漏洞（CNVD-2025-18131）",
+    "CNVD-ID": "CNVD-2025-18131",
+    "公开日期": "2025-08-12",
+    "危害级别": "低",
+    "影响产品": "Oracle MySQL Client <=8.4.2\nOracle MySQL Client <=9.0.1",
+    "CVE ID": "CVE-2024-21209",
+    "漏洞描述": "Oracle MySQL是一个开源的关系型数据库管理系统。MySQL Client是MySQL客户端，是用于与服务器通信以处理服务器管理的数据库中的信息的程序。\nOracle MySQL的MySQL Client存在安全漏洞，攻击者可利用该漏洞读取可访问数据的子集。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.oracle.com/security-alerts/cpuoct2024.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpuoct2024.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/718166",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-10-23",
+    "收录时间": "2025-08-12",
+    "更新时间": "2025-08-12",
+    "漏洞附件": "(无附件)"
+}
