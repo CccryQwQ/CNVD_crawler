@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell Avamar SQL注入漏洞（CNVD-2025-18249）",
+    "CNVD-ID": "CNVD-2025-18249",
+    "公开日期": "2025-08-12",
+    "危害级别": "高",
+    "影响产品": "DELL Dell Avamar",
+    "CVE ID": "CVE-2024-47977",
+    "漏洞描述": "Dell Avamar是一款数据备份和恢复软件。\nDell Avamar中存在SQL注入漏洞。该漏洞源于对SQL命令中使用的特殊元素缺乏适当的中和。攻击者可以利用该漏洞执行命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.dell.com/support/kbdoc/en-us/000258636/dsa-2024-489-security-update-for-dell-avamar-and-dell-avamar-virtual-edition-security-update-for-multiple-vulnerabilities",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.dell.com",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/718271",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-13",
+    "收录时间": "2025-08-13",
+    "更新时间": "2025-08-13",
+    "漏洞附件": "(无附件)"
+}

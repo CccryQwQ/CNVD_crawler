@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell PowerFlex Manager VM日志信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-18248",
+    "公开日期": "2025-08-12",
+    "危害级别": "中",
+    "影响产品": "DELL PowerFlex Manager VM <4.6.2.1",
+    "CVE ID": "CVE-2025-36599",
+    "漏洞描述": "Dell PowerFlex Manager VM是戴尔公司的一款用于管理和监控存储系统的虚拟机软件。\nDell PowerFlex Manager VM 4.6.2.1之前的版本中存在日志信息泄露漏洞。攻击者可利用该漏洞获取用户凭证，进而使用泄露的凭证以被攻击账户的权限访问系统。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-36599",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://www.dell.com/support/kbdoc/en-us/000342158/dsa-2025-279-security-update-for-dell-powerflex-manager-platform-pfmp-proprietary-code-vulnerability",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/718036",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-16",
+    "收录时间": "2025-08-13",
+    "更新时间": "2025-08-13",
+    "漏洞附件": "(无附件)"
+}
