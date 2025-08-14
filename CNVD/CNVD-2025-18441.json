@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Ubiquiti UniFi Protect Application存在未明漏洞",
+    "CNVD-ID": "CNVD-2025-18441",
+    "公开日期": "2025-08-13",
+    "危害级别": "中",
+    "影响产品": "Ubiquiti UniFi Protect Application <=5.3.41",
+    "CVE ID": "CVE-2025-23164",
+    "漏洞描述": "Ubiquiti UniFi Protect Application是企业级安全监控平台，支持家庭和企业用户使用。\nUbiquiti UniFi Protect Application存在安全漏洞，该漏洞源于访问令牌机制配置不当，攻击者可利用该漏洞导致持续访问直播流。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://community.ui.com/releases/Security-Advisory-Bulletin-047-047/cef86c37-7421-44fd-b251-84e76475a5bc",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://community.ui.com/releases/UniFi-Protect-Application-5-3-45/aae6b811-ee8d-47ea-8de9-895fb3d6d3bd",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/718496",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-22",
+    "收录时间": "2025-08-14",
+    "更新时间": "2025-08-14",
+    "漏洞附件": "(无附件)"
+}
