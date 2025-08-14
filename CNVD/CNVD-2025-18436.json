@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apple macOS Sequoia和Apple macOS Sonoma存在未明漏洞（CNVD-2025-18436）",
+    "CNVD-ID": "CNVD-2025-18436",
+    "公开日期": "2025-08-14",
+    "危害级别": "高",
+    "影响产品": "Apple macOS Sequoia <15.6\nApple macOS Sonoma <14.7.7",
+    "CVE ID": "CVE-2025-43198",
+    "漏洞描述": "Apple macOS Sequoia和Apple macOS Sonoma都是美国苹果（Apple）公司的一款操作系统。\nApple macOS Sequoia和Apple macOS Sonoma存在安全漏洞，攻击者可利用该漏洞导致访问受保护用户数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://support.apple.com/en-us/124149",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.apple.com/en-us/124149",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/718636",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-01",
+    "收录时间": "2025-08-14",
+    "更新时间": "2025-08-14",
+    "漏洞附件": "(无附件)"
+}

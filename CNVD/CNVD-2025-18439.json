@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apple macOS访问控制错误漏洞（CNVD-2025-18439）",
+    "CNVD-ID": "CNVD-2025-18439",
+    "公开日期": "2025-08-14",
+    "危害级别": "高",
+    "影响产品": "Apple macOS Sequoia <15.4\nApple macOS Sonoma <14.7.7\nApple macOS Ventura <13.7.7",
+    "CVE ID": "CVE-2025-43184",
+    "漏洞描述": "Apple macOS是美国苹果（Apple）公司的一套专为Mac计算机所开发的专用操作系统。\nApple macOS存在安全漏洞，该漏洞源于用户同意提示不足，攻击者可利用该漏洞可能导致绕过敏感设置。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://support.apple.com/en-us/122373",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.apple.com/en-us/122373",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/718666",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-01",
+    "收录时间": "2025-08-14",
+    "更新时间": "2025-08-14",
+    "漏洞附件": "(无附件)"
+}
