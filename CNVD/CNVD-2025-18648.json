@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Netgear DGN1000B代码执行漏洞",
+    "CNVD-ID": "CNVD-2025-18648",
+    "公开日期": "2025-08-14",
+    "危害级别": "高",
+    "影响产品": "NetGear DGN1000B 1.1.00.45\nNetGear DGN1000B 1.1.00.24",
+    "CVE ID": "CVE-2013-10061",
+    "漏洞描述": "Netgear DGN1000B是美国网件（Netgear）公司的一款无线路由器。\nNetgear DGN1000B 1.1.00.24版本和1.1.00.45版本存在代码执行漏洞，该漏洞源于setup.cgi端点输入清理不足，攻击者可利用该漏洞可能导致远程代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.netgear.com/support/product/dgn1000/#download",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/718841",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-11",
+    "收录时间": "2025-08-15",
+    "更新时间": "2025-08-15",
+    "漏洞附件": "(无附件)"
+}
