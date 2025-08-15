@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "HDF5 H5HL__fl_deserialize函数堆缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-18652",
+    "公开日期": "2025-08-15",
+    "危害级别": "低",
+    "影响产品": "HDF5 HDF5 <=1.14.6",
+    "CVE ID": "CVE-2025-2924",
+    "漏洞描述": "HDF5是HDF开源的一个库。\nHDF5存在堆缓冲区溢出漏洞。该漏洞源于src/H5HLcache.c文件中H5HL__fl_deserialize函数对free_block参数的处理不当。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.301899\nhttps://vuldb.com/?ctiid.301899\nhttps://vuldb.com/?submit.521170\nhttps://github.com/HDFGroup/hdf5/issues/5382",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://github.com/HDFGroup/hdf5/releases",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/719561",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-02",
+    "收录时间": "2025-08-15",
+    "更新时间": "2025-08-15",
+    "漏洞附件": "(无附件)"
+}
