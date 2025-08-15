@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Open5Gs输入验证错误漏洞",
+    "CNVD-ID": "CNVD-2025-18595",
+    "公开日期": "2025-08-15",
+    "危害级别": "高",
+    "影响产品": "Open5GS Open5GS 2.4.0",
+    "CVE ID": "CVE-2021-45462",
+    "漏洞描述": "pen5Gs是一个5G Core和Epc的C语言开源实现，即Lte/Nr网络的核心网络。\nOpen5GS存在安全漏洞，攻击者可利用该漏洞导致SGW-U/UPF崩溃。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2021-45462",
+    "漏洞解决方案": "用户可联系供应商获得补丁信息：\nhttps://github.com/open5gs/open5gs/commit/a0f2535cb5a29bba6dbbccdb90c74ccd770cc700",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/719461",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2021-12-23",
+    "收录时间": "2025-08-15",
+    "更新时间": "2025-08-15",
+    "漏洞附件": "(无附件)"
+}
