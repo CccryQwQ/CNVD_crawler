@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Advanced Custom Fields Plugin HTML注入漏洞",
+    "CNVD-ID": "CNVD-2025-18723",
+    "公开日期": "2025-08-15",
+    "危害级别": "低",
+    "影响产品": "WordPress Advanced Custom Fields Plugin <6.4.3",
+    "CVE ID": "CVE-2025-54940",
+    "漏洞描述": "WordPress Advanced Custom Fields Plugin是WordPress的一款强大自定义字段插件，允许在文章、页面、分类、用户等对象上添加多种类型的自定义字段（如图片、复选框、文件、文本等），支持导出为XML或PHP代码，并可集成到主题或插件中。\nWordPress Advanced Custom Fields Plugin存在HTML注入漏洞，攻击者可利用该漏洞导致页面显示被篡改。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://jvn.jp/en/jp/JVN21048820/",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/advanced-custom-fields/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/719616",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-15",
+    "收录时间": "2025-08-15",
+    "更新时间": "2025-08-15",
+    "漏洞附件": "(无附件)"
+}
