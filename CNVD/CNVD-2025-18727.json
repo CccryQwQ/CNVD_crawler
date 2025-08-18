@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Huawei EnzoH-W5611T OS命令注入漏洞",
+    "CNVD-ID": "CNVD-2025-18727",
+    "公开日期": "2025-08-18",
+    "危害级别": "低",
+    "影响产品": "Huawei EnzoH-W5611T BIOS 1.07",
+    "CVE ID": "CVE-2024-58255",
+    "漏洞描述": "Huawei是全球领先的ICT（信息与通信技术）基础设施和智能终端提供商，成立于1987年，总部位于中国广东省深圳市，业务覆盖170多个国家和地区，服务全球30多亿人口。\nHuawei EnzoH-W5611T存在OS命令注入漏洞，该漏洞源于针对某些变量在get variable后未校验直接set variable造成，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-58255",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.huawei.com/cn/psirt/security-advisories/2025/huawei-sa-ocivihep-e73ab538",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/719636",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-15",
+    "收录时间": "2025-08-18",
+    "更新时间": "2025-08-18",
+    "漏洞附件": "(无附件)"
+}
