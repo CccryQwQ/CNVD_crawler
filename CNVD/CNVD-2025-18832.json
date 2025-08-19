@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress AnWP Football Leagues plugin代码执行漏洞",
+    "CNVD-ID": "CNVD-2025-18832",
+    "公开日期": "2025-08-19",
+    "危害级别": "中",
+    "影响产品": "WordPress AnWP Football Leagues plugin <=0.16.17",
+    "CVE ID": "CVE-2025-8767",
+    "漏洞描述": "WordPress AnWP Football Leagues plugin是专为WordPress网站设计的足球赛事管理插件，支持多种赛事模式（如淘汰赛、循环赛等），包含球员数据管理、赛程安排、比赛结果统计等功能。\nWordPress AnWP Football Leagues plugin存在代码执行漏洞，该漏洞源于CSV注入，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "http://plugins.trac.wordpress.org/changeset/3342787/football-leagues-by-anwppro/trunk/includes/class-anwpfl-data-port.php",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/football-leagues-by-anwppro/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/721046",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-15",
+    "收录时间": "2025-08-19",
+    "更新时间": "2025-08-19",
+    "漏洞附件": "(无附件)"
+}
