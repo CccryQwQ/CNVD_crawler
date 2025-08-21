@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Lantronix Provisioning Manager XML外部实体注入漏洞",
+    "CNVD-ID": "CNVD-2025-19110",
+    "公开日期": "2025-08-22",
+    "危害级别": "高",
+    "影响产品": "Lantronix Provisioning Manager <=7.10.2",
+    "CVE ID": "CVE-2025-7766",
+    "漏洞描述": "Lantronix Provisioning Manager是美国Lantronix公司的一款用于网关配置和固件更新的软件。\nLantronix Provisioning Manager存在XML外部实体注入漏洞，该漏洞源于网络系统或产品未设置正确的过滤允许引用外部实体，攻击者可利用该漏洞导致在安装配置管理器的主机上执行未经身份验证的代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-7766",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://ltrxdev.atlassian.net/wiki/spaces/LTRXTS/pages/105906637/Latest+Version+of+Lantronix+Provisioning+Manager+LPM",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2025-07-25",
+    "收录时间": "2025-08-21",
+    "更新时间": "2025-08-21",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "coolLabs Coolify命令执行漏洞",
+    "CNVD-ID": "CNVD-2025-19126",
+    "公开日期": "2025-08-22",
+    "危害级别": "中",
+    "影响产品": "coolLabs Coolify >=4.0.0-beta.18，<4.0.0-beta.253",
+    "CVE ID": "CVE-2025-22605",
+    "漏洞描述": "Coolify是一个开源和自托管的Heroku/Netlify/Vercel替代品。\ncoolLabs Coolify存在命令执行漏洞，攻击者可利用该漏洞在系统上执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/coollabsio/coolify/blob/40a239ddda3fc919f57a052d7b52b8e1a6696b81/bootstrap/helpers/remoteProcess.php#L70",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.389",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/722691",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-06",
+    "收录时间": "2025-08-21",
+    "更新时间": "2025-08-21",
+    "漏洞附件": "(无附件)"
+}

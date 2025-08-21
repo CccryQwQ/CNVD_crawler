@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "coolLabs Coolify信息泄露漏洞（CNVD-2025-19124）",
+    "CNVD-ID": "CNVD-2025-19124",
+    "公开日期": "2025-08-22",
+    "危害级别": "中",
+    "影响产品": "coolLabs Coolify <4.0.0-beta.361",
+    "CVE ID": "CVE-2025-22607",
+    "漏洞描述": "Coolify是一个开源和自托管的Heroku/Netlify/Vercel替代品。\ncoolLabs Coolify存在信息泄露漏洞，该漏洞源于任何经过身份验证的用户只需知道模型的UUID，攻击者可利用该漏洞获取实例上任何配置的详细信息页面。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/coollabsio/coolify/security/advisories/GHSA-8w24-gfgq-jg72",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/coollabsio/coolify/releases/tag/v4.0.0-beta.389",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/722681",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-06",
+    "收录时间": "2025-08-21",
+    "更新时间": "2025-08-21",
+    "漏洞附件": "(无附件)"
+}
