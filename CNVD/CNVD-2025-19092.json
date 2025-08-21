@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Zoom Clients for Windows缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-19092",
+    "公开日期": "2025-08-20",
+    "危害级别": "中",
+    "影响产品": "Zoom Clients for Windows",
+    "CVE ID": "CVE-2025-46789",
+    "漏洞描述": "Zoom Clients for Windows是Zoom公司开发的视频会议软件客户端，适用于Windows操作系统。\nZoom Clients for Windows存在缓冲区溢出漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.zoom.com/en/trust/security-bulletin/zsb-25024/https://nvd.nist.gov/vuln/detail/CVE-2025-46789",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://zoom.us/download",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/721216",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-25",
+    "收录时间": "2025-08-21",
+    "更新时间": "2025-08-21",
+    "漏洞附件": "(无附件)"
+}
