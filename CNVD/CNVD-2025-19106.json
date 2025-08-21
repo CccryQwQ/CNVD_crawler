@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache Tomcat拒绝服务漏洞（CNVD-2025-19106）",
+    "CNVD-ID": "CNVD-2025-19106",
+    "公开日期": "2025-08-21",
+    "危害级别": "高",
+    "影响产品": "Apache Tomcat >=11.0.0-M1，<=11.0.9\nApache Tomcat >=10.1.0-M1，<=10.1.43\nApache Tomcat >=9.0.0.M1，<=9.0.107",
+    "CVE ID": "CVE-2025-48989",
+    "漏洞描述": "Apache Tomcat是美国阿帕奇（Apache）基金会的一款轻量级Web应用服务器，用于实现对Servlet和JavaServer Page（JSP）的支持。\nApache Tomcat存在拒绝服务漏洞，该漏洞是由于HTTP/2实现中的强制重置攻击引起的。攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-48989",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/9ydfg0xr0tchmglcprhxgwhj0hfwxlyf",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/721351",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-20",
+    "收录时间": "2025-08-21",
+    "更新时间": "2025-08-21",
+    "漏洞附件": "(无附件)"
+}

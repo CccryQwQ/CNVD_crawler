@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache JSPWiki Image插件跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-19107",
+    "公开日期": "2025-08-21",
+    "危害级别": "中",
+    "影响产品": "Apache JSPWiki <2.12.3",
+    "CVE ID": "CVE-2025-24854",
+    "漏洞描述": "Apache JSPWiki是美国阿帕奇（Apache）基金会的一款基于Java、Servlet和JSP构建的开源WikiWiki引擎。\nApache JSPWiki Image插件存在跨站脚本漏洞，攻击者可利用该漏洞在受害者的浏览器中执行javascript。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://jspwiki-wiki.apache.org/Wiki.jsp?page=CVE-2025-24854",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://jspwiki-wiki.apache.org/Wiki.jsp?page=Downloads",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/721356",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-10",
+    "收录时间": "2025-08-21",
+    "更新时间": "2025-08-21",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache Superset SQL注入漏洞（CNVD-2025-19100）",
+    "CNVD-ID": "CNVD-2025-19100",
+    "公开日期": "2025-08-21",
+    "危害级别": "中",
+    "影响产品": "Apache Superset <5.0.0",
+    "CVE ID": "CVE-2025-55674",
+    "漏洞描述": "Apache Superset是美国阿帕奇（Apache）基金会的一个数据可视化和数据探索平台。\nApache Superset存在SQL注入漏洞，该漏洞源于DISALLOWED_SQL_FUNCTIONS安全功能被绕过，攻击者可利用该漏洞获取数据库敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-55674",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/cn49ps15ny3g2b1qzdg5mj7hp47p5jdo",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/721321",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-20",
+    "收录时间": "2025-08-21",
+    "更新时间": "2025-08-21",
+    "漏洞附件": "(无附件)"
+}
