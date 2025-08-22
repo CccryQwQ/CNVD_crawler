@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation Arena代码执行漏洞",
+    "CNVD-ID": "CNVD-2025-19254",
+    "公开日期": "2025-08-22",
+    "危害级别": "高",
+    "影响产品": "Rockwell Automation Arena",
+    "CVE ID": "CVE-2025-6377",
+    "漏洞描述": "Rockwell Automation Arena是由Rockwell Automation开发的一款离散事件仿真软件,广泛应用于制造、物流和服务行业。\nRockwell Automation Arena存在代码执行漏洞，该漏洞源于特制DOE文件导致越界写入，攻击者可利用该漏洞执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1729.html",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.rockwellautomation.com.cn/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-21",
+    "收录时间": "2025-08-22",
+    "更新时间": "2025-08-22",
+    "漏洞附件": "(无附件)"
+}
