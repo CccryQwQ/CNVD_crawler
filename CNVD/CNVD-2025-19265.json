@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Intel 700 Series Ethernet输入验证错误漏洞",
+    "CNVD-ID": "CNVD-2025-19265",
+    "公开日期": "2025-08-22",
+    "危害级别": "中",
+    "影响产品": "Intel 700 Series Ethernet <2.28.5",
+    "CVE ID": "CVE-2025-24486",
+    "漏洞描述": "Intel 700 Series Ethernet是美国英特尔（Intel）公司的一款高性能以太网控制器系列。\nIntel 700 Series Ethernet存在输入验证错误漏洞，攻击者可利用该漏洞导致权限提升。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-24486",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://intel.com/content/www/us/en/security-center/advisory/intel-sa-01335.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/723006",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-20",
+    "收录时间": "2025-08-22",
+    "更新时间": "2025-08-22",
+    "漏洞附件": "(无附件)"
+}
