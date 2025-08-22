@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress B Slider plugin服务端请求伪造漏洞",
+    "CNVD-ID": "CNVD-2025-19210",
+    "公开日期": "2025-08-21",
+    "危害级别": "中",
+    "影响产品": "WordPress B Slider plugin <=2.0.0",
+    "CVE ID": "CVE-2025-8680",
+    "漏洞描述": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。 \nWordPress B Slider plugin存在服务端请求伪造漏洞，该漏洞源于fs_api_request函数未实现足够的验证机制来确认请求的来源，攻击者可利用该漏洞探测服务器内网资源。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/b-slider/tags/1.1.30/bplugins_sdk/inc/Base/FSActivate.php#L166",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/b-slider",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/722716",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-20",
+    "收录时间": "2025-08-22",
+    "更新时间": "2025-08-22",
+    "漏洞附件": "(无附件)"
+}
