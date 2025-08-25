@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apple多款产品存在越界写入漏洞",
+    "CNVD-ID": "CNVD-2025-19354",
+    "公开日期": "2025-08-25",
+    "危害级别": "高",
+    "影响产品": "Apple iPadOS‌ <17.7.10\nApple iPadOS‌ >=18.0，<18.6.2\nApple iPhone OS <18.6.2\nApple MacOS >=14.0，<14.7.8\nApple MacOS >=15.0，<15.6.1\nApple MacOS >=13.0.0，<13.7.8",
+    "CVE ID": "CVE-2025-43300",
+    "漏洞描述": "iPadOS‌是苹果公司为iPad设备开发的移动端操作系统，它是基于iOS开发的，专门针对iPad进行优化。iPhone OS是苹果公司为iPhone和iPod touch开发的操作系统‌。macOS是一套由苹果开发的运行于Macintosh系列电脑上的操作系统。‌\nApple iPadOS‌、iPhone OS及macOS存在越界写入漏洞，该漏洞存在于Image I/O框架中，攻击者可利用漏洞在处理恶意图像文件可能会导致内存损坏，还可能进一步发起其他攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-43300",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.apple.com/en-us/124925",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/723086",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-20",
+    "收录时间": "2025-08-25",
+    "更新时间": "2025-08-25",
+    "漏洞附件": "(无附件)"
+}
