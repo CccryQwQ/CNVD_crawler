@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mozilla Firefox for Android存在未明漏洞（CNVD-2025-19561）",
+    "CNVD-ID": "CNVD-2025-19561",
+    "公开日期": "2025-08-28",
+    "危害级别": "中",
+    "影响产品": "Mozilla Firefox for android <141",
+    "CVE ID": "CVE-2025-8364",
+    "漏洞描述": "Mozilla Firefox for Android是美国Mozilla基金会的一款针对Android设备设计的网页浏览器。\nMozilla Firefox for Android 141之前版本存在安全漏洞，该漏洞源于blob:URI可能隐藏页面真实来源，攻击者可利用该漏洞导致潜在的欺骗攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://bugzilla.mozilla.org/show_bug.cgi?id=1969937",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.mozilla.org/security/advisories/mfsa2025-56/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/724826",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-26",
+    "收录时间": "2025-08-28",
+    "更新时间": "2025-08-28",
+    "漏洞附件": "(无附件)"
+}
