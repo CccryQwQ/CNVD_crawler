@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WellChoose Organization Portal System路径遍历漏洞（CNVD-2025-19589）",
+    "CNVD-ID": "CNVD-2025-19589",
+    "公开日期": "2025-08-28",
+    "危害级别": "中",
+    "影响产品": "Wellchoose Organization Portal System <\\I\\F\\T\\O\\P_\\P3_2_1_197",
+    "CVE ID": "CVE-2025-8909",
+    "漏洞描述": "WellChoose Organization Portal System是中国台湾葳桥资讯（WellChoose）公司的一款电子目录服务系统。\nWellChoose Organization Portal System存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素，攻击者可利用该漏洞下载任意系统文件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.twcert.org.tw/en/cp-139-10325-70192-2.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.wellchoose.com.tw/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/724901",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-20",
+    "收录时间": "2025-08-28",
+    "更新时间": "2025-08-28",
+    "漏洞附件": "(无附件)"
+}
