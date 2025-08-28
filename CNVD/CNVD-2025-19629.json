@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Framemaker缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-19629",
+    "公开日期": "2025-08-28",
+    "危害级别": "高",
+    "影响产品": "Adobe Adobe Framemaker <=2020.7\nAdobe Adobe Framemaker <=2022.5",
+    "CVE ID": "CVE-2024-53959",
+    "漏洞描述": "Adobe FrameMaker是Adobe公司开发的专业级技术文档创作与排版软件，主要用于处理复杂的长篇结构化内容（如技术手册、航空文档等），支持XML/DITA标准、多语言出版及跨媒体发布。\nAdobe Framemaker存在缓冲区溢出漏洞，该漏洞源于应用在处理不受信任的输入时出现边界错误。攻击者可利用该漏洞导致在当前用户的环境中执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-53959",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/framemaker/apsb24-106.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/724966",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-13",
+    "收录时间": "2025-08-28",
+    "更新时间": "2025-08-28",
+    "漏洞附件": "(无附件)"
+}
