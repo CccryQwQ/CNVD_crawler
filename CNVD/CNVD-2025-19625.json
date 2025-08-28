@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Framemaker释放后重用漏洞（CNVD-2025-19625）",
+    "CNVD-ID": "CNVD-2025-19625",
+    "公开日期": "2025-08-28",
+    "危害级别": "高",
+    "影响产品": "Adobe Adobe Framemaker <=2022.6\nAdobe Adobe Framemaker <=2020.8",
+    "CVE ID": "CVE-2025-54232",
+    "漏洞描述": "Adobe FrameMaker是Adobe公司开发的专业级技术文档创作与排版软件，主要用于处理复杂的长篇结构化内容（如技术手册、航空文档等），支持XML/DITA标准、多语言出版及跨媒体发布。 \nAdobe Framemaker存在释放后重用漏洞，该漏洞源于重引用或使用释放后的内存，攻击者可利用该漏洞使应用程序崩溃或可以应用程序上下文执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-54232",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/framemaker/apsb25-83.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/724946",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-18",
+    "收录时间": "2025-08-28",
+    "更新时间": "2025-08-28",
+    "漏洞附件": "(无附件)"
+}
