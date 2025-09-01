@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Animate释放后重用漏洞",
+    "CNVD-ID": "CNVD-2025-19964",
+    "公开日期": "2025-09-01",
+    "危害级别": "中",
+    "影响产品": "Adobe Animate <=23.0.12\nAdobe Animate <=24.0.9",
+    "CVE ID": "CVE-2025-49562",
+    "漏洞描述": "Adobe Animate‌是由Adobe公司开发的专业2D动画制作软件，前身为Flash Professional，支持HTML5、WebGL等多种格式，广泛应用于游戏开发、网页设计和交互式内容创作。\nAdobe Animate存在释放后重用漏洞，攻击者可利用该漏洞导致敏感内存泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-49562",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://helpx.adobe.com/security/products/animate/apsb25-73.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/725646",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-20",
+    "收录时间": "2025-09-01",
+    "更新时间": "2025-09-01",
+    "漏洞附件": "(无附件)"
+}
