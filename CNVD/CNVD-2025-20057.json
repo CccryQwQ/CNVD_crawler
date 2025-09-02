@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Schneider Electric EcoStruxure IT Data Center Expert服务器端请求伪造漏洞",
+    "CNVD-ID": "CNVD-2025-20057",
+    "公开日期": "2025-09-02",
+    "危害级别": "中",
+    "影响产品": "Schneider Electric EcoStruxure IT Data Center Expert <=8.3",
+    "CVE ID": "CVE-2025-50125",
+    "漏洞描述": "Schneider Electric EcoStruxure IT Data Center Expert是法国施耐德电气（Schneider Electric）公司的一款可扩展的监控软件，用于收集、组织和分发关键设备信息，提供设备的全面视图。\nSchneider Electric EcoStruxure IT Data Center Expert存在服务器端请求伪造漏洞，攻击者可利用该漏洞从受影响服务器的角度访问或操纵资源。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2025-189-01&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2025-189-01.pdf",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载： \nhttps://www.apc.com/us/en/product-range/61851-ecostruxure-it-data-center-expert/#products",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/726436",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-25",
+    "收录时间": "2025-09-02",
+    "更新时间": "2025-09-02",
+    "漏洞附件": "(无附件)"
+}
