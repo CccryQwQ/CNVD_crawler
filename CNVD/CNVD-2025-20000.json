@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Android TV存在未明漏洞",
+    "CNVD-ID": "CNVD-2025-20000",
+    "公开日期": "2025-09-02",
+    "危害级别": "中",
+    "影响产品": "Google Android TV",
+    "CVE ID": "CVE-2025-8192",
+    "漏洞描述": "Google Android TV是美国谷歌（Google）公司的一个电视操作系统应用。\nGoogle Android TV存在安全漏洞，攻击者可利用该漏洞可能导致任意活动启动。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://defcon.org/html/defcon-33/dc-33-speakers.html#content_60309",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://defcon.org/html/defcon-33/dc-33-speakers.html#content_60309",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-11",
+    "收录时间": "2025-09-02",
+    "更新时间": "2025-09-02",
+    "漏洞附件": "(无附件)"
+}
