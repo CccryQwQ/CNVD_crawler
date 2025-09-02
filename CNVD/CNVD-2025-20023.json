@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "HCL IEM信息泄露漏洞（CNVD-2025-20023）",
+    "CNVD-ID": "CNVD-2025-20023",
+    "公开日期": "2025-09-02",
+    "危害级别": "低",
+    "影响产品": "HCL IEM 1.2",
+    "CVE ID": "CVE-2025-0250",
+    "漏洞描述": "HCL IEM是印度HCL公司的一个智能事件管理平台。\nHCL IEM存在信息泄露漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0122368",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0122368",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/726411",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-30",
+    "收录时间": "2025-09-02",
+    "更新时间": "2025-09-02",
+    "漏洞附件": "(无附件)"
+}
