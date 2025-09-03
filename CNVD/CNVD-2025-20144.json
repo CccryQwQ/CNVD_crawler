@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tenda AC10访问控制不当漏洞",
+    "CNVD-ID": "CNVD-2025-20144",
+    "公开日期": "2025-09-02",
+    "危害级别": "中",
+    "影响产品": "Tenda AC10 v4.0 v16.03.10.09_multi_TDE01",
+    "CVE ID": "CVE-2025-57219",
+    "漏洞描述": "Tenda AC10是深圳市吉祥腾达科技有限公司推出的双频千兆无线路由器，主要面向200M及以上光纤用户。\nTenda AC10存在访问控制不当漏洞，该漏洞源于/goform/ate端点访问控制不当，攻击者可利用该漏洞访问敏感组件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plaid-knot-11b.notion.site/Unauthenticated-Remote-Access-to-ate-Debug-Interface-via-Improper-Access-Controls-in-Tenda-AC10-V4-23fb3e9cce328050a479e44a8c217a72?source=copy_link",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-31",
+    "收录时间": "2025-09-03",
+    "更新时间": "2025-09-03",
+    "漏洞附件": "(无附件)"
+}
