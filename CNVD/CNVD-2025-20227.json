@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress插件All Bootstrap Blocks访问控制中断漏洞",
+    "CNVD-ID": "CNVD-2025-20227",
+    "公开日期": "2025-09-04",
+    "危害级别": "中",
+    "影响产品": "WordPress All Bootstrap Blocks plugin <=1.3.28",
+    "CVE ID": "CVE-2025-54733",
+    "漏洞描述": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。 \nWordPress插件All Bootstrap Blocks存在访问控制中断漏洞，该漏洞源于缺少授权，攻击者可利用该漏洞导致利用错误配置的访问控制安全级别。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://patchstack.com/database/wordpress/plugin/all-bootstrap-blocks/vulnerability/wordpress-all-bootstrap-blocks-plugin-1-3-28-broken-access-control-vulnerability?_s_id=cve",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wordpress.org/plugins/all-bootstrap-blocks/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/727751",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-31",
+    "收录时间": "2025-09-04",
+    "更新时间": "2025-09-04",
+    "漏洞附件": "(无附件)"
+}
