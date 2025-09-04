@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "GeoVision ASManager Windows Application凭据泄露漏洞",
+    "CNVD-ID": "CNVD-2025-20223",
+    "公开日期": "2025-09-04",
+    "危害级别": "低",
+    "影响产品": "Geovision GeoVision ASManager Windows Application <=6.1.2.0",
+    "CVE ID": "CVE-2025-26263",
+    "漏洞描述": "GeoVision ASManager（GV-ASManager）是中国奇偶（GeoVision）公司开发的门禁控制系统。\nGeoVision ASManager Windows Application存在凭据泄露漏洞，该漏洞是由于ASManagerService.exe进程中的内存处理不当造成的。攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-26263",
+    "漏洞解决方案": "目前没有详细解决方案提供：\nhttps://www.geovision.com.tw/",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2025-03-26",
+    "收录时间": "2025-09-04",
+    "更新时间": "2025-09-04",
+    "漏洞附件": "(无附件)"
+}
