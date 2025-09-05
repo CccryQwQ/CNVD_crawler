@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Emby Server跨站脚本漏洞（CNVD-2025-20435）",
+    "CNVD-ID": "CNVD-2025-20435",
+    "公开日期": "2025-09-05",
+    "危害级别": "中",
+    "影响产品": "Emby Server Emby Server 4.6.7.0",
+    "CVE ID": "CVE-2022-36223",
+    "漏洞描述": "Emby Server是一款个人媒体服务器软件，支持存储、管理和流化个人媒体内容，支持多种设备访问。\nEmby Server存在跨站脚本漏洞，该漏洞源于播放列表名称字段对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞窃取管理员访问令牌并翻转或窃取媒体服务器管理员帐户。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://medium.com/@cupc4k3/administrator-account-takeover-in-emby-media-server-616fc2a6704f",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://emby.media/community/index.php?/blogs/entry/547-emby-server-4710-library-improvements-livetvdvr-fixes/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/729156",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-12-20",
+    "收录时间": "2025-09-05",
+    "更新时间": "2025-09-05",
+    "漏洞附件": "(无附件)"
+}
