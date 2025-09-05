@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress TablePress Plugin跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-20464",
+    "公开日期": "2025-09-05",
+    "危害级别": "中",
+    "影响产品": "WordPress TablePress Plugin <=3.2",
+    "CVE ID": "CVE-2025-9500",
+    "漏洞描述": "WordPress TablePress Plugin是一款专为WordPress设计的表格插件，允许用户无需编程即可创建、编辑和管理表格，支持多种数据类型和交互功能。\nWordPress TablePress Plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.wordfence.com/threat-intel/vulnerabilities/id/2b24ae23-d055-4740-bd86-126d503fce1b?source=cve",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/tablepress",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/729251",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-02",
+    "收录时间": "2025-09-05",
+    "更新时间": "2025-09-05",
+    "漏洞附件": "(无附件)"
+}
