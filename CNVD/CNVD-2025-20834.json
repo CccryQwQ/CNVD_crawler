@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Belkin F9K1122命令注入漏洞（CNVD-2025-20834）",
+    "CNVD-ID": "CNVD-2025-20834",
+    "公开日期": "2025-09-09",
+    "危害级别": "高",
+    "影响产品": "Belkin F9K1122 1.00.33",
+    "CVE ID": "CVE-2025-7081",
+    "漏洞描述": "Belkin F9K1122是加拿大Belkin公司的一款WiFi信号扩展器。\nBelkin F9K1122存在命令注入漏洞，该漏洞源于文件/goform/formSetWanStatic中参数m_wan_ipaddr/m_wan_netmask/m_wan_gateway/m_wan_staticdns1/m_wan_staticdns2的错误操作导致，攻击者可利用该漏洞执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-7081",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.belkin.com/my/support-article?articleNum=24903",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/730136",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-11",
+    "收录时间": "2025-09-09",
+    "更新时间": "2025-09-09",
+    "漏洞附件": "(无附件)"
+}
