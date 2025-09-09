@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache CloudStack权限提升漏洞",
+    "CNVD-ID": "CNVD-2025-20875",
+    "公开日期": "2025-09-09",
+    "危害级别": "中",
+    "影响产品": "Apache Apache CloudStack 4.20.0.0",
+    "CVE ID": "CVE-2025-22829",
+    "漏洞描述": "Apache CloudStack是美国阿帕奇（Apache）基金会的一套基础架构即服务（IaaS）云计算平台。该平台主要用于部署和管理大型虚拟机网络。\nApache CloudStack存在安全漏洞，攻击者可利用该漏洞导致权限提升。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cloudstack.staged.apache.org/blog/cve-advisories-4.19.3.0-4.20.1.0",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://cloudstack.apache.org/downloads/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/730201",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-23",
+    "收录时间": "2025-09-09",
+    "更新时间": "2025-09-09",
+    "漏洞附件": "(无附件)"
+}

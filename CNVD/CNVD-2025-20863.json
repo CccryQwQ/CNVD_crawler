@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "DELL SupportAssist for Business PCs权限提升漏洞",
+    "CNVD-ID": "CNVD-2025-20863",
+    "公开日期": "2025-09-08",
+    "危害级别": "中",
+    "影响产品": "Dell SupportAssist for Business PCs <=4.5.3",
+    "CVE ID": "CVE-2025-36612",
+    "漏洞描述": "DELL SupportAssist for Business PCs是戴尔为企业用户设计的PC管理解决方案，通过AI驱动的自动化支持、远程部署和集中化管控功能，帮助企业提升IT管理效率并降低运维成本。\nDELL SupportAssist for Business PCs存在权限提升漏洞，该漏洞源于权限分配不当，攻击者可利用该漏洞通过权限提升，篡改系统配置，植入恶意软件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-36612",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000356690/dsa-2025-296-security-update-for-dell-supportassist-for-home-pcs-and-dell-supportassist-for-business-pcs-vulnerabilities",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/729376",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-20",
+    "收录时间": "2025-09-09",
+    "更新时间": "2025-09-09",
+    "漏洞附件": "(无附件)"
+}
