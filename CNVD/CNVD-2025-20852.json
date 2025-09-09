@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "QNAP Systems File Station 5空指针取消引用漏洞（CNVD-2025-20852）",
+    "CNVD-ID": "CNVD-2025-20852",
+    "公开日期": "2025-09-09",
+    "危害级别": "中",
+    "影响产品": "QNAP Systems File Station 5 >=5.5.x，<5.5.6.4907",
+    "CVE ID": "CVE-2025-29879",
+    "漏洞描述": "QNAP Systems File Station 5威联通（QNAP）推出的文件管理应用程序，主要用于浏览、上传、下载及管理存储在NAS设备、远程服务器或外部存储设备上的文件和文件夹。\nQNAP Systems File Station 5存在空指针取消引用漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-29879",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.qnap.com/en/security-advisory/qsa-25-19",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/729866",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-02",
+    "收录时间": "2025-09-09",
+    "更新时间": "2025-09-09",
+    "漏洞附件": "(无附件)"
+}
