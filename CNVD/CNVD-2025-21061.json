@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Triangle MicroWorks SCADA Data Gateway文件上传漏洞",
+    "CNVD-ID": "CNVD-2025-21061",
+    "公开日期": "2025-09-11",
+    "危害级别": "中",
+    "影响产品": "Triangle MicroWorks SCADA Data Gateway",
+    "CVE ID": "CVE-2023-39462",
+    "漏洞描述": "Triangle MicroWorks SCADA Data Gateway是美国Triangle MicroWorks公司开发的一款SCADA数据网关产品，主要用于工业自动化控制系统中的数据采集与监控。\nTriangle MicroWorks SCADA Data Gateway存在文件上传漏洞，该漏洞源于工作区文件的处理中存在特定缺陷，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.zerodayinitiative.com/advisories/ZDI-23-1030/",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.trianglemicroworks.com/products/scada-data-gateway/what's-new",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/731081",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-08-07",
+    "收录时间": "2025-09-11",
+    "更新时间": "2025-09-11",
+    "漏洞附件": "(无附件)"
+}
