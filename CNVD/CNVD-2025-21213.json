@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tenda G3 formSetDebugCfg函数堆栈缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-21213",
+    "公开日期": "2025-09-12",
+    "危害级别": "高",
+    "影响产品": "Tenda G3 v3.0br_V15.11.0.17",
+    "CVE ID": "CVE-2025-57058",
+    "漏洞描述": "Tenda G3是中国腾达（Tenda）公司的一款Qos Vpn路由器。\nTenda G3 formSetDebugCfg函数存在堆栈缓冲区溢出漏洞，攻击者可利用该漏洞通过特制的请求造成拒绝服务（DoS）。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-57058",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://github.com/vulnDetailRecord/VulforDevice/blob/main/Tenda/G3/formSetDebugCfg.md",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-11",
+    "收录时间": "2025-09-12",
+    "更新时间": "2025-09-12",
+    "漏洞附件": "(无附件)"
+}
