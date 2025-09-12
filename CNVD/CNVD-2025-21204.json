@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SAP NetWeaver Application Server Java访问控制错误漏洞（CNVD-2025-21204）",
+    "CNVD-ID": "CNVD-2025-21204",
+    "公开日期": "2025-09-12",
+    "危害级别": "中",
+    "影响产品": "SAP SAP NetWeaver Application Server Java null",
+    "CVE ID": "CVE-2025-42926",
+    "漏洞描述": "SAP NetWeaver Application Server Java是德国思爱普（SAP）公司的一款提供了Java运行环境的应用程序服务器。该产品主要用于开发和运行Java EE应用程序。\nSAP NetWeaver Application Server Java存在访问控制错误漏洞，该漏洞源于缺少身份验证检查，攻击者可利用该漏洞导致访问内部文件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://me.sap.com/notes/3619465",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://me.sap.com/notes/3619465",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/731186",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-11",
+    "收录时间": "2025-09-12",
+    "更新时间": "2025-09-12",
+    "漏洞附件": "(无附件)"
+}

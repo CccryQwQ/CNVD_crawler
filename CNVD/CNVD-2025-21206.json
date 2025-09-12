@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SAP Supplier Relationship Management跨站脚本漏洞（CNVD-2025-21206）",
+    "CNVD-ID": "CNVD-2025-21206",
+    "公开日期": "2025-09-12",
+    "危害级别": "中",
+    "影响产品": "SAP supplier relationship management",
+    "CVE ID": "CVE-2025-42920",
+    "漏洞描述": "SAP Supplier Relationship Management（SRM）是德国思爱普（SAP）公司的一套供应商关系管理解决方案。该产品实现了企业内以及供应商之间采购和购置流程的自动化，并提供发票开具等功能。\nSAP Supplier Relationship Management存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞可以通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-42920",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://me.sap.com/notes/3647098",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/731181",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-11",
+    "收录时间": "2025-09-12",
+    "更新时间": "2025-09-12",
+    "漏洞附件": "(无附件)"
+}
