@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation FactoryTalk Activation Manager数据泄露漏洞",
+    "CNVD-ID": "CNVD-2025-21174",
+    "公开日期": "2025-09-12",
+    "危害级别": "高",
+    "影响产品": "Rockwell Automation FactoryTalk Activation Manager",
+    "CVE ID": "CVE-2025-7970",
+    "漏洞描述": "Rockwell Automation是全球领先的工业自动化和控制解决方案提供商，专注于帮助企业实现智能制造与数字化转型。\nRockwell Automation FactoryTalk Activation Manager存在数据泄露漏洞，攻击者可利用该漏洞导致数据泄露或会话劫持。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-7970",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1741.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/731321",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-11",
+    "收录时间": "2025-09-12",
+    "更新时间": "2025-09-12",
+    "漏洞附件": "(无附件)"
+}
