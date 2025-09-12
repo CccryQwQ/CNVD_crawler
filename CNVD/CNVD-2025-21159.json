@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SAP NetWeaver Application Server存在未明漏洞（CNVD-2025-21159）",
+    "CNVD-ID": "CNVD-2025-21159",
+    "公开日期": "2025-09-12",
+    "危害级别": "高",
+    "影响产品": "SAP NetWeaver Application Server 7.53\nSAP NetWeaver Application Server 7.54\nSAP NetWeaver Application Server KRNL64NUC 7.22\nSAP NetWeaver Application Server 7.22EXT\nSAP NetWeaver Application Server KRNL64UC 7.22\nSAP NetWeaver Application Server KERNEL 7.22",
+    "CVE ID": "CVE-2025-42958",
+    "漏洞描述": "SAP NetWeaver Application Server是德国思爱普（SAP）公司的一款应用程序服务器。\nSAP NetWeaver Application Server存在安全漏洞，攻击者可利用该漏洞可能导致读取、修改或删除敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-42958",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://me.sap.com/notes/3627373",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/731201",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-11",
+    "收录时间": "2025-09-12",
+    "更新时间": "2025-09-12",
+    "漏洞附件": "(无附件)"
+}
