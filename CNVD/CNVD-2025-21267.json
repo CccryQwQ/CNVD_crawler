@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Testimonial Plugin SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-21267",
+    "公开日期": "2025-09-15",
+    "危害级别": "中",
+    "影响产品": "WordPress Testimonial Plugin <=2.3",
+    "CVE ID": "CVE-2025-7826",
+    "漏洞描述": "WordPress Testimonial Plugin是用于在网站中展示客户反馈、推荐信或用户评价的插件，主要用于增强网站信任度和社交证明。\nWordPress Testimonial Plugin存在SQL注入漏洞，该漏洞源于对短码iNICtestimonial清理和转义不足，攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://wordpress.org/plugins/indianic-testimonial/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-12",
+    "收录时间": "2025-09-15",
+    "更新时间": "2025-09-15",
+    "漏洞附件": "(无附件)"
+}
