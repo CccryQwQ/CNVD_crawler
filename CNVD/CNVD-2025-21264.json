@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Maspik plugin授权问题漏洞",
+    "CNVD-ID": "CNVD-2025-21264",
+    "公开日期": "2025-09-15",
+    "危害级别": "中",
+    "影响产品": "WordPress Maspik plugin <=2.5.6",
+    "CVE ID": "CVE-2025-9979",
+    "漏洞描述": "WordPress Maspik plugin是WordPress的一款反垃圾邮件插件，主要用于保护网站联系表单、评论区域和注册表单免受垃圾邮件侵扰。\nWordPress Maspik plugin存在授权问题漏洞，该漏洞源于函数Maspik_spamlog_download_csv缺少能力检查，攻击者可利用该漏洞导致未授权访问。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/contact-forms-anti-spam/trunk/includes/functions.php#L1482",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/contact-forms-anti-spam",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/731496",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-12",
+    "收录时间": "2025-09-15",
+    "更新时间": "2025-09-15",
+    "漏洞附件": "(无附件)"
+}
