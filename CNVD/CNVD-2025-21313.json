@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Intel Atom Processors信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-21313",
+    "公开日期": "2025-09-16",
+    "危害级别": "低",
+    "影响产品": "Intel Atom Processors",
+    "CVE ID": "CVE-2024-43420",
+    "漏洞描述": "Intel Atom Processors是英特尔推出的面向边缘计算和网络应用的低功耗处理器系列，专为注重电池续航和紧凑尺寸的设备设计，而非追求原始处理性能。\nIntel Atom Processors存在信息泄露漏洞，该漏洞源于共享微架构预测器状态敏感信息泄露，攻击者可利用该漏洞导致本地信息泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-43420",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://intel.com/content/www/us/en/security-center/advisory/intel-sa-01247.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/732311",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-28",
+    "收录时间": "2025-09-16",
+    "更新时间": "2025-09-16",
+    "漏洞附件": "(无附件)"
+}
