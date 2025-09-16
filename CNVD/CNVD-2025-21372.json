@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress AutoCatSet跨站请求伪造漏洞",
+    "CNVD-ID": "CNVD-2025-21372",
+    "公开日期": "2025-09-16",
+    "危害级别": "中",
+    "影响产品": "WordPress AutoCatSet <=2.1.4",
+    "CVE ID": "CVE-2025-9631",
+    "漏洞描述": "AutoCatSet是WordPress平台的自动文章分类插件。\nAutoCatSet 2.1.4及之前版本存在跨站请求伪造漏洞，该漏洞源于autocatset_ajax函数未正确实施随机数验证机制。攻击者可利用该漏洞通过诱骗站点管理员点击恶意链接，触发未授权文章自动重新分类操作",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.wordfence.com/threat-intel/vulnerabilities/id/1b3bd31f-0f5a-4b4a-811b-5482db866bd5?source=cve\nhttps://plugins.trac.wordpress.org/browser/autocatset/trunk/lib/ajax.php#L5\nhttps://plugins.trac.wordpress.org/browser/autocatset/trunk/autocatset.php#L93",
+    "漏洞解决方案": "目前厂商尚未发布升级补丁以修复这个安全问题，请及时关注厂商更新：\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/1b3bd31f-0f5a-4b4a-811b-5482db866bd5?source=cve",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-12",
+    "收录时间": "2025-09-16",
+    "更新时间": "2025-09-16",
+    "漏洞附件": "(无附件)"
+}
