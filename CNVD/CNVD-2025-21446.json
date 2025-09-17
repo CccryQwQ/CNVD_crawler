@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "ChanCMS SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-21446",
+    "公开日期": "2025-09-17",
+    "危害级别": "中",
+    "影响产品": "ChanCMS ChanCMS <=3.3.0",
+    "CVE ID": "CVE-2025-10210",
+    "漏洞描述": "ChanCMS是一个内容管理系统。\nChanCMS 3.3.0及之前版本存在SQL注入漏洞，该漏洞源于文件app/modules/api/service/Api.js中函数Search参数key缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/August829/Yu/blob/main/58ead8e7e08bfb0e5.md",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://gitee.com/chancms/ChanCMS",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/732541",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-12",
+    "收录时间": "2025-09-17",
+    "更新时间": "2025-09-17",
+    "漏洞附件": "(无附件)"
+}

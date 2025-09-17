@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Commerce安全绕过漏洞（CNVD-2025-21417）",
+    "CNVD-ID": "CNVD-2025-21417",
+    "公开日期": "2025-09-17",
+    "危害级别": "高",
+    "影响产品": "Adobe Magento Open Source <=2.4.9-alpha2\nAdobe Magento Open Source <=2.4.8-p2\nAdobe Magento Open Source <=2.4.7-p7\nAdobe Magento Open Source <=2.4.6-p12\nAdobe Magento Open Source <=2.4.5-p14\nAdobe Adobe Commerce B2B <=1.5.3-alpha2\nAdobe Adobe Commerce B2B <=1.5.2-p2\nAdobe Adobe Commerce B2B <=1.4.2-p7\nAdobe Adobe Commerce B2B <=1.3.4-p14\nAdobe Adobe Commerce B2B <=1.3.3-p15\nAdobe Adobe Commerce <=2.4.9-alpha2\nAdobe Adobe Commerce <=2.4.8-p2\nAdobe Adobe Commerce <=2.4.7-p7\nAdobe Adobe Commerce <=2.4.6-p12\nAdobe Adobe Commerce <=2.4.5-p14\nAdobe Adobe Commerce <=2.4.4-p15",
+    "CVE ID": "CVE-2025-54236",
+    "漏洞描述": "Adobe Commerce是美国奥多比（Adobe）公司的一种面向商家和品牌的全球领先的数字商务解决方案。\nAdobe Commerce存在安全绕过漏洞，攻击者可利用该漏洞绕过安全限制。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://helpx.adobe.com/security/products/magento/apsb25-88.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/magento/apsb25-88.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/732506",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-11",
+    "收录时间": "2025-09-17",
+    "更新时间": "2025-09-17",
+    "漏洞附件": "(无附件)"
+}

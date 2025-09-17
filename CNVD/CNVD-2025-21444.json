@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Unmark代码问题漏洞",
+    "CNVD-ID": "CNVD-2025-21444",
+    "公开日期": "2025-09-17",
+    "危害级别": "中",
+    "影响产品": "unmark unmark <=1.9.3",
+    "CVE ID": "CVE-2025-10329",
+    "漏洞描述": "Unmark是一个用于书签的开源待办事项应用程序。\nUnmark 1.9.3及之前版本存在代码问题漏洞，该漏洞源于对文件/application/controllers/Marks.php中参数url的错误操作，可能导致服务端请求伪造。攻击者可利用该漏洞探测服务器内网资源。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/YZS17/CVE/blob/main/unmark/ssrf1.md",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/cdevroe/unmark/releases",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/732571",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-16",
+    "收录时间": "2025-09-17",
+    "更新时间": "2025-09-17",
+    "漏洞附件": "(无附件)"
+}
