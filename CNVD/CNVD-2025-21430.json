@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rockwell Automation Arena本地代码执行漏洞（CNVD-2025-21430）",
+    "CNVD-ID": "CNVD-2025-21430",
+    "公开日期": "2025-09-17",
+    "危害级别": "高",
+    "影响产品": "Rockwell Automation Arena <=16.20.08",
+    "CVE ID": "CVE-2025-2286",
+    "漏洞描述": "Rockwell Automation Arena是美国罗克韦尔（Rockwell Automation）公司的一款离散事件模拟和自动化软件。\nRockwell Automation Arena存在本地代码执行漏洞，该漏洞是由于对用户提供的数据验证不当造成的。攻击者可利用该漏洞泄露信息并在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1726.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1726.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/732561",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-18",
+    "收录时间": "2025-09-17",
+    "更新时间": "2025-09-17",
+    "漏洞附件": "(无附件)"
+}
