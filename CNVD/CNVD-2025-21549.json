@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Lingdang CRM SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-21549",
+    "公开日期": "2025-09-18",
+    "危害级别": "中",
+    "影响产品": "Shanghai Lingdang Information Technology Lingdang CRM <=8.6.4.7",
+    "CVE ID": "CVE-2025-9140",
+    "漏洞描述": "Lingdang CRM（灵当CRM）是中国灵当（Lingdang）公司的一个客户关系管理系统。\nLingdang CRM存在SQL注入漏洞，该漏洞源于/crm/crmapi/erp/tabdetail_moduleSave.php文件getvaluestring参数操作不当，攻击者可利用该漏洞导致SQL注入。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-9140",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.notion.so/SQL2-2459bb66b0a5802ba8e9ca5bc775fc7d?source=copy_link",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2025-08-26",
+    "收录时间": "2025-09-18",
+    "更新时间": "2025-09-18",
+    "漏洞附件": "(无附件)"
+}

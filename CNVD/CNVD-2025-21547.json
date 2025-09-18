@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress插件wp-publications跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-21547",
+    "公开日期": "2025-09-18",
+    "危害级别": "中",
+    "影响产品": "WordPress wp-publications plugin <=1.2",
+    "CVE ID": "CVE-2024-11605",
+    "漏洞描述": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。 \nWordPress插件wp-publications存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞注入任意JavaScript代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-11605",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://wpscan.com/vulnerability/91c5ee70-2ff5-46cd-a0f5-54987fc2e060/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/732726",
+    "验证信息": "已验证",
+    "报送时间": "2025-01-03",
+    "收录时间": "2025-09-18",
+    "更新时间": "2025-09-18",
+    "漏洞附件": "(无附件)"
+}
