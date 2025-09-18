@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apartment Visitors Management System /admin/bwdates-passreports-details.php文件SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-21561",
+    "公开日期": "2025-09-17",
+    "危害级别": "高",
+    "影响产品": "Apartment Visitors Management System Apartment Visitors Management System 1.0",
+    "CVE ID": "CVE-2025-4554",
+    "漏洞描述": "Apartment Visitors Management System是一个公寓访客管理系统。\nApartment Visitors Management System存在SQL注入漏洞，该漏洞源于文件/admin/bwdates-passreports-details.php中参数fromdate/todate操作不当，。攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.308301",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-19",
+    "收录时间": "2025-09-18",
+    "更新时间": "2025-09-18",
+    "漏洞附件": "(无附件)"
+}

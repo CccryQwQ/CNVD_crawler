@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Voltronic Power ViewPower拒绝服务漏洞（CNVD-2025-21590）",
+    "CNVD-ID": "CNVD-2025-21590",
+    "公开日期": "2025-09-18",
+    "危害级别": "高",
+    "影响产品": "Voltronic Power ViewPower Pro 2.0-22165",
+    "CVE ID": "CVE-2023-51571",
+    "漏洞描述": "Voltronic Power ViewPower是Voltronic Power公司的一款适用于太阳能逆变器的监控和管理软件。\nVoltronic Power ViewPower Pro存在拒绝服务漏洞，该漏洞是由于在允许访问功能之前缺乏身份验证造成的。攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.zerodayinitiative.com/advisories/ZDI-23-1877/",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.zerodayinitiative.com/advisories/ZDI-23-1877/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/732786",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-04-08",
+    "收录时间": "2025-09-18",
+    "更新时间": "2025-09-18",
+    "漏洞附件": "(无附件)"
+}

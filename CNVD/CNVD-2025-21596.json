@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Voltronic Power ViewPower远程代码执行漏洞（CNVD-2025-2159604）",
+    "CNVD-ID": "CNVD-2025-21596",
+    "公开日期": "2025-09-18",
+    "危害级别": "高",
+    "影响产品": "Voltronic Power ViewPower 1.04.21353",
+    "CVE ID": "CVE-2023-51585",
+    "漏洞描述": "Voltronic Power ViewPower是Voltronic Power公司的一款适用于太阳能逆变器的监控和管理软件。\nVoltronic Power ViewPower存在远程代码执行漏洞，该漏洞源于shutdown方法中存在特定缺陷，攻击者可以利用该漏洞在当前用户的上下文中执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.zerodayinitiative.com/advisories/ZDI-23-1890/",
+    "漏洞解决方案": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://voltronicpower.com/en-US/Support/Software/ViewPower-Pro",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/732816",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-12-25",
+    "收录时间": "2025-09-18",
+    "更新时间": "2025-09-18",
+    "漏洞附件": "(无附件)"
+}

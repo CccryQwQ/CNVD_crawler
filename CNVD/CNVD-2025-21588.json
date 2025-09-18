@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Voltronic Power ViewPower权限提升漏洞（CNVD-2025-21588）",
+    "CNVD-ID": "CNVD-2025-21588",
+    "公开日期": "2025-09-18",
+    "危害级别": "中",
+    "影响产品": "Voltronic Power ViewPower 1.04.21353",
+    "CVE ID": "CVE-2023-51577",
+    "漏洞描述": "Voltronic Power ViewPower是Voltronic Power公司的一款适用于太阳能逆变器的监控和管理软件。\nVoltronic Power ViewPower存在权限提升漏洞，攻击者可利用该漏洞在SYSTEM上下文中升级权限并执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-51577",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://voltronicpower.com/en-US/Support/Software/ViewPower",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/732776",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-08-13",
+    "收录时间": "2025-09-18",
+    "更新时间": "2025-09-18",
+    "漏洞附件": "(无附件)"
+}
