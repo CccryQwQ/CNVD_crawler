@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dairy Farm Shop Management System edit-company.php文件SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-21643",
+    "公开日期": "2025-09-18",
+    "危害级别": "中",
+    "影响产品": "Dairy Farm Shop Management System Dairy Farm Shop Management System 1.3",
+    "CVE ID": "CVE-2025-7589",
+    "漏洞描述": "Dairy Farm Shop Management System是一套基于PHP和MySQL的奶牛场管理系统。\nDairy Farm Shop Management System存在SQL注入漏洞，该漏洞源于文件edit-company.php中参数companyname缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/f1rstb100d/myCVE/issues/135",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-21",
+    "收录时间": "2025-09-19",
+    "更新时间": "2025-09-19",
+    "漏洞附件": "(无附件)"
+}
