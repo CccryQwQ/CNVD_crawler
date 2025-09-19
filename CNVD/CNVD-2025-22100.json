@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "ChanCMS服务端请求伪造漏洞",
+    "CNVD-ID": "CNVD-2025-22100",
+    "公开日期": "2025-09-19",
+    "危害级别": "中",
+    "影响产品": "ChanCMS ChanCMS 3.3.0",
+    "CVE ID": "CVE-2025-10211",
+    "漏洞描述": "ChanCMS是一个内容管理系统。\nChanCMS 3.3.0版本存在服务端请求伪造漏洞，该漏洞源于文件/cms/collect/getArticle中函数CollectController参数taskUrl未实现足够的验证机制来确认请求的来源，攻击者可利用该漏洞探测服务器内网资源。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/August829/Yu/blob/main/58ead8e7e08bfb0e7.md",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://gitee.com/chancms/ChanCMS",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/732861",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-12",
+    "收录时间": "2025-09-19",
+    "更新时间": "2025-09-19",
+    "漏洞附件": "(无附件)"
+}
