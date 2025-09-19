@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mattermost输入验证错误漏洞（CNVD-2025-22091）",
+    "CNVD-ID": "CNVD-2025-22091",
+    "公开日期": "2025-09-19",
+    "危害级别": "中",
+    "影响产品": "Mattermost Mattermost >=10.10.0，<=10.10.1\nMattermost Mattermost >=10.5.0，<=10.5.9\nMattermost Mattermost >=10.9.0，<=10.9.4",
+    "CVE ID": "CVE-2025-9072",
+    "漏洞描述": "Mattermost是美国Mattermost公司的一个开源协作平台。\nMattermost存在输入验证错误漏洞，该漏洞源于未验证redirect_to参数，攻击者可利用该漏洞导致通过特制链接窃取用户cookie。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://mattermost.com/security-updates",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://mattermost.com/security-updates/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/732876",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-18",
+    "收录时间": "2025-09-19",
+    "更新时间": "2025-09-19",
+    "漏洞附件": "(无附件)"
+}
