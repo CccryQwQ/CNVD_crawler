@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Huawei HarmonyOS权限管理漏洞",
+    "CNVD-ID": "CNVD-2025-22292",
+    "公开日期": "2025-09-23",
+    "危害级别": "中",
+    "影响产品": "Huawei HarmonyOS 2.0.0",
+    "CVE ID": "CVE-2021-37000",
+    "漏洞描述": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。\nHuawei HarmonyOS存在权限管理漏洞，攻击者可利用该漏洞影响数据机密性。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://device.harmonyos.com/en/docs/security/update/security-bulletins-wearables-202108-0000001135186780",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://device.harmonyos.com/en/docs/security/update/security-bulletins-wearables-202108-0000001135186780",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/734791",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-30",
+    "收录时间": "2025-09-23",
+    "更新时间": "2025-09-23",
+    "漏洞附件": "(无附件)"
+}
