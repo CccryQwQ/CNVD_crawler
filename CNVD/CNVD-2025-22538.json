@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "BMC Control-M堆栈缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-22538",
+    "公开日期": "2025-09-25",
+    "危害级别": "中",
+    "影响产品": "BMC Control-M >=9.0.18，<=9.0.20",
+    "CVE ID": "CVE-2025-55117",
+    "漏洞描述": "BMC Control-M是BMC公司的一个应用程序。简化了本地或作为服务的应用程序和数据工作流编排。\nBMC Control-M存在堆栈缓冲区溢出漏洞，该漏洞源于SSL/TLS通信配置错误时格式化错误消息，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://bmcapps.my.site.com/casemgmt/sc_KnowledgeArticle?sfdcid=000441972",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.bmc.com/available/edownloads.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/736091",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-18",
+    "收录时间": "2025-09-25",
+    "更新时间": "2025-09-25",
+    "漏洞附件": "(无附件)"
+}
