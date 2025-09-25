@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Emergency Ambulance Hiring Portal跨站请求伪造漏洞",
+    "CNVD-ID": "CNVD-2025-22536",
+    "公开日期": "2025-09-25",
+    "危害级别": "中",
+    "影响产品": "Emergency Ambulance Hiring Portal Emergency Ambulance Hiring Portal 1.0",
+    "CVE ID": "CVE-2024-3089",
+    "漏洞描述": "Emergency Ambulance Hiring Portal是一个紧急救护车租用门户。\nEmergency Ambulance Hiring Portal存在跨站请求伪造漏洞，该漏洞源于组件manage ambulance Page的文件/admin/manage-ambulance.php的参数del未充分验证请求是否来自可信用户。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.258682",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-04-03",
+    "收录时间": "2025-09-25",
+    "更新时间": "2025-09-25",
+    "漏洞附件": "(无附件)"
+}
