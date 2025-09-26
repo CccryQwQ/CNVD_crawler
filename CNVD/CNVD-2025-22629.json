@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Rail Pass Management System /admin/aboutus.php文件跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-22629",
+    "公开日期": "2025-09-26",
+    "危害级别": "低",
+    "影响产品": "Rail Pass Management System Rail Pass Management System 1.0",
+    "CVE ID": "CVE-2025-6125",
+    "漏洞描述": "Rail Pass Management System是一个铁路通行证管理系统。\nRail Pass Management System存在跨站脚本漏洞，该漏洞产生的原因是/admin/aboutus.php文件中某个未知函数的参数pagedes未经过滤。攻击者可利用该漏洞在用户的浏览器上执行恶意脚本，例如窃取用户的Cookie、重定向用户到恶意网站等。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?submit.592638\nhttps://github.com/kakalalaww/CVE/issues/11\nhttps://phpgurukul.com/\nhttps://vuldb.com/?ctiid.312594\nhttps://vuldb.com/?id.312594",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-20",
+    "收录时间": "2025-09-26",
+    "更新时间": "2025-09-26",
+    "漏洞附件": "(无附件)"
+}
