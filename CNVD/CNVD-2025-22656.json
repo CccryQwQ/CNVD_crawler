@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Selesta Visual Access Manager SQL注入漏洞（CNVD-2025-22656）",
+    "CNVD-ID": "CNVD-2025-22656",
+    "公开日期": "2025-09-26",
+    "危害级别": "中",
+    "影响产品": "Selesta Visual Access Manager <4.42.2",
+    "CVE ID": "CVE-2023-42238",
+    "漏洞描述": "Selesta Visual Access Manager是Selesta公司的一个可视访问管理器。\nSelesta Visual Access Manager存在SQL注入漏洞，攻击者可利用该漏洞在/vam/vam_eps.php的POST参数中执行SQL注入。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://gitlab.com/daniele_m/cve-list/-/blob/main/README.md",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.seling.it/product/vam/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-16",
+    "收录时间": "2025-09-26",
+    "更新时间": "2025-09-26",
+    "漏洞附件": "(无附件)"
+}

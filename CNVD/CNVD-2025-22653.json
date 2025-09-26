@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress AdForest plugin存在未明漏洞",
+    "CNVD-ID": "CNVD-2025-22653",
+    "公开日期": "2025-09-26",
+    "危害级别": "高",
+    "影响产品": "WordPress AdForest plugin <6.0.9",
+    "CVE ID": "CVE-2025-8359",
+    "漏洞描述": "WordPress是一套使用PHP语言开发的博客平台。该平台支持在PHP和MySQL的服务器上架设个人博客网站。WordPress plugin是一个应用插件。 \nWordPress插件AdForest 6.0.9及之前版本存在安全漏洞，该漏洞源于身份验证不当，攻击者可利用该漏洞导致认证绕过。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://themeforest.net/item/adforest-classified-wordpress-theme/19481695",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/c080df50-1113-484b-80ed-09515982c585?source=cve",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/736156",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-09",
+    "收录时间": "2025-09-26",
+    "更新时间": "2025-09-26",
+    "漏洞附件": "(无附件)"
+}
