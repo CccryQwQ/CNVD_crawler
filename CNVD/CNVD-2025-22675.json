@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "多款Apple产品拒绝服务漏洞（CNVD-2025-22675）",
+    "CNVD-ID": "CNVD-2025-22675",
+    "公开日期": "2025-09-26",
+    "危害级别": "中",
+    "影响产品": "Apple iOS <26\nApple iPadOS <26\nApple macOS Tahoe <26\nApple Safari <26",
+    "CVE ID": "CVE-2025-43368",
+    "漏洞描述": "Apple Safari是一款Web浏览器，是Mac OS X和iOS操作系统附带的默认浏览器。Apple iOS是一套为移动设备所开发的操作系统。Apple macOS是一套专为Mac计算机所开发的专用操作系统。 \n多款Apple产品存在拒绝服务漏洞，攻击者可利用该漏洞导致Safari意外崩溃。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://support.apple.com/en-us/125108",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.apple.com/en-us/125108",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/737256",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-18",
+    "收录时间": "2025-09-26",
+    "更新时间": "2025-09-26",
+    "漏洞附件": "(无附件)"
+}
