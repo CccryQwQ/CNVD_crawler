@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Nipah Virus Testing Management System patient-report.php文件SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-22617",
+    "公开日期": "2025-09-25",
+    "危害级别": "中",
+    "影响产品": "Nipah Virus Testing Management System Nipah Virus Testing Management System 1.0",
+    "CVE ID": "CVE-2025-5858",
+    "漏洞描述": "Nipah Virus Testing Management System是一个在线病毒诊断平台。\nNipah Virus Testing Management System存在SQL注入漏洞，该漏洞源于patient-report.php文件中searchdata参数未进行充分过滤。攻击者可利用该漏洞执行恶意SQL语句，获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?ctiid.311604\nhttps://vuldb.com/?id.311604\nhttps://vuldb.com/?submit.591440\nhttps://github.com/f1rstb100d/myCVE/issues/64\nhttps://phpgurukul.com/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-20",
+    "收录时间": "2025-09-26",
+    "更新时间": "2025-09-26",
+    "漏洞附件": "(无附件)"
+}
