@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "libfluid fluid_msg::ActionList::unpack10例程拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2025-22710",
+    "公开日期": "2025-09-26",
+    "危害级别": "高",
+    "影响产品": "Open Networking Foundation libfluid 0.1.0",
+    "CVE ID": "CVE-2024-31196",
+    "漏洞描述": "libfluid是Open Networking Foundation开源的一个应用程序。\nlibfluid fluid_msg::ActionList::unpack10例存在程拒绝服务漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.nozominetworks.com/labs/vulnerability-advisories-cve-2024-31196",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://www.nozominetworks.com/labs/vulnerability-advisories-cve-2024-31196",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-20",
+    "收录时间": "2025-09-26",
+    "更新时间": "2025-09-26",
+    "漏洞附件": "(无附件)"
+}
