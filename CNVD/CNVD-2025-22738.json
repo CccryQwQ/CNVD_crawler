@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "GPT Academic跨站请求伪造漏洞（CNVD-2025-22738）",
+    "CNVD-ID": "CNVD-2025-22738",
+    "公开日期": "2025-09-28",
+    "危害级别": "高",
+    "影响产品": "GPT Academic GPT Academic 3.83",
+    "CVE ID": "CVE-2024-10819",
+    "漏洞描述": "GPT Academic是一个为GPT/GLM等LLM大语言模型提供实用化交互的接口。\nGPT Academic存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。攻击者可利用该漏洞诱骗用户上传文件，导致未经授权的文件上传和系统被攻陷。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://huntr.com/bounties/45270c4b-a500-4374-a90b-37b604a3ace0",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/binary-husky/gpt_academic/releases/tag/version3.91",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/738516",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-27",
+    "收录时间": "2025-09-28",
+    "更新时间": "2025-09-28",
+    "漏洞附件": "(无附件)"
+}

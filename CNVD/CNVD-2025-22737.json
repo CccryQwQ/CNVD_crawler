@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "GPT Academic跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-22737",
+    "公开日期": "2025-09-28",
+    "危害级别": "中",
+    "影响产品": "GPT Academic GPT Academic 3.9.0",
+    "CVE ID": "CVE-2025-0183",
+    "漏洞描述": "GPT Academic是一个为GPT/GLM等LLM大语言模型提供实用化交互的接口。\nGPT Academic存在跨站脚本漏洞，该漏洞源于Latex Proof-Reading Module对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞导致管理员访问debug_log.html文件时执行恶意脚本。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://huntr.com/bounties/53bced90-64a9-4ca2-8f2f-282c4ce84d1f",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/binary-husky/gpt_academic/releases/tag/version3.91",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/738511",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-27",
+    "收录时间": "2025-09-28",
+    "更新时间": "2025-09-28",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "GPT Academic代码执行漏洞",
+    "CNVD-ID": "CNVD-2025-22745",
+    "公开日期": "2025-09-28",
+    "危害级别": "低",
+    "影响产品": "GPT Academic GPT Academic >=3.64，<=3.73",
+    "CVE ID": "CVE-2024-31224",
+    "漏洞描述": "GPT Academic是一个为GPT/GLM等LLM大语言模型提供实用化交互的接口。\nGPT Academic存在代码执行漏洞，该漏洞源于应用程序在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞导致代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/binary-husky/gpt_academic/security/advisories/GHSA-jcjc-89wr-vv7g",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/binary-husky/gpt_academic/commit/8af6c0cab6d96f5c4520bec85b24802e6e823f35",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/738551",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-04-10",
+    "收录时间": "2025-09-28",
+    "更新时间": "2025-09-28",
+    "漏洞附件": "(无附件)"
+}
