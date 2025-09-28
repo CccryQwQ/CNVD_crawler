@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "GPT Academic文件读取漏洞",
+    "CNVD-ID": "CNVD-2025-22724",
+    "公开日期": "2025-09-28",
+    "危害级别": "高",
+    "影响产品": "GPT Academic GPT Academic 3.83",
+    "CVE ID": "CVE-2024-10986",
+    "漏洞描述": "GPT Academic是一个为 GPT/GLM 等 LLM 大语言模型提供实用化交互的接口。 \nGPT Academic存在文件读取漏洞，该漏洞源于HotReload功能未能正确验证用户输入，攻击者可利用该漏洞从受害者服务器读取任意本地文件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://huntr.com/bounties/db2167f5-f17f-491d-aeec-69ba55bf6427",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/binary-husky/gpt_academic/releases/tag/version3.91",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/738446",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-27",
+    "收录时间": "2025-09-28",
+    "更新时间": "2025-09-28",
+    "漏洞附件": "(无附件)"
+}

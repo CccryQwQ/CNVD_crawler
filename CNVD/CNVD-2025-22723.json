@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "GPT Academic开放重定向漏洞",
+    "CNVD-ID": "CNVD-2025-22723",
+    "公开日期": "2025-09-28",
+    "危害级别": "中",
+    "影响产品": "GPT Academic GPT Academic 3.83",
+    "CVE ID": "CVE-2024-10812",
+    "漏洞描述": "GPT Academic是一个为GPT/GLM等LLM大语言模型提供实用化交互的接口。\nGPT Academic存在开放重定向漏洞，该漏洞源于用户重定向到用户控制的file参数指定的URL时未进行适当的验证或清理，攻击者可利用该漏洞导致钓鱼攻击、恶意软件分发和用户凭据窃取。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://huntr.com/bounties/51408ebd-e0be-489d-8088-f210087dbd6a",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/binary-husky/gpt_academic/releases/tag/version3.91",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/738436",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-27",
+    "收录时间": "2025-09-28",
+    "更新时间": "2025-09-28",
+    "漏洞附件": "(无附件)"
+}
