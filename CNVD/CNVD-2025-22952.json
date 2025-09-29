@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Delta Electronics EIP Builder XML外部实体注入漏洞",
+    "CNVD-ID": "CNVD-2025-22952",
+    "公开日期": "2025-09-29",
+    "危害级别": "中",
+    "影响产品": "Delta Electronics EIP Builder <=1.11",
+    "CVE ID": "CVE-2025-57704",
+    "漏洞描述": "Delta Electronics EIP Builder是中国台达电子（Delta Electronics）公司的一款连接台达的各种设备的组态工具。\nDelta Electronics EIP Builder存在XML外部实体注入漏洞，该漏洞源于文件解析XML外部实体处理不当，攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2025-00013_EIP%20Builder%20XML%20External%20Entity%20Processing%20Information%20Disclosure%20Vulnerability.pdf",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2025-00013_EIP%20Builder%20XML%20External%20Entity%20Processing%20Information%20Disclosure%20Vulnerability.pdf",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/738731",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-28",
+    "收录时间": "2025-09-29",
+    "更新时间": "2025-09-29",
+    "漏洞附件": "(无附件)"
+}

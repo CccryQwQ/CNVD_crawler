@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Delta Electronics DIAEnergie跨站脚本漏洞（CNVD-2025-22956）",
+    "CNVD-ID": "CNVD-2025-22956",
+    "公开日期": "2025-09-29",
+    "危害级别": "中",
+    "影响产品": "Delta Electronics DIAEnergie <=1.11.00.002",
+    "CVE ID": "CVE-2025-57701",
+    "漏洞描述": "Delta Electronics DIAEnergie是中国台达电子（Delta Electronics）公司的一个工业能源管理系统，用于实时监控和分析能源消耗、计算能源消耗和负载特性、优化设备性能、改进生产流程并最大限度地提高能源效率。\nDelta Electronics DIAEnergie存在跨站脚本漏洞，该漏洞是由于对用户提供的输入验证不当造成的。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2025-00012_DIAEnergie%20Cross-Site%20Scripting%20Vulnerabilities.pdf",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2025-00012_DIAEnergie%20Cross-Site%20Scripting%20Vulnerabilities.pdf",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/738751",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-22",
+    "收录时间": "2025-09-29",
+    "更新时间": "2025-09-29",
+    "漏洞附件": "(无附件)"
+}

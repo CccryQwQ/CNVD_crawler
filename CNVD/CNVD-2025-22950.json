@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Delta Electronics COMMGR代码注入漏洞（CNVD-2025-22950）",
+    "CNVD-ID": "CNVD-2025-22950",
+    "公开日期": "2025-09-29",
+    "危害级别": "高",
+    "影响产品": "Delta Electronics COMMGR <=2.9.0",
+    "CVE ID": "CVE-2025-53419",
+    "漏洞描述": "Delta Electronics COMMGR是中国台达电子（Delta Electronics）公司的一个通讯管理软件。\nDelta Electronics COMMGR存在代码注入漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2025-00014_COMMGR%20Stack-based%20Buffer%20Overflow%20and%20Code%20Injection%20Vulnerabilities.pdf",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2025-00014_COMMGR%20Stack-based%20Buffer%20Overflow%20and%20Code%20Injection%20Vulnerabilities.pdf",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/738721",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-28",
+    "收录时间": "2025-09-29",
+    "更新时间": "2025-09-29",
+    "漏洞附件": "(无附件)"
+}

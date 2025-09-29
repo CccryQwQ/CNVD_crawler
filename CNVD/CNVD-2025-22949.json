@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Delta Electronics DIAView安全绕过漏洞",
+    "CNVD-ID": "CNVD-2025-22949",
+    "公开日期": "2025-09-29",
+    "危害级别": "中",
+    "影响产品": "Delta Electronics DIAView <=4.2.0",
+    "CVE ID": "CVE-2025-58318",
+    "漏洞描述": "Delta Electronics DIAView是中国台达电子（Delta Electronics）公司的一款工业组态软件。\nDelta Electronics DIAView存在安全绕过漏洞，攻击者可利用该漏洞导致身份验证绕过。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2025-00015_DIAView%20Authentication%20%20Bypass%20Vulnerability.pdf",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://downloadcenter.deltaww.com/zh-CN/DownloadCenter?v=1&q=DIAView&sort_expr=cdate&sort_dir=DESC",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/738716",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-04",
+    "收录时间": "2025-09-29",
+    "更新时间": "2025-09-29",
+    "漏洞附件": "(无附件)"
+}
