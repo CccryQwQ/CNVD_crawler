@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "VMware Tools for Windows访问控制错误漏洞",
+    "CNVD-ID": "CNVD-2025-23106",
+    "公开日期": "2025-10-01",
+    "危害级别": "中",
+    "影响产品": "VMware VMware Tools for Windows",
+    "CVE ID": "CVE-2025-41246",
+    "漏洞描述": "VMware Tools for Windows是美国威睿（VMware）公司的一套基于Windows平台的、VMWare虚拟机自带的增强工具，它是VMware提供的用于增强虚拟显卡和硬盘性能、以及同步虚拟机与主机时钟的驱动程序。\nVMware Tools for Windows存在安全漏洞，该漏洞源于用户访问控制处理不当，已通过vCenter或ESX认证的攻击者可利用该漏洞访问其他客户虚拟机。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-41246",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请及时关注厂商更新： \nhttps://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36149",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/739761",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-01",
+    "收录时间": "2025-10-01",
+    "更新时间": "2025-10-01",
+    "漏洞附件": "(无附件)"
+}
