@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tenda AC18命令注入漏洞",
+    "CNVD-ID": "CNVD-2025-23114",
+    "公开日期": "2025-10-09",
+    "危害级别": "中",
+    "影响产品": "Tenda AC18 15.03.05.19",
+    "CVE ID": "CVE-2025-11121",
+    "漏洞描述": "Tenda AC18是深圳市吉祥腾达科技有限公司于2016年7月推出的双频无线路由器，主要面向别墅及大户型家庭用户。\nTenda AC18存在命令注入漏洞，该漏洞源于/goform/AdvSetLanip文件中的未知函数对lanIp参数处理不当。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.326202\nhttps://vuldb.com/?ctiid.326202\nhttps://vuldb.com/?submit.664191\nhttps://github.com/noahze01/IoT-vulnerable/blob/main/Tenda/AC18/AdvSetLanip.md\nhttps://www.tenda.com.cn/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.tenda.com.cn/",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2025-09-29",
+    "收录时间": "2025-10-09",
+    "更新时间": "2025-10-09",
+    "漏洞附件": "(无附件)"
+}
