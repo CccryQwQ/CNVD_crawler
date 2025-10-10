@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "PyTorch存在未明漏洞（CNVD-2025-23280）",
+    "CNVD-ID": "CNVD-2025-23280",
+    "公开日期": "2025-10-10",
+    "危害级别": "中",
+    "影响产品": "Pytorch Pytorch <2.7.0",
+    "CVE ID": "CVE-2025-46152",
+    "漏洞描述": "PyTorch是PyTorch开源的一个Python包。\nPyTorch存在安全漏洞，该漏洞源于bitwise_right_shift函数对other参数边界值处理不当，攻击者可利用该漏洞导致输出错误。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://gist.github.com/shaoyuyoung/4bcefba4004f8271e64b5185c95a248a",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://pytorch.org/get-started/previous-versions/?ajs_aid=277996d0-7b09-4ed6-9cea-e4ec582778fb",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/740741",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-28",
+    "收录时间": "2025-10-10",
+    "更新时间": "2025-10-10",
+    "漏洞附件": "(无附件)"
+}
