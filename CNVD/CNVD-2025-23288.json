@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "PyTorch torch.linalg.lu组件存在未明漏洞",
+    "CNVD-ID": "CNVD-2025-23288",
+    "公开日期": "2025-10-10",
+    "危害级别": "高",
+    "影响产品": "Pytorch Pytorch 2.8.0",
+    "CVE ID": "CVE-2025-55551",
+    "漏洞描述": "PyTorch是PyTorch开源的一个Python包。\nPyTorch torch.linalg.lu组件存在未明漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/pytorch/pytorch/issues/151401",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://gist.github.com/shaoyuyoung/0e7d2a586297ae9c8ed14d8706749efc",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/740781",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-28",
+    "收录时间": "2025-10-10",
+    "更新时间": "2025-10-10",
+    "漏洞附件": "(无附件)"
+}
