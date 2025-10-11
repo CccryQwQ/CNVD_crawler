@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Pytorch-Lightning代码问题漏洞",
+    "CNVD-ID": "CNVD-2025-23356",
+    "公开日期": "2025-10-11",
+    "危害级别": "高",
+    "影响产品": "Lightning AI Pytorch-Lightning 2.3.2",
+    "CVE ID": "CVE-2024-8019",
+    "漏洞描述": "Pytorch-Lightning是美国Lightning AI开源的一个开源轻量级PyTorch包装器。用于高性能Ai研究。\nPytorch-Lightning存在代码问题漏洞，该漏洞源于应用对上传的文件缺少有效的验证。攻击者可利用该漏洞通过提供精心编制的文件名来写入或覆盖任意文件。可能会覆盖关键文件或将恶意文件放置在敏感位置，从而导致远程代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/lightning-ai/pytorch-lightning/commit/330af381de88cff17515418a341cbc1f9f127f9a",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/lightning-ai/pytorch-lightning/commit/330af381de88cff17515418a341cbc1f9f127f9a",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/740856",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-27",
+    "收录时间": "2025-10-11",
+    "更新时间": "2025-10-11",
+    "漏洞附件": "(无附件)"
+}

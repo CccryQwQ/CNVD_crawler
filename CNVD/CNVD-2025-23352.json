@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "PyTorch远程命令执行漏洞",
+    "CNVD-ID": "CNVD-2025-23352",
+    "公开日期": "2025-10-11",
+    "危害级别": "高",
+    "影响产品": "Pytorch Pytorch <=2.5.1",
+    "CVE ID": "CVE-2025-32434",
+    "漏洞描述": "PyTorch是PyTorch开源的一个Python包。\nPyTorch存在远程命令执行漏洞，攻击者可利用该漏洞在系统上执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/pytorch/pytorch/security/advisories/GHSA-53q9-r3pm-6pq6",
+    "漏洞解决方案": "用户可联系供应商获得补丁信息：\nhttps://github.com/pytorch/pytorch/security/advisories/GHSA-53q9-r3pm-6pq6",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/740836",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-30",
+    "收录时间": "2025-10-11",
+    "更新时间": "2025-10-11",
+    "漏洞附件": "(无附件)"
+}
