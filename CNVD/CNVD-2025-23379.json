@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Bank Locker Management System edit-subadmin.php?said=3文件SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-23379",
+    "公开日期": "2025-10-11",
+    "危害级别": "高",
+    "影响产品": "Bank Locker Management System Bank Locker Management System v1.0",
+    "CVE ID": "CVE-2025-2682",
+    "漏洞描述": "Bank Locker Management System是一个银行储物柜管理系统。\nBank Locker Management System存在SQL注入漏洞，该漏洞源于/edit-subadmin.php?said=3文件对参数mobilenumber的错误操作会导致SQL注入。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/ARPANET-cyber/CVE/issues/11\nhttps://phpgurukul.com/\nhttps://vuldb.com/?ctiid.300699\nhttps://vuldb.com/?id.300699\nhttps://vuldb.com/?submit.521451",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-26",
+    "收录时间": "2025-10-11",
+    "更新时间": "2025-10-11",
+    "漏洞附件": "(无附件)"
+}
