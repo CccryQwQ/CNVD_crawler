@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "TOTOLINK X18 setEasyMeshAgentCfg函数mac参数命令注入漏洞",
+    "CNVD-ID": "CNVD-2025-23586",
+    "公开日期": "2025-10-14",
+    "危害级别": "高",
+    "影响产品": "TOTOLINK X18 V9.1.0cu.2053_B20230309",
+    "CVE ID": "CVE-2025-61045",
+    "漏洞描述": "TOTOLINK X18是台湾TOTOLINK推出的Mesh WiFi 6路由器系统，支持WiFi 6技术，通过Mesh功能实现家庭网络覆盖优化。\nTOTOLINK X18存在命令注入漏洞，该漏洞源于setEasyMeshAgentCfg函数中mac参数未能正确过滤构造命令特殊字符、命令等。攻击者可利用该漏洞导致任意命令执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/ilovekeer/IOT/blob/main/TOTOLINK/X18/setEasyMeshAgentCfg/1.md",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-13",
+    "收录时间": "2025-10-14",
+    "更新时间": "2025-10-14",
+    "漏洞附件": "(无附件)"
+}
