@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell PowerScale OneFS拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2025-23625",
+    "公开日期": "2025-10-13",
+    "危害级别": "中",
+    "影响产品": "DELL Dell PowerScale OneFS >=8.2.2.x，<9.8.0.x",
+    "CVE ID": "CVE-2024-47475",
+    "漏洞描述": "Dell PowerScale OneFS是戴尔科技推出的横向扩展NAS（网络附加存储）操作系统，主要用于管理海量非结构化数据。\nDell PowerScale OneFS存在拒绝服务漏洞，该漏洞源于关键资源权限分配不正确。攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-47475",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.dell.com/support/kbdoc/en-us/000242681/dsa-2024-417-security-update-for-dell-powerscale-onefs-for-security-vulnerability",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/741106",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-24",
+    "收录时间": "2025-10-14",
+    "更新时间": "2025-10-14",
+    "漏洞附件": "(无附件)"
+}
