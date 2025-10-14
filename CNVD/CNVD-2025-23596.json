@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Huawei部分家用路由器连接劫持漏洞",
+    "CNVD-ID": "CNVD-2025-23596",
+    "公开日期": "2025-10-15",
+    "危害级别": "中",
+    "影响产品": "Huawei PT9030-15 3.0.3.266\nHuawei WS7206-10 11.0.5.19\nHuawei WS7206-10 2.1.0.203\nHuawei WS7290-15 3.0.3.266\nHuawei WS8000-16 3.0.3.236\nHuawei WS8001-10 3.0.3.242\nHuawei WS8002-10 3.0.3.242\nHuawei WS8500-16 3.0.3.235\nHuawei WS8502-10 3.0.3.242\nHuawei WS8700-10 3.0.3.251",
+    "CVE ID": "CVE-2023-52718",
+    "漏洞描述": "Huawei WS8700等都是中国华为（Huawei）公司的一款路由器。 \nHuawei部分家用路由器存在连接劫持漏洞，攻击者可利用该漏洞导致DoS或信息泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.huawei.com/br/psirt/security-advisories/2024/huawei-sa-chvishhr-d50dedde-en",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.huawei.com/br/psirt/security-advisories/2024/huawei-sa-chvishhr-d50dedde-en",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/742236",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-30",
+    "收录时间": "2025-10-14",
+    "更新时间": "2025-10-14",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Huawei PCs身份验证绕过漏洞",
+    "CNVD-ID": "CNVD-2025-23595",
+    "公开日期": "2025-10-15",
+    "危害级别": "中",
+    "影响产品": "Huawei YutuFZ-5651S1 SenaryAudio 3.31.2.0",
+    "CVE ID": "CVE-2023-52972",
+    "漏洞描述": "Huawei PCs是中国华为（Huawei）公司的一系列电脑。\nHuawei PCs存在身份验证绕过漏洞，该漏洞源于低权限用户可以绕过SDDL权限检查，攻击者可利用该漏洞导致某些系统进程终止。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.huawei.com/en/psirt/security-advisories/2025/huawei-sa-20250325-01-pc-en",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://www.huawei.com/en/psirt/security-advisories/2025/huawei-sa-20250325-01-pc-en",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/742231",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-16",
+    "收录时间": "2025-10-14",
+    "更新时间": "2025-10-14",
+    "漏洞附件": "(无附件)"
+}

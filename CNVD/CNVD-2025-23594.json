@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Huawei EnzoH操作系统命令注入漏洞（CNVD-2025-23594）",
+    "CNVD-ID": "CNVD-2025-23594",
+    "公开日期": "2025-10-15",
+    "危害级别": "中",
+    "影响产品": "Huawei EnzoH-W5611T BIOS 1.07",
+    "CVE ID": "CVE-2024-58257",
+    "漏洞描述": "Huawei EnzoH是中国华为（Huawei）公司的一款无线接入设备。\nHuawei EnzoH存在操作系统命令注入漏洞，攻击者可利用该漏洞导致任意命令执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.huawei.com/cn/psirt/security-advisories/2025/huawei-sa-ocivihep-1bcbfffa",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.huawei.com/cn/psirt/security-advisories/2025/huawei-sa-ocivihep-1bcbfffa",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/742226",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-15",
+    "收录时间": "2025-10-14",
+    "更新时间": "2025-10-14",
+    "漏洞附件": "(无附件)"
+}
