@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Ajax WooSearch plugin SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-23748",
+    "公开日期": "2025-10-14",
+    "危害级别": "高",
+    "影响产品": "WordPress Ajax WooSearch plugin <=1.0.0",
+    "CVE ID": "CVE-2025-9697",
+    "漏洞描述": "WordPress Ajax WooSearch plugin是一款用于增强网站搜索功能的插件，主要用于提升用户体验，支持实时搜索和多种内容类型索引。\nWordPress Ajax WooSearch plugin存在SQL注入漏洞，该漏洞源于应用缺少对外部输入SQL语句的验证。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://wpscan.com/vulnerability/38939152-e54e-4f8f-996b-592de195570d/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-13",
+    "收录时间": "2025-10-15",
+    "更新时间": "2025-10-15",
+    "漏洞附件": "(无附件)"
+}

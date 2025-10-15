@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Block For Mailchimp plugin服务端请求伪造漏洞",
+    "CNVD-ID": "CNVD-2025-23761",
+    "公开日期": "2025-10-14",
+    "危害级别": "低",
+    "影响产品": "WordPress Block For Mailchimp plugin <=1.1.12",
+    "CVE ID": "CVE-2025-10735",
+    "漏洞描述": "WordPress Block For Mailchimp plugin是一款专为WordPress设计的插件，主要用于将Mailchimp的邮件订阅功能集成到网站中。\nWordPress Block For Mailchimp plugin存在服务端请求伪造漏洞，该漏洞源于mcbSubmit_Form_Data函数未实现足够的验证机制来确认请求的来源，攻击者可利用该漏洞修改内部服务信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.svn.wordpress.org/block-for-mailchimp/tags/1.1.9/mailchimp/API.php",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/plugins/block-for-mailchimp/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/742251",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-13",
+    "收录时间": "2025-10-15",
+    "更新时间": "2025-10-15",
+    "漏洞附件": "(无附件)"
+}

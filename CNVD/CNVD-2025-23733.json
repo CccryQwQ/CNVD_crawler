@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "GNU C Library内存泄露漏洞",
+    "CNVD-ID": "CNVD-2025-23733",
+    "公开日期": "2025-10-14",
+    "危害级别": "高",
+    "影响产品": "Gnu GNU C Library",
+    "CVE ID": "CVE-2023-5156",
+    "漏洞描述": "GNU C Library是GNU项目实现的C标准库，为Linux系统提供底层API支持，封装了文件操作、内存管理、进程控制等基础功能。\nGNU C Library存在内存泄露漏洞，攻击者可利用该漏洞导致应用程序崩溃。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://bugzilla.redhat.com/show_bug.cgi?id=2240541",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网：\nhttps://sourceware.org/bugzilla/show_bug.cgi?id=30884",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/741951",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-09-27",
+    "收录时间": "2025-10-15",
+    "更新时间": "2025-10-15",
+    "漏洞附件": "(无附件)"
+}
