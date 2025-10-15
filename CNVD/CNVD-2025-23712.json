@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Security Verify Governance Identity Manager信息泄露漏洞（CNVD-2025-23712）",
+    "CNVD-ID": "CNVD-2025-23712",
+    "公开日期": "2025-10-15",
+    "危害级别": "高",
+    "影响产品": "IBM IBM Security Verify Governance Identity Manager 10.0.2",
+    "CVE ID": "CVE-2025-36003",
+    "漏洞描述": "IBM Security Verify Governance Identity Manager是IBM公司的身份治理与管理解决方案，用于集中管理企业用户身份和访问权限。\nIBM Security Verify Governance Identity Manager 10.0.2存在信息泄露漏洞，该漏洞源于应用程序返回详细技术错误消息时未对敏感信息进行过滤。远程攻击者可利用该漏洞获取系统敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-36003",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载： \nhttps://www.ibm.com/support/pages/node/7243303",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/742446",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-29",
+    "收录时间": "2025-10-15",
+    "更新时间": "2025-10-15",
+    "漏洞附件": "(无附件)"
+}
