@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress CTL Behance Importer Lite plugin SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-23724",
+    "公开日期": "2025-10-15",
+    "危害级别": "中",
+    "影响产品": "WordPress CTL Behance Importer Lite plugin <=1.0",
+    "CVE ID": "CVE-2025-9587",
+    "漏洞描述": "WordPress CTL Behance Importer Lite是一款用于将Behance平台上的作品导入到WordPress网站的插件，主要用于帮助创作者快速迁移作品并优化网站内容管理。\nWordPress CTL Behance Importer Lite plugin存在SQL注入漏洞，该漏洞源于应用缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://wpscan.com/vulnerability/e497f8b3-d70b-4d81-b915-e78ea5c02863/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-13",
+    "收录时间": "2025-10-15",
+    "更新时间": "2025-10-15",
+    "漏洞附件": "(无附件)"
+}
