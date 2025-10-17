@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Oracle Database Server存在未明漏洞（CNVD-2025-24077）",
+    "CNVD-ID": "CNVD-2025-24077",
+    "公开日期": "2025-10-17",
+    "危害级别": "中",
+    "影响产品": "Oracle Java VM >=19.3，<=19.27\nOracle Java VM >=21.3，<=21.18",
+    "CVE ID": "CVE-2025-50069",
+    "漏洞描述": "Oracle Database Server是美国甲骨文（Oracle）公司的一套关系数据库管理系统。该数据库管理系统提供数据管理、分布式处理等功能。\nOracle Database Server的Java VM存在安全漏洞，攻击者利用该漏洞导致数据泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.oracle.com/security-alerts/cpujul2025.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpujul2025.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/742736",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-21",
+    "收录时间": "2025-10-17",
+    "更新时间": "2025-10-17",
+    "漏洞附件": "(无附件)"
+}
