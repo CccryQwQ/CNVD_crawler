@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Courier Management System track-result.php文件SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-24129",
+    "公开日期": "2025-10-17",
+    "危害级别": "高",
+    "影响产品": "Courier Management System Courier Management System 1.0",
+    "CVE ID": "CVE-2024-10607",
+    "漏洞描述": "Courier Management System是一个快递管理系统。\nCourier Management System存在SQL注入漏洞，该漏洞源于文件/track-result.php中对Consignment参数的处理不当。攻击者可利用该漏洞导致数据泄露或被篡改。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://code-projects.org/\nhttps://github.com/yanhuoshanjin/cve/issues/1\nhttps://vuldb.com/?ctiid.282616\nhttps://vuldb.com/?id.282616\nhttps://vuldb.com/?submit.434773",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-01",
+    "收录时间": "2025-10-17",
+    "更新时间": "2025-10-17",
+    "漏洞附件": "(无附件)"
+}
