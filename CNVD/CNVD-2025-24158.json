@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Project Monitoring System跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-24158",
+    "公开日期": "2025-10-17",
+    "危害级别": "中",
+    "影响产品": "Project Monitoring System Project Monitoring System 1.0",
+    "CVE ID": "CVE-2025-11124",
+    "漏洞描述": "Project Monitoring System是一个项目监控系统。\nProject Monitoring System存在跨站脚本漏洞，该漏洞源于/onlineJobSearchEngine/postjob.php文件未对txtapplyto参数进行充分过滤。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.326205\nhttps://vuldb.com/?ctiid.326205\nhttps://vuldb.com/?submit.664309\nhttps://github.com/asd1238525/cve/blob/main/xss4.md\nhttps://github.com/asd1238525/cve/blob/main/xss4.md#poc\nhttps://code-projects.org/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-29",
+    "收录时间": "2025-10-17",
+    "更新时间": "2025-10-17",
+    "漏洞附件": "(无附件)"
+}
