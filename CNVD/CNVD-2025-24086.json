@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Oracle Fusion Middleware存在未明漏洞（CNVD-2025-24086）",
+    "CNVD-ID": "CNVD-2025-24086",
+    "公开日期": "2025-10-17",
+    "危害级别": "中",
+    "影响产品": "Oracle Oracle WebLogic Server 12.2.1.4.0\nOracle Oracle WebLogic Server 14.1.1.0.0\nOracle Oracle WebLogic Server 14.1.2.0.0",
+    "CVE ID": "CVE-2025-30753",
+    "漏洞描述": "Oracle Fusion Middleware（Oracle融合中间件）是美国甲骨文（Oracle）公司的一套面向企业和云环境的业务创新平台。该平台提供了中间件、软件集合等功能。WebLogic Server是其中的一个适用于云环境和传统环境的应用服务器组件。\nOracle Fusion Middleware的Oracle WebLogic Server存在安全漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.oracle.com/security-alerts/cpujul2025.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.oracle.com/security-alerts/cpujul2025.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/742801",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-21",
+    "收录时间": "2025-10-17",
+    "更新时间": "2025-10-17",
+    "漏洞附件": "(无附件)"
+}
