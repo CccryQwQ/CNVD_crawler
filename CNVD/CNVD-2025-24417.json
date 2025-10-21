@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "DataEase DB2/MongoDB JNDI代码注入漏洞",
+    "CNVD-ID": "CNVD-2025-24417",
+    "公开日期": "2025-10-21",
+    "危害级别": "高",
+    "影响产品": "DataEase DataEase <2.10.14",
+    "CVE ID": "CVE-2025-62419",
+    "漏洞描述": "DataEase是一套基于Java开发的开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化。\nDataEase DB2/MongoDB JDBC连接串构建处理主机名存在代码注入漏洞，该漏洞源于不正确过滤输入参数，远程攻击者可利用该漏洞执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/dataease/dataease/security/advisories/GHSA-x4x9-mjcf-99r9",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载:\nhttps://github.com/dataease/dataease/releases/tag/v2.10.14",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/744171",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-20",
+    "收录时间": "2025-10-21",
+    "更新时间": "2025-10-21",
+    "漏洞附件": "(无附件)"
+}
