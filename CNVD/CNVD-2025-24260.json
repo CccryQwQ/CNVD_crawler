@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Ivanti Endpoint Manager SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-24260",
+    "公开日期": "2025-10-20",
+    "危害级别": "中",
+    "影响产品": "Ivanti Endpoint Manager <=2024 SU3 SR1",
+    "CVE ID": "CVE-2025-62385",
+    "漏洞描述": "Ivanti Endpoint Manager是一款面向企业的统一端点管理解决方案，主要用于集中管理组织内所有类型的设备（包括Windows、macOS、Linux、ChromeOS及物联网设备），覆盖操作系统部署、软件分发、远程控制等功能。\nIvanti Endpoint Manager存在SQL注入漏洞，攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-62385",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Endpoint-Manager-EPM-October-2025?language=en_US",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/743931",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-17",
+    "收录时间": "2025-10-21",
+    "更新时间": "2025-10-21",
+    "漏洞附件": "(无附件)"
+}

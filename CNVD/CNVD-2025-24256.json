@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fuji Electric V-SFT越界读取漏洞",
+    "CNVD-ID": "CNVD-2025-24256",
+    "公开日期": "2025-10-21",
+    "危害级别": "高",
+    "影响产品": "Fuji Electric V-SFT <=v6.2.7.0",
+    "CVE ID": "CVE-2025-61861",
+    "漏洞描述": "Fuji Electric V-SFT是富士电机（FujiElectric）开发的一款人机界面（HMI）配置软件，主要用于工业自动化领域的触摸屏界面设计、PDF文档查看、视频播放、报警消息管理等功能。\nFuji Electric V-SFT存在越界读取漏洞，该漏洞源于VS6ComFile组件load_link_inf函数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致信息泄露和任意代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://jvn.jp/en/vu/JVNVU90008453/",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://monitouch.fujielectric.com/site/download-e/09vsft6_inf/Search.php",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/744111",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-15",
+    "收录时间": "2025-10-21",
+    "更新时间": "2025-10-21",
+    "漏洞附件": "(无附件)"
+}
