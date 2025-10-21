@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tenda AC15 formExpandDlnaFile方法栈缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-24290",
+    "公开日期": "2025-10-20",
+    "危害级别": "高",
+    "影响产品": "Tenda AC15 15.03.20_multi\nTenda AC15 15.03.05.18",
+    "CVE ID": "CVE-2024-2807",
+    "漏洞描述": "Tenda AC15是深圳市吉祥腾达科技有限公司于2015年10月推出的双频无线路由器，支持802.11ac协议，理论传输速率达1900Mbps（2.4GHz频段600Mbps，5GHz频段1300Mbps）。\nTenda AC15存在栈缓冲区溢出漏洞，该漏洞源于/goform/expandDlnaFile页面的formExpandDlnaFile方法中的filePath参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-24-0002",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tendacn.com/us/download/detail-3851.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/743906",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-03-26",
+    "收录时间": "2025-10-21",
+    "更新时间": "2025-10-21",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Intel Arc B-Series graphics拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2025-24282",
+    "公开日期": "2025-10-20",
+    "危害级别": "中",
+    "影响产品": "Intel Arc B-Series graphics <32.0.101.6737",
+    "CVE ID": "CVE-2025-24835",
+    "漏洞描述": "Intel Arc B-Series graphics是英特尔推出的独立显卡系列，专为桌面游戏、内容创作和人工智能应用设计。\nIntel Arc B-Series graphics存在拒绝服务漏洞，该漏洞源于保护机制失效，攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-24835",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://intel.com/content/www/us/en/security-center/advisory/intel-sa-01299.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/744041",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-20",
+    "收录时间": "2025-10-21",
+    "更新时间": "2025-10-21",
+    "漏洞附件": "(无附件)"
+}
