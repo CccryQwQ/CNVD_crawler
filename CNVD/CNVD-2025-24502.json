@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Android拒绝服务漏洞（CNVD-2025-24502）",
+    "CNVD-ID": "CNVD-2025-24502",
+    "公开日期": "2025-10-22",
+    "危害级别": "中",
+    "影响产品": "Google Android 15.0",
+    "CVE ID": "CVE-2025-26432",
+    "漏洞描述": "Google Android是美国谷歌（Google）公司的一套以Linux为基础的开源操作系统。\nGoogle Android存在拒绝服务漏洞，该漏洞是由于在多个文件中的allowPackageAccess函数中反复添加允许的包时资源耗尽造成的。攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://android.googlesource.com/platform/frameworks/base/+/a928f327359247449c214dbc0504b8af3648bacf",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://source.android.com/security/bulletin/2025-06-01",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/744681",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-08",
+    "收录时间": "2025-10-22",
+    "更新时间": "2025-10-22",
+    "漏洞附件": "(无附件)"
+}

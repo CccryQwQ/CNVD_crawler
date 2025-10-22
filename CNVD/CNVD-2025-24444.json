@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Audition越界读取漏洞（CNVD-2025-24444）",
+    "CNVD-ID": "CNVD-2025-24444",
+    "公开日期": "2025-10-22",
+    "危害级别": "中",
+    "影响产品": "Adobe Adobe Audition <=24.4.6\nAdobe Adobe Audition <=23.6.9",
+    "CVE ID": "CVE-2024-47449",
+    "漏洞描述": "Adobe Audition是美国奥多比（Adobe）公司的一套多音轨编辑工具。该产品主要使用包含多音轨、波形和光谱显示的完善工具集对音频内容进行混音、编辑和创建等。\nAdobe Audition存在越界读取漏洞，攻击者可利用该漏洞导致敏感内存泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://helpx.adobe.com/security/products/audition/apsb24-83.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/audition/apsb24-83.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/744531",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-15",
+    "收录时间": "2025-10-22",
+    "更新时间": "2025-10-22",
+    "漏洞附件": "(无附件)"
+}
