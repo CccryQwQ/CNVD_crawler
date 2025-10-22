@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe Creative Cloud Desktop存在未明漏洞",
+    "CNVD-ID": "CNVD-2025-24427",
+    "公开日期": "2025-10-22",
+    "危害级别": "低",
+    "影响产品": "Adobe Creative Cloud Desktop <=6.7.0.278",
+    "CVE ID": "CVE-2025-54271",
+    "漏洞描述": "Adobe Creative Cloud Desktop是美国奥多比（Adobe）公司的一套用于在Creative云会员管理中心管理应用程序和服务的应用程序。该程序支持同步和共享文件、管理字体以及访问商业摄影和设计的资产库。\nAdobe Creative Cloud Desktop存在安全漏洞，攻击者可利用该漏洞导致任意文件系统写入。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://helpx.adobe.com/security/products/creative-cloud/apsb25-95.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/creative-cloud/apsb25-95.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/744446",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-21",
+    "收录时间": "2025-10-22",
+    "更新时间": "2025-10-22",
+    "漏洞附件": "(无附件)"
+}
