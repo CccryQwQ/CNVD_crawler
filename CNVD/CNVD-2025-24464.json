@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft SharePoint Server远程代码执行漏洞（CNVD-2025-24464）",
+    "CNVD-ID": "CNVD-2025-24464",
+    "公开日期": "2025-10-22",
+    "危害级别": "高",
+    "影响产品": "Microsoft SharePoint Enterprise Server 2016  \nMicrosoft SharePoint Enterprise Server 2013 Service Pack 1\nMicrosoft SharePoint Server 2019 \nMicrosoft SharePoint Foundation 2013 Service Pack 1\nMicrosoft  SharePoint Server Subscription Edition",
+    "CVE ID": "CVE-2022-37961",
+    "漏洞描述": "Microsoft SharePoint Server是美国微软（Microsoft）公司的一套企业业务协作平台。该平台用于对业务信息进行整合，并能够共享工作、与他人协同工作、组织项目和工作组、搜索人员和信息。\nMicrosoft SharePoint Server存在远程代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2022-37961",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-37961",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/744631",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2022-09-15",
+    "收录时间": "2025-10-22",
+    "更新时间": "2025-10-22",
+    "漏洞附件": "(无附件)"
+}
