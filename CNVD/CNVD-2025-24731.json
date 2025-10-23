@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "ChanCMS /cms/article/update文件SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-24731",
+    "公开日期": "2025-10-23",
+    "危害级别": "中",
+    "影响产品": "ChanCMS ChanCMS <=3.3.2",
+    "CVE ID": "CVE-2025-11903",
+    "漏洞描述": "ChanCMS是一个内容管理系统。\nChanCMS 3.3.2及之前版本存在SQL注入漏洞，该漏洞源于文件/cms/article/update中参数cid缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/NarcherAlter/Security_Note/blob/main/Vulnerability_Discovery/ChanCMSv3.3.2.md#111",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://gitee.com/chancms/ChanCMS/releases",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/745851",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-23",
+    "收录时间": "2025-10-23",
+    "更新时间": "2025-10-23",
+    "漏洞附件": "(无附件)"
+}

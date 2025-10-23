@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "ChurchCRM反序列化漏洞",
+    "CNVD-ID": "CNVD-2025-24733",
+    "公开日期": "2025-10-23",
+    "危害级别": "中",
+    "影响产品": "ChurchCRM ChurchCRM <=5.18.0",
+    "CVE ID": "CVE-2025-11938",
+    "漏洞描述": "ChurchCRM是ChurchCRM开源的一个为教会打造的开源CRM系统。\nChurchCRM 5.18.0及之前版本存在反序列化漏洞，该漏洞源于文件setup/routes/setup.php中参数DB_PASSWORD/ROOT_PATH/URL在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞导致代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.329014",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/ChurchCRM/CRM/releases",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/745861",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-23",
+    "收录时间": "2025-10-23",
+    "更新时间": "2025-10-23",
+    "漏洞附件": "(无附件)"
+}
