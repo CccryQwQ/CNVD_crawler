@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Keyy Two Factor Authentication plugin权限升级漏洞",
+    "CNVD-ID": "CNVD-2025-24606",
+    "公开日期": "2025-10-22",
+    "危害级别": "高",
+    "影响产品": "WordPress Keyy Two Factor Authentication plugin <=1.2.3",
+    "CVE ID": "CVE-2025-10293",
+    "漏洞描述": "WordPress Keyy Two Factor Authentication plugin是一款用于增强网站登录安全性的插件。\nWordPress Keyy Two Factor Authentication plugin存在权限升级漏洞，该漏洞源于未正确验证与生成令牌关联的用户身份，攻击者可利用该漏洞导致权限提升。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.wordfence.com/threat-intel/vulnerabilities/id/1850e6bd-04bc-4510-aba9-e51431363231?source=cve",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-21",
+    "收录时间": "2025-10-23",
+    "更新时间": "2025-10-23",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Library Management System plugin未经授权修改数据漏洞",
+    "CNVD-ID": "CNVD-2025-24607",
+    "公开日期": "2025-10-22",
+    "危害级别": "中",
+    "影响产品": "WordPress Library Management System plugin <=3.1",
+    "CVE ID": "CVE-2025-10303",
+    "漏洞描述": "WordPress Library Management System plugin是一个用于扩展WordPress功能的插件，主要用于帮助用户更高效地管理网站内容、用户数据和系统设置。\nWordPress Library Management System plugin存在未经授权修改数据漏洞，该漏洞源于owt7_library_management_ajax_handler缺少能力检查，攻击者可利用该漏洞导致未经授权的数据修改。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/library-management-system/trunk/admin/class-library-management-system-admin.php#L831",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-21",
+    "收录时间": "2025-10-23",
+    "更新时间": "2025-10-23",
+    "漏洞附件": "(无附件)"
+}
