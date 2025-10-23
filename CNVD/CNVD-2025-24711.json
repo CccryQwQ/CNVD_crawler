@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SAMSUNG Notes存在未明漏洞",
+    "CNVD-ID": "CNVD-2025-24711",
+    "公开日期": "2025-10-24",
+    "危害级别": "低",
+    "影响产品": "Samsung Samsung Notes <4.4.29.23",
+    "CVE ID": "CVE-2025-20977",
+    "漏洞描述": "SAMSUNG Notes是韩国三星（SAMSUNG）公司的一个应用软件。用于提供一个记录功能。\nSAMSUNG Notes存在安全漏洞，攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=05",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.samsungmobile.com/serviceWeb.smsb?year=2025&month=05",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/745771",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-14",
+    "收录时间": "2025-10-23",
+    "更新时间": "2025-10-23",
+    "漏洞附件": "(无附件)"
+}
