@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Orion SMS OTP Verification plugin权限提升漏洞",
+    "CNVD-ID": "CNVD-2025-24575",
+    "公开日期": "2025-10-22",
+    "危害级别": "高",
+    "影响产品": "WordPress Orion SMS OTP Verification plugin <=1.1.7",
+    "CVE ID": "CVE-2025-9967",
+    "漏洞描述": "WordPress Orion SMS OTP Verification plugin是一款用于WordPress的身份验证插件，通过短信（SMS）发送一次性密码（OTP）实现用户验证。\nWordPress Orion SMS OTP Verification plugin存在权限提升漏洞，该漏洞源于未正确验证用户身份，攻击者可利用该漏洞更改任意用户的密码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/orion-sms-otp-verification/trunk/vendor/js/reset-password.js",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-21",
+    "收录时间": "2025-10-23",
+    "更新时间": "2025-10-23",
+    "漏洞附件": "(无附件)"
+}

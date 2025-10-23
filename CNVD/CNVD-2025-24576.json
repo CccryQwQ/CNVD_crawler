@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Outdoor plugin SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-24576",
+    "公开日期": "2025-10-22",
+    "危害级别": "高",
+    "影响产品": "WordPress Outdoor plugin <=1.3.2",
+    "CVE ID": "CVE-2025-10743",
+    "漏洞描述": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。 \nWordPress Outdoor plugin存在SQL注入漏洞，该漏洞源于edit参数缺少验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.wordfence.com/threat-intel/vulnerabilities/id/6038accc-98ac-496c-9c53-ec06b2045324?source=cve",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-21",
+    "收录时间": "2025-10-23",
+    "更新时间": "2025-10-23",
+    "漏洞附件": "(无附件)"
+}
