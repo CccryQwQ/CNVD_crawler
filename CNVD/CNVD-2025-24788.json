@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Flowise文件上传漏洞（CNVD-2025-24788）",
+    "CNVD-ID": "CNVD-2025-24788",
+    "公开日期": "2025-10-24",
+    "危害级别": "高",
+    "影响产品": "FlowiseAI Flowise 3.0.7",
+    "CVE ID": "CVE-2025-61687",
+    "漏洞描述": "Flowise是FlowiseAI开源的一个用于轻松构建LLM应用程序的工具。\nFlowise 3.0.7版本存在文件上传漏洞，该漏洞源于文件上传过程中未验证文件扩展名、MIME类型或文件内容，攻击者可利用该漏洞导致远程代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/FlowiseAI/Flowise/blob/d29db16bfcf9a4be8febc3d19d52263e8c3d0055/packages/components/src/storageUtils.ts#L1104-L1111",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/FlowiseAI/Flowise/releases",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/746141",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-21",
+    "收录时间": "2025-10-24",
+    "更新时间": "2025-10-24",
+    "漏洞附件": "(无附件)"
+}

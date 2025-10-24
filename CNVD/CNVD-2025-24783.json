@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "SAMSUNG Mobile devices存在未明漏洞（CNVD-2025-24783）",
+    "CNVD-ID": "CNVD-2025-24783",
+    "公开日期": "2025-10-24",
+    "危害级别": "中",
+    "影响产品": "Samsung Samsung mobile devices Android 13\nSamsung Samsung mobile devices Android 14\nSamsung Samsung mobile devices Android 15\nSamsung Samsung mobile devices Android 16",
+    "CVE ID": "CVE-2025-21055",
+    "漏洞描述": "SAMSUNG Mobile devices是韩国三星（SAMSUNG）公司的一系列的三星移动设备，包括手机、平板等。\nSAMSUNG Mobile devices SMR Oct-2025 Release 1之前版本存在安全漏洞，攻击者可利用该漏洞导致访问越界内存。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-21055",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://security.samsungmobile.com/securityUpdate.smsb?year=2025&month=10",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/746111",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-21",
+    "收录时间": "2025-10-24",
+    "更新时间": "2025-10-24",
+    "漏洞附件": "(无附件)"
+}

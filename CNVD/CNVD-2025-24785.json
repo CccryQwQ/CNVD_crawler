@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Wireshark存在未明漏洞（CNVD-2025-24785）",
+    "CNVD-ID": "CNVD-2025-24785",
+    "公开日期": "2025-10-24",
+    "危害级别": "中",
+    "影响产品": "Wireshark Wireshark >=4.4.0，<4.4.9\nWireshark Wireshark >=4.2.0，<4.2.13",
+    "CVE ID": "CVE-2025-11626",
+    "漏洞描述": "Wireshark（前称Ethereal）是导线鲨鱼（Wireshark）团队的一套网络数据包分析软件。该软件的功能是截取网络数据包，并显示出详细的数据以供分析。\nWireshark存在安全漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://gitlab.com/wireshark/wireshark/-/issues/20724",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.wireshark.org/security/wnpa-sec-2025-04.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/746151",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-21",
+    "收录时间": "2025-10-24",
+    "更新时间": "2025-10-24",
+    "漏洞附件": "(无附件)"
+}
