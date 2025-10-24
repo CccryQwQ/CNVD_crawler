@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiDLP日志信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-24794",
+    "公开日期": "2025-10-24",
+    "危害级别": "低",
+    "影响产品": "Fortinet FortiDLP >=12.0.4，<=12.0.5\nFortinet FortiDLP 12.0.2\nFortinet FortiDLP 12.0.0\nFortinet FortiDLP 11.5.1\nFortinet FortiDLP >=11.4.5，<=11.4.6",
+    "CVE ID": "CVE-2025-46752",
+    "漏洞描述": "Fortinet FortiDLP是美国飞塔（Fortinet）公司的一个数据防泄漏软件。\nFortinet FortiDLP存在日志信息泄露漏洞，该漏洞源于将敏感信息插入日志文件，攻击者可利用该漏洞导致信息泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://fortiguard.fortinet.com/psirt/FG-IR-25-160",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.fortinet.com/products/fortidlp",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/746136",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-21",
+    "收录时间": "2025-10-24",
+    "更新时间": "2025-10-24",
+    "漏洞附件": "(无附件)"
+}
