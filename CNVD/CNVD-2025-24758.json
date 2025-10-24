@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Bank Locker Management System search参数跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-24758",
+    "公开日期": "2025-10-24",
+    "危害级别": "中",
+    "影响产品": "Bank Locker Management System Bank Locker Management System",
+    "CVE ID": "CVE-2025-61255",
+    "漏洞描述": "Bank Locker Management System是一个银行储物柜管理系统。\nBank Locker Management System存在跨站脚本漏洞，该漏洞源于/search参数对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/nikhilpatidar01/CVE-Assigned-Reports/blob/Master/CVE-2025-61255/advisory.md",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2025-10-23",
+    "收录时间": "2025-10-24",
+    "更新时间": "2025-10-24",
+    "漏洞附件": "(无附件)"
+}
