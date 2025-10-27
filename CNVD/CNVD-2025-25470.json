@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Azure Cache for Redis Enterprise权限提升漏洞",
+    "CNVD-ID": "CNVD-2025-25470",
+    "公开日期": "2025-10-27",
+    "危害级别": "高",
+    "影响产品": "Microsoft Azure Managed Redis \nMicrosoft Azure Cache for Redis Enterprise",
+    "CVE ID": "CVE-2025-59271",
+    "漏洞描述": "Microsoft Azure Cache for Redis Enterprise是美国Microsoft公司的一款内存缓存服务。\nMicrosoft Azure Cache for Redis Enterprise存在权限提升漏洞，攻击者可利用该漏洞在系统上获得更高的权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59271",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59271",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/747056",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-21",
+    "收录时间": "2025-10-27",
+    "更新时间": "2025-10-27",
+    "漏洞附件": "(无附件)"
+}

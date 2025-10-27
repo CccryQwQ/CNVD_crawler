@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "HCL MyXalytics存在未明漏洞",
+    "CNVD-ID": "CNVD-2025-25463",
+    "公开日期": "2025-10-27",
+    "危害级别": "低",
+    "影响产品": "HCL HCL MyXalytics 6.6",
+    "CVE ID": "CVE-2025-52655",
+    "漏洞描述": "HCL MyXalytics是印度HCL公司的一款分析类软件产品。用于进行数据分析等相关工作。\nHCL MyXalytics存在安全漏洞，该漏洞源于加载第三方脚本时未进行完整性检查或验证，攻击者可利用该漏洞导致外部代码在应用程序环境中运行，存在数据泄露风险。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0124411",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0124411",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/747031",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-21",
+    "收录时间": "2025-10-27",
+    "更新时间": "2025-10-27",
+    "漏洞附件": "(无附件)"
+}
