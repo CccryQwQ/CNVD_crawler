@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "HCL BigFix WebUI存在未明漏洞",
+    "CNVD-ID": "CNVD-2025-25462",
+    "公开日期": "2025-10-27",
+    "危害级别": "中",
+    "影响产品": "HCL BigFix WebUI v11",
+    "CVE ID": "CVE-2025-52647",
+    "漏洞描述": "HCL BigFix WebUI是印度HCL公司的一个基于网页的管理页面。\nHCL BigFix WebUI存在安全漏洞，该漏洞源于HTTP标头字段中的HOST信息响应不当，攻击者可利用该漏洞导致主机头投毒攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0124562",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0124562",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/747026",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-21",
+    "收录时间": "2025-10-27",
+    "更新时间": "2025-10-27",
+    "漏洞附件": "(无附件)"
+}

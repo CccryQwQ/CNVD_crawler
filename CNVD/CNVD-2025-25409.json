@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "HCL AION存在未明漏洞（CNVD-2025-25409）",
+    "CNVD-ID": "CNVD-2025-25409",
+    "公开日期": "2025-10-27",
+    "危害级别": "中",
+    "影响产品": "HCL AION v2.0",
+    "CVE ID": "CVE-2025-52624",
+    "漏洞描述": "HCL AION是印度HCL公司的一款AI生命周期管理平台。\nHCL AION存在安全漏洞，该漏洞源于脚本白名单配置绕过和Content-Security-Policy标头配置不当，攻击者可利用该漏洞导致跨站脚本和其他注入攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0124444",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0124444",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/747011",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-21",
+    "收录时间": "2025-10-27",
+    "更新时间": "2025-10-27",
+    "漏洞附件": "(无附件)"
+}
