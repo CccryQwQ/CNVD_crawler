@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress插件Addison反序列化漏洞",
+    "CNVD-ID": "CNVD-2025-25386",
+    "公开日期": "2025-10-27",
+    "危害级别": "高",
+    "影响产品": "WordPress Addison plugin <=1.4.2",
+    "CVE ID": "CVE-2025-60216",
+    "漏洞描述": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。 \nWordPress插件Addison存在反序列化漏洞，该漏洞源于应用程序在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞导致对象注入。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Theme/addison/vulnerability/wordpress-addison-theme-1-4-2-php-object-injection-vulnerability",
+    "漏洞解决方案": "厂商已提供漏洞修复方案，请关注厂商主页更新：\nhttps://vdp.patchstack.com/database/Wordpress/Theme/addison/vulnerability/wordpress-addison-theme-1-4-2-php-object-injection-vulnerability",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/746996",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-24",
+    "收录时间": "2025-10-27",
+    "更新时间": "2025-10-27",
+    "漏洞附件": "(无附件)"
+}

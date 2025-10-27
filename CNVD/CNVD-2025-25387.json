@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "HCL AION信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-25387",
+    "公开日期": "2025-10-27",
+    "危害级别": "低",
+    "影响产品": "HCL AION v2.0",
+    "CVE ID": "CVE-2025-52630",
+    "漏洞描述": "HCL AION是印度HCL公司的一款AI生命周期管理平台。\nHCL AION存在信息泄露漏洞，该漏洞是由于缺少或不安全的“X-Content-Type-Options”标头缺陷造成的。攻击者可利用该漏洞获取凭据或系统信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0124444",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0124444",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/747001",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-21",
+    "收录时间": "2025-10-27",
+    "更新时间": "2025-10-27",
+    "漏洞附件": "(无附件)"
+}
