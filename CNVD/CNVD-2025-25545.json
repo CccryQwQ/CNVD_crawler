@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Cyber Cafe Management System search.php文件跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-25545",
+    "公开日期": "2025-10-24",
+    "危害级别": "中",
+    "影响产品": "Cyber Cafe Management System Cyber Cafe Management System 1.0",
+    "CVE ID": "CVE-2025-11390",
+    "漏洞描述": "Cyber Cafe Management System是一个网吧管理系统。\nCyber Cafe Management System存在跨站脚本漏洞，该漏洞源于文件/search.php中参数searchdata对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/QIU-DIE/CVE/issues/4",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-13",
+    "收录时间": "2025-10-28",
+    "更新时间": "2025-10-28",
+    "漏洞附件": "(无附件)"
+}
