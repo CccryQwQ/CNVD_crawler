@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Online Banquet Booking System login.php文件跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-25570",
+    "公开日期": "2025-10-29",
+    "危害级别": "中",
+    "影响产品": "Online Banquet Booking System Online Banquet Booking System 1.0",
+    "CVE ID": "CVE-2025-7925",
+    "漏洞描述": "Online Banquet Booking System是一个网上宴会预订系统。\nOnline Banquet Booking System存在跨站脚本漏洞，该漏洞源于/admin/login.php文件中对user_login/userpassword参数未进行有效过滤。攻击者可利用该漏洞通过注入恶意脚本发起远程跨站脚本攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.317054\nhttps://vuldb.com/?ctiid.317054\nhttps://vuldb.com/?submit.618895\nhttps://vuldb.com/?submit.618907\nhttps://github.com/LagonGit/ReportCVE/issues/2\nhttps://drive.google.com/file/d/1CnrQn_-nSWLCUXJrwgrDFyI5D5MOzD-n/view\nhttps://phpgurukul.com/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://phpgurukul.com/",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2025-07-23",
+    "收录时间": "2025-10-29",
+    "更新时间": "2025-10-29",
+    "漏洞附件": "(无附件)"
+}

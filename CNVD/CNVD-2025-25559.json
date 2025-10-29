@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Blockspare plugin敏感信息插入漏洞",
+    "CNVD-ID": "CNVD-2025-25559",
+    "公开日期": "2025-10-28",
+    "危害级别": "中",
+    "影响产品": "WordPress Blockspare plugin <=3.2.13.2",
+    "CVE ID": "CVE-2025-62026",
+    "漏洞描述": "WordPress和WordPress plugin都是WordPress基金会的产品。WordPress plugin是一个应用插件。 \nWordPress Blockspare plugin存在敏感信息插入漏洞，该漏洞源于在发送数据中插入敏感信息，攻击者可利用该漏洞检索嵌入的敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/blockspare/vulnerability/wordpress-blockspare-plugin-3-2-13-2-sensitive-data-exposure-vulnerability",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/Blockspare/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/747216",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-24",
+    "收录时间": "2025-10-29",
+    "更新时间": "2025-10-29",
+    "漏洞附件": "(无附件)"
+}

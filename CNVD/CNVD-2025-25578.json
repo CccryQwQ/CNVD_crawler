@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Huawei HarmonyOS和EMUI拒绝服务漏洞",
+    "CNVD-ID": "CNVD-2025-25578",
+    "公开日期": "2025-10-28",
+    "危害级别": "中",
+    "影响产品": "Huawei EMUI 12.0.0\nHuawei HarmonyOS 3.0.0\nHuawei HarmonyOS 2.1.0\nHuawei HarmonyOS 2.0.0\nHuawei HarmonyOS 3.1.0\nHuawei EMUI 13.0.0\nHuawei HarmonyOS 4.0.0\nHuawei HarmonyOS 4.2.0\nHuawei EMUI 14.0.0",
+    "CVE ID": "CVE-2024-54101",
+    "漏洞描述": "Huawei HarmonyOS是中国华为（Huawei）公司的一个操作系统。提供一个基于微内核的全场景分布式操作系统。Huawei EMUI是华为基于Android（安卓）进行开发的情感化操作系统。\nHuawei HarmonyOS和EMUI存在拒绝服务漏洞，攻击者可利用该漏洞影响可用性。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-54101",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://consumer.huawei.com/en/support/bulletin/2024/12/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/747316",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-20",
+    "收录时间": "2025-10-29",
+    "更新时间": "2025-10-29",
+    "漏洞附件": "(无附件)"
+}

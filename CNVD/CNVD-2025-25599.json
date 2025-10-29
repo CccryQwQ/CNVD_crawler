@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "D-Link DIR-2640命令注入漏洞",
+    "CNVD-ID": "CNVD-2025-25599",
+    "公开日期": "2025-10-29",
+    "危害级别": "高",
+    "影响产品": "D-Link DIR-2640",
+    "CVE ID": "CVE-2023-32151",
+    "漏洞描述": "D-Link DIR-2640是中国台湾友讯（D-Link）推出的一款高功率Wi-Fi路由器，支持AC2600WiFi标准，具备双频段（2.4GHz和5GHz）网络传输功能。\nD-Link DIR-2640存在命令注入漏洞，该漏洞源于DestNetwork命令注入远程代码执行漏洞。攻击者可利用该漏洞执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-32151",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10323",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/747311",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-12",
+    "收录时间": "2025-10-29",
+    "更新时间": "2025-10-29",
+    "漏洞附件": "(无附件)"
+}

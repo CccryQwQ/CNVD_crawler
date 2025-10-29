@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Buddypress Plugin缺少授权漏洞",
+    "CNVD-ID": "CNVD-2025-25560",
+    "公开日期": "2025-10-28",
+    "危害级别": "高",
+    "影响产品": "WordPress1 Buddypress Plugin <=14.3.4",
+    "CVE ID": "CVE-2025-62022",
+    "漏洞描述": "WordPress Buddypress Plugin是由Automattic（WordPress母公司）开发的开源社交网络插件，用于将WordPress网站转换为功能完善的社交平台。\nWordPress Buddypress Plugin存在缺少授权漏洞，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/buddypress/vulnerability/wordpress-buddypress-plugin-14-3-4-broken-access-control-vulnerability",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/BuddyPress/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/747221",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-24",
+    "收录时间": "2025-10-29",
+    "更新时间": "2025-10-29",
+    "漏洞附件": "(无附件)"
+}
