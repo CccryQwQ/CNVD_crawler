@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Newforma Project Center Server远程代码执行漏洞",
+    "CNVD-ID": "CNVD-2025-25889",
+    "公开日期": "2025-10-30",
+    "危害级别": "高",
+    "影响产品": "Newforma Project Center Server <=2023.3.0.32259",
+    "CVE ID": "CVE-2024-32499",
+    "漏洞描述": "Newforma Project Center Server是Newforma公司的一个建筑、工程和施工(AEC)行业的项目信息管理解决方案，用于集中存储和管理项目文档和协作。\nNewforma Project Center Server存在远程代码执行漏洞，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-32499",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://code-white.com/public-vulnerability-list/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-05-07",
+    "收录时间": "2025-10-30",
+    "更新时间": "2025-10-30",
+    "漏洞附件": "(无附件)"
+}
