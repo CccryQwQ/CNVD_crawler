@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Businext plugin文件包含漏洞",
+    "CNVD-ID": "CNVD-2025-25881",
+    "公开日期": "2025-10-30",
+    "危害级别": "高",
+    "影响产品": "WordPress Businext plugin <2.4.4",
+    "CVE ID": "CVE-2025-58967",
+    "漏洞描述": "WordPress Businext plugin是专为商业和金融机构设计的WordPress主题，提供高度专业化的功能和布局选项，适用于企业官网、律师事务所、投资机构等场景。\nWordPress Businext plugin存在文件包含漏洞，该漏洞源于未对本地文件资源的调用做有效过滤，攻击者可利用该漏洞导致PHP本地文件包含。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Theme/businext/vulnerability/wordpress-businext-theme-2-4-4-local-file-inclusion-vulnerability",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-24",
+    "收录时间": "2025-10-30",
+    "更新时间": "2025-10-30",
+    "漏洞附件": "(无附件)"
+}

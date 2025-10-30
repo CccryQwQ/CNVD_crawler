@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Cinza Grid plugin跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-25884",
+    "公开日期": "2025-10-30",
+    "危害级别": "中",
+    "影响产品": "WordPress Cinza Grid plugin <=1.2.1",
+    "CVE ID": "CVE-2025-11824",
+    "漏洞描述": "WordPress Cinza Grid plugin是一个基于Isotope（瀑布流布局）的轻量级WordPress插件，用于创建响应式网格布局，支持文章、页面或自定义内容类型的展示。\nWordPress Cinza Grid plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/cinza-grid/tags/1.2.1/includes/backend-cpts.php#L733",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-24",
+    "收录时间": "2025-10-30",
+    "更新时间": "2025-10-30",
+    "漏洞附件": "(无附件)"
+}

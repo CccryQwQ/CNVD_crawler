@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Plugin Captcha.eu服务端请求伪造攻击漏洞",
+    "CNVD-ID": "CNVD-2025-25883",
+    "公开日期": "2025-10-30",
+    "危害级别": "中",
+    "影响产品": "WordPress Wordpress Plugin Captcha.eu <=1.0.61",
+    "CVE ID": "CVE-2025-49374",
+    "漏洞描述": "WordPress Plugin Captcha.eu是WordPress平台的一款验证码插件，主要用于防止机器人攻击，同时符合GDPR（通用数据保护条例）要求。\nWordPress Plugin Captcha.eu存在服务端请求伪造攻击漏洞，该漏洞源于服务器未实现足够的验证机制来确认请求的来源，攻击者可利用该漏洞探测服务器内网资源。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/captcha-eu/vulnerability/wordpress-captcha-eu-plugin-1-0-61-server-side-request-forgery-ssrf-vulnerability",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/Captcha.eu/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/748066",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-24",
+    "收录时间": "2025-10-30",
+    "更新时间": "2025-10-30",
+    "漏洞附件": "(无附件)"
+}

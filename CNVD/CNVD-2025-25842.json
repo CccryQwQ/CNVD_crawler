@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Boldermail plugin反序列化漏洞",
+    "CNVD-ID": "CNVD-2025-25842",
+    "公开日期": "2025-10-30",
+    "危害级别": "高",
+    "影响产品": "WordPress Boldermail plugin <=2.4.0",
+    "CVE ID": "CVE-2025-52740",
+    "漏洞描述": "WordPress Boldermail plugin是专为WordPress设计的邮件营销和自动化平台，允许用户直接在WordPress后台管理订阅者、设计邮件模板并创建自动化工作流。\nWordPress Boldermail plugin存在反序列化漏洞，该漏洞源于应用程序在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞导致代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/boldermail/vulnerability/wordpress-boldermail-plugin-2-4-0-php-object-injection-vulnerability",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-24",
+    "收录时间": "2025-10-30",
+    "更新时间": "2025-10-30",
+    "漏洞附件": "(无附件)"
+}

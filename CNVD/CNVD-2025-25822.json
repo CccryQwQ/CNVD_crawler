@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Newforma Project Center Server存在未明漏洞",
+    "CNVD-ID": "CNVD-2025-25822",
+    "公开日期": "2025-10-30",
+    "危害级别": "中",
+    "影响产品": "Newforma Project Center Server <2024.1",
+    "CVE ID": "CVE-2025-35056",
+    "漏洞描述": "Newforma Project Center Server是Newforma公司的一个建筑、工程和施工(AEC)行业的项目信息管理解决方案，用于集中存储和管理项目文档和协作。\nNewforma Project Center Server存在安全漏洞，该漏洞源于UserWeb/Common/MarkupServices.ashx中的StreamStampImage接受加密文件路径，攻击者可利用该漏洞导致任意文件读取。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://raw.githubusercontent.com/cisagov/CSAF/develop/csaf_files/IT/white/2025/va-25-282-01.json",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.newforma.com/newforma-project-center/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/748041",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-21",
+    "收录时间": "2025-10-30",
+    "更新时间": "2025-10-30",
+    "漏洞附件": "(无附件)"
+}
