@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Medical Store Management System MainPanel.java文件SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-26087",
+    "公开日期": "2025-10-30",
+    "危害级别": "中",
+    "影响产品": "Medical Store Management System Medical Store Management System 1.0",
+    "CVE ID": "CVE-2025-8929",
+    "漏洞描述": "Medical Store Management System是一个药店管理系统。\nMedical Store Management System存在SQL注入漏洞，该漏洞源于MainPanel.java文件searchTxt参数过滤不当，攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.yuque.com/gongzi-jsnek/xb2q3a/peapz0yqgga5b3q2#vulnerability-details-and-poc",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-18",
+    "收录时间": "2025-10-31",
+    "更新时间": "2025-10-31",
+    "漏洞附件": "(无附件)"
+}
