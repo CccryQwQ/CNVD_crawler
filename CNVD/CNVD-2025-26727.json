@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft OfficePlus欺骗漏洞",
+    "CNVD-ID": "CNVD-2025-26727",
+    "公开日期": "2025-11-03",
+    "危害级别": "高",
+    "影响产品": "Microsoft OfficePLUS",
+    "CVE ID": "CVE-2025-55243",
+    "漏洞描述": "Microsoft Office是美国微软（Microsoft）公司的一款办公软件套件产品。OfficePLUS是微软官方出品的Office插件。\nMicrosoft OfficePlus存在欺骗漏洞，攻击者可利用该漏洞通过网络进行欺骗，并获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-55243",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-55243",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/748146",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-11",
+    "收录时间": "2025-11-03",
+    "更新时间": "2025-11-03",
+    "漏洞附件": "(无附件)"
+}
