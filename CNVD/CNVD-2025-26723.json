@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft PowerPoint代码执行漏洞（CNVD-2025-26723）",
+    "CNVD-ID": "CNVD-2025-26723",
+    "公开日期": "2025-11-03",
+    "危害级别": "高",
+    "影响产品": "Microsoft PowerPoint 2016 \nMicrosoft Office 2019 \nMicrosoft 365 Apps for Enterprise \nMicrosoft Office LTSC 2021 \nMicrosoft Microsoft Office LTSC 2024",
+    "CVE ID": "CVE-2025-54908",
+    "漏洞描述": "Microsoft PowerPoint是美国微软（Microsoft）公司的Office套件中的一个文档演示工具。\nMicrosoft PowerPoint存在代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-54908",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-54908",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/748126",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-11",
+    "收录时间": "2025-11-03",
+    "更新时间": "2025-11-03",
+    "漏洞附件": "(无附件)"
+}
