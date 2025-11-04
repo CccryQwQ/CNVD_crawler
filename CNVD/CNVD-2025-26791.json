@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Android混淆代理漏洞",
+    "CNVD-ID": "CNVD-2025-26791",
+    "公开日期": "2025-11-03",
+    "危害级别": "中",
+    "影响产品": "Google Android 16.0",
+    "CVE ID": "CVE-2025-48532",
+    "漏洞描述": "Google Android是一种基于Linux内核的自由及开放源代码移动操作系统，由Google公司与开放手机联盟共同开发，主要用于智能手机、平板电脑等设备。\nGoogle Android存在混淆代理漏洞，该漏洞源于在MediaProvider.java的markMediaAsFavorite方法中混淆的代理，攻击者可利用该漏洞绕过WRITE_EXTERNAL_STORAGE权限，本地权限提升。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-48532",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/2025-09-01",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/748921",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-08",
+    "收录时间": "2025-11-04",
+    "更新时间": "2025-11-04",
+    "漏洞附件": "(无附件)"
+}
