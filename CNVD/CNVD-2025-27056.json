@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Consulting plugin文件包含漏洞",
+    "CNVD-ID": "CNVD-2025-27056",
+    "公开日期": "2025-11-06",
+    "危害级别": "高",
+    "影响产品": "WordPress Consulting plugin <6.7.5",
+    "CVE ID": "CVE-2025-64359",
+    "漏洞描述": "WordPress Consulting plugin是一个提供WordPress网站优化、安全审计、性能提升等服务的插件‌，主要用于帮助企业或个人用户解决WordPress网站的技术问题。\nWordPress Consulting plugin存在文件包含漏洞，该漏洞源于未对本地文件资源的调用做有效过滤，攻击者可利用该漏洞读取敏感文件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Theme/consulting/vulnerability/wordpress-consulting-theme-6-7-5-local-file-inclusion-vulnerability",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/Consulting/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/749191",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-05",
+    "收录时间": "2025-11-06",
+    "更新时间": "2025-11-06",
+    "漏洞附件": "(无附件)"
+}

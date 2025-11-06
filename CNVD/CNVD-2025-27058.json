@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Document Library Lite plugin不当授权漏洞",
+    "CNVD-ID": "CNVD-2025-27058",
+    "公开日期": "2025-11-06",
+    "危害级别": "中",
+    "影响产品": "WordPress Document Library Lite plugin <=1.1.6",
+    "CVE ID": "CVE-2025-11174",
+    "漏洞描述": "WordPress Document Library Lite plugin是一款WordPress插件，用于创建文档库和下载管理功能，支持多种文件类型和响应式布局。\nWordPress Document Library Lite plugin存在不当授权漏洞，该漏洞源于未执行nonce或能力检查，攻击者可利用该漏洞通过AJAX端点检索未发布的文档标题和内容。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/document-library-lite/tags/1.1.5/src/Simple_Document_Library.php#L492",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/document-library-lite/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/749201",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-05",
+    "收录时间": "2025-11-06",
+    "更新时间": "2025-11-06",
+    "漏洞附件": "(无附件)"
+}

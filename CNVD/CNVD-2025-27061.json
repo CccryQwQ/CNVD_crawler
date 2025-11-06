@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Essential Addons for Elementor plugin授权缺失漏洞",
+    "CNVD-ID": "CNVD-2025-27061",
+    "公开日期": "2025-11-06",
+    "危害级别": "低",
+    "影响产品": "WordPress Essential Addons for Elementor plugin <=6.2.4",
+    "CVE ID": "CVE-2025-64352",
+    "漏洞描述": "WordPress Essential Addons for Elementor plugin是一款专为Elementor页面构建器设计的扩展插件‌，提供超过80种高级小工具和模块，用于创建专业网页设计。\nWordPress Essential Addons for Elementor plugin存在授权缺失漏洞，该漏洞源于授权缺失和访问控制配置不当。攻击者可利用该漏洞导致完整性受影响。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/essential-addons-for-elementor-lite/vulnerability/wordpress-essential-addons-for-elementor-plugin-6-2-4-broken-access-control-vulnerability",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/essential-addons-for-elementor-lite/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/749216",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-05",
+    "收录时间": "2025-11-06",
+    "更新时间": "2025-11-06",
+    "漏洞附件": "(无附件)"
+}
