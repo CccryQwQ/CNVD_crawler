@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Delta Electronics DTM代码问题漏洞",
+    "CNVD-ID": "CNVD-2025-26914",
+    "公开日期": "2025-11-07",
+    "危害级别": "高",
+    "影响产品": "Delta Electronics DTM Soft <=1.30",
+    "CVE ID": "CVE-2024-12677",
+    "漏洞描述": "Delta Electronics DTM是中国台达电子（Delta Electronics）公司的一系列温度控制器。\nDelta Electronics DTM存在代码问题漏洞，攻击者可利用该漏洞执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-354-03",
+    "漏洞解决方案": "用户可参考如下厂商提供的安全补丁以修复该漏洞：\nhttps://www.deltaww.com/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/749056",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-23",
+    "收录时间": "2025-11-05",
+    "更新时间": "2025-11-05",
+    "漏洞附件": "(无附件)"
+}
