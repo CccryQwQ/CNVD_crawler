@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tenda AC10缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-27114",
+    "公开日期": "2025-11-06",
+    "危害级别": "高",
+    "影响产品": "Tenda AC10 16.03.10.13",
+    "CVE ID": "CVE-2025-12622",
+    "漏洞描述": "Tenda AC10是腾达公司推出的无线路由器产品。\nTenda AC10 16.03.10.13版本存在缓冲区溢出漏洞，该漏洞源于/goform/SysRunCmd文件中的formSysRunCmd函数对getui参数处理不当。攻击者可利用该漏洞通过构造恶意参数触发缓冲区溢出，实现远程代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.330914\nhttps://vuldb.com/?ctiid.330914\nhttps://vuldb.com/?submit.678889\nhttps://www.yuque.com/ba1ma0-an29k/nnxoap/rg8eug0zk8ep3zne?singleDoc\nhttps://pan.baidu.com/s/1Jl1zy5niigg1XYm8ZCh_Lg\nhttps://www.tenda.com.cn/",
+    "漏洞解决方案": "目前厂商尚未发布升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://vuldb.com/?id.330914",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-05",
+    "收录时间": "2025-11-07",
+    "更新时间": "2025-11-07",
+    "漏洞附件": "(无附件)"
+}
