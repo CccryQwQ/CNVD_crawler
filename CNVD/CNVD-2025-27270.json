@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "TOTOLINK N600R setWiFiMultipleConfig函数堆栈缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-27270",
+    "公开日期": "2025-11-07",
+    "危害级别": "高",
+    "影响产品": "TOTOLINK N600R v4.3.0cu.7866_B20220506",
+    "CVE ID": "CVE-2025-60333",
+    "漏洞描述": "TOTOLINK N600R是韩国品牌TOTOLINK于2013年推出的双频无线路由器，支持2.4GHz和5GHz双频并发，最高无线传输速率达300Mbps。\nTOTOLINK N600R存在堆栈缓冲区溢出漏洞，该漏洞源于setWiFiMultipleConfig函数中wepkey2参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/z472421519/BinaryAudit/blob/main/PoC/BOF/TOTOLINK/wepkey2/wepkey2.md",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.totolink.net/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-24",
+    "收录时间": "2025-11-07",
+    "更新时间": "2025-11-07",
+    "漏洞附件": "(无附件)"
+}
