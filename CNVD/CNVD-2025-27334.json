@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress NS Maintenance Mode for WP plugin跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-27334",
+    "公开日期": "2025-11-07",
+    "危害级别": "中",
+    "影响产品": "WordPress NS Maintenance Mode for WP plugin <=1.3.1",
+    "CVE ID": "CVE-2025-10636",
+    "漏洞描述": "WordPress NS Maintenance Mode for WP plugin是一个WordPress插件，用于将网站设置为维护模式，在更新或维护期间向访客显示临时页面，同时允许管理员或指定用户访问后台。\nWordPress NS Maintenance Mode for WP plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://wpscan.com/vulnerability/a1ab1d82-108e-4f66-9d06-5036cde9678a/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-05",
+    "收录时间": "2025-11-07",
+    "更新时间": "2025-11-07",
+    "漏洞附件": "(无附件)"
+}

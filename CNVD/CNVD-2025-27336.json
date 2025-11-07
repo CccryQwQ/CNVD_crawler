@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress OOPSpam Anti-Spam plugin IP头伪造漏洞",
+    "CNVD-ID": "CNVD-2025-27336",
+    "公开日期": "2025-11-07",
+    "危害级别": "中",
+    "影响产品": "WordPress OOPSpam Anti-Spam plugin <=1.2.53",
+    "CVE ID": "CVE-2025-12094",
+    "漏洞描述": "WordPress OOPSpam Anti-Spam plugin是一款专为WordPress设计的反垃圾插件，通过AI和机器学习技术保护表单和评论免受垃圾信息攻击，无需使用CAPTCHA验证。\nWordPress OOPSpam Anti-Spam plugin存在IP头伪造漏洞，该漏洞源于信任客户端控制的转发标头而未验证来源，攻击者可利用该漏洞导致IP地址欺骗和绕过基于IP的安全控制。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/oopspam-anti-spam/tags/1.2.49/include/helpers.php#L268",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/oopspam-anti-spam",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/751406",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-05",
+    "收录时间": "2025-11-07",
+    "更新时间": "2025-11-07",
+    "漏洞附件": "(无附件)"
+}

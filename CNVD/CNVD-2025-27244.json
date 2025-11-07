@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress kallyas plugin代码执行漏洞",
+    "CNVD-ID": "CNVD-2025-27244",
+    "公开日期": "2025-11-06",
+    "危害级别": "高",
+    "影响产品": "WordPress kallyas plugin <=4.24.0",
+    "CVE ID": "CVE-2025-6990",
+    "漏洞描述": "WordPress kallyas plugin是专为WordPress设计的网站建设工具，提供主题和插件功能。\nWordPress kallyas plugin存在代码执行漏洞，该漏洞源于未限制非管理员访问代码编辑器部件，攻击者可利用该漏洞导致远程代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://my.hogash.com/changelog_category/kallyas-wordpress-theme/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-05",
+    "收录时间": "2025-11-07",
+    "更新时间": "2025-11-07",
+    "漏洞附件": "(无附件)"
+}

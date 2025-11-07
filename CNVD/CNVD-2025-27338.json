@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Post SMTP plugin未授权访问数据漏洞",
+    "CNVD-ID": "CNVD-2025-27338",
+    "公开日期": "2025-11-07",
+    "危害级别": "高",
+    "影响产品": "WordPress Post SMTP plugin <=3.6.0",
+    "CVE ID": "CVE-2025-11833",
+    "漏洞描述": "WordPress Post SMTP plugin是用于解决WordPress网站邮件发送问题的工具，通过SMTP协议实现邮件发送，避免因服务器限制导致的邮件无法发送或被标记为垃圾邮件。\nWordPress Post SMTP plugin存在未授权访问数据漏洞，该漏洞源于缺少权限检查，攻击者可利用该漏洞导致读取任意日志邮件，进而导致账户接管。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/post-smtp/tags/3.5.0/Postman/PostmanEmailLogs.php#L51",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/post-smtp/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/751421",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-05",
+    "收录时间": "2025-11-07",
+    "更新时间": "2025-11-07",
+    "漏洞附件": "(无附件)"
+}
