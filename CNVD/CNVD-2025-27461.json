@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiWeb路径遍历漏洞",
+    "CNVD-ID": "CNVD-2025-27461",
+    "公开日期": "2025-11-07",
+    "危害级别": "高",
+    "影响产品": "Fortinet FortiWeb >=7.4.0，<=7.4.6\nFortinet FortiWeb >=7.6.0，<=7.6.2",
+    "CVE ID": "CVE-2025-25254",
+    "漏洞描述": "Fortinet FortiWeb是美国飞塔（Fortinet）公司的一款Web应用层防火墙，它能够阻断如跨站点脚本、SQL注入、Cookie中毒、schema中毒等攻击的威胁，保证Web应用程序的安全性并保护敏感的数据库内容。\nFortinet FortiWeb存在路径遍历漏洞，该漏洞源于程序未能正确地过滤资源或文件路径中的特殊元素。攻击者可利用该漏洞通过特制请求访问和修改文件系统。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-25254",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.fortinet.com/psirt/FG-IR-24-474",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/751296",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-04-18",
+    "收录时间": "2025-11-10",
+    "更新时间": "2025-11-10",
+    "漏洞附件": "(无附件)"
+}

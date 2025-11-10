@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Fortinet FortiSIEM跨站脚本漏洞（CNVD-2025-27465）",
+    "CNVD-ID": "CNVD-2025-27465",
+    "公开日期": "2025-11-07",
+    "危害级别": "中",
+    "影响产品": "Fortinet FortiSIEM >=7.0.0，<=7.0.3\nFortinet FortiSIEM >=6.7.0，<=6.7.9\nFortinet FortiSIEM >=7.1.0，<=7.1.8",
+    "CVE ID": "CVE-2024-27780",
+    "漏洞描述": "Fortinet FortiSIEM是美国飞塔（Fortinet）公司的一套安全信息和事件管理系统。该系统包括资产发现、工作流程自动化和统一管理等功能。\nFortinet FortiSIEM存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者利用该漏洞可以通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://fortiguard.fortinet.com/psirt/FG-IR-23-324",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://fortiguard.com/psirt/FG-IR-23-324",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/751381",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-17",
+    "收录时间": "2025-11-10",
+    "更新时间": "2025-11-10",
+    "漏洞附件": "(无附件)"
+}
