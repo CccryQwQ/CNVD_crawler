@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell Storage Manager不当认证漏洞",
+    "CNVD-ID": "CNVD-2025-27588",
+    "公开日期": "2025-11-10",
+    "危害级别": "高",
+    "影响产品": "DELL Dell Storage Manager <2020 R1.21",
+    "CVE ID": "CVE-2025-43995",
+    "漏洞描述": "Dell Storage Manager是戴尔推出的集中式存储管理工具，主要用于管理SC系列、PS系列和FluidFS等存储设备，提供统一的监控、配置和复制功能。\nDell Storage Manager存在不当认证漏洞，该漏洞源于身份验证不当，攻击者可利用该漏洞导致认证绕过。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-43995",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-us/000382899/dsa-2025-393-security-update-for-storage-center-dell-storage-manager-vulnerabilities",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/752021",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-29",
+    "收录时间": "2025-11-11",
+    "更新时间": "2025-11-11",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Foxit Reader Plugin缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-27649",
+    "公开日期": "2025-11-11",
+    "危害级别": "高",
+    "影响产品": "Foxit Foxit Reader Plugin 2.2.1.530",
+    "CVE ID": "CVE-2013-10068",
+    "漏洞描述": "Foxit Reader Plugin是美国Foxit公司的一个PDF阅读插件。\nFoxit Reader Plugin 2.2.1.530版本存在缓冲区溢出漏洞，该漏洞源于未正确处理URL查询字符串，攻击者可利用该漏洞导致缓冲区溢出和任意代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2013-10068",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/browser/foxit_reader_plugin_url_bof.rb",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-08-11",
+    "收录时间": "2025-11-11",
+    "更新时间": "2025-11-11",
+    "漏洞附件": "(无附件)"
+}

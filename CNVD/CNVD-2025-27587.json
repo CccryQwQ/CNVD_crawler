@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "DELL SupportAssist OS Recovery信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-27587",
+    "公开日期": "2025-11-10",
+    "危害级别": "中",
+    "影响产品": "DELL SupportAssist OS Recovery <5.5.15.0",
+    "CVE ID": "CVE-2025-46602",
+    "漏洞描述": "DELL SupportAssist OS Recovery是戴尔预装在部分Windows10/11电脑上的独立恢复工具，用于诊断硬件问题、修复系统、备份文件或还原出厂设置。\nDELL SupportAssist OS Recovery存在信息泄露漏洞，该漏洞源于将敏感信息插入外部可访问文件或目录，攻击者可利用该漏洞导致信息泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-46602",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-us/000382443/dsa-2025-403",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/752016",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-31",
+    "收录时间": "2025-11-11",
+    "更新时间": "2025-11-11",
+    "漏洞附件": "(无附件)"
+}
