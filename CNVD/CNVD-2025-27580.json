@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell Secure Connect Gateway相对路径遍历漏洞",
+    "CNVD-ID": "CNVD-2025-27580",
+    "公开日期": "2025-11-10",
+    "危害级别": "中",
+    "影响产品": "Dell Secure Connect Gateway >=5.26.00.00，<=5.30.00.00",
+    "CVE ID": "CVE-2025-46363",
+    "漏洞描述": "Dell Secure Connect Gateway是戴尔公司推出的一款企业级安全连接网关设备，主要用于监控硬件状态、自动创建支持请求，并通过安全通信保障设备与戴尔后台服务的连接。\nDell Secure Connect Gateway存在相对路径遍历漏洞，该漏洞源于内部收集下载REST API存在相对路径遍历，攻击者可利用该漏洞导致受限资源被访问。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-46363",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-us/000385239/dsa-2025-386-security-update-for-dell-secure-connect-gateway-rest-api",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/752011",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-05",
+    "收录时间": "2025-11-11",
+    "更新时间": "2025-11-11",
+    "漏洞附件": "(无附件)"
+}
