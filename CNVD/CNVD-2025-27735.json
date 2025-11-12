@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Inventory Management System editProduct.php文件SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-27735",
+    "公开日期": "2025-11-11",
+    "危害级别": "高",
+    "影响产品": "Inventory Management System Inventory Management System 1.0",
+    "CVE ID": "CVE-2025-6823",
+    "漏洞描述": "Inventory Management System是一个库存管理系统。\nInventory Management System存在SQL注入漏洞，该漏洞源于/php_action/editProduct.php文件中对editProductName参数的处理不当。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.314261\nhttps://vuldb.com/?ctiid.314261\nhttps://vuldb.com/?submit.602642\nhttps://github.com/Dav1d-safe/cve/issues/1\nhttps://code-projects.org/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-06-30",
+    "收录时间": "2025-11-12",
+    "更新时间": "2025-11-12",
+    "漏洞附件": "(无附件)"
+}
