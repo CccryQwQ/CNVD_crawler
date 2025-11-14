@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress All in One Time Clock Lite plugin未经授权访问漏洞",
+    "CNVD-ID": "CNVD-2025-27889",
+    "公开日期": "2025-11-14",
+    "危害级别": "中",
+    "影响产品": "WordPress All in One Time Clock Lite plugin <=2.0.3",
+    "CVE ID": "CVE-2025-11758",
+    "漏洞描述": "WordPress All in One Time Clock Lite plugin是一款用于跟踪员工考勤的插件，支持员工、志愿者和承包商的打卡记录管理。\nWordPress All in One Time Clock Lite plugin存在未经授权访问漏洞，该漏洞源于缺少授权检查，攻击者可利用该漏洞导致执行管理操作和泄露个人信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/aio-time-clock-lite/tags/2.0.1/aio-time-clock-lite-actions.php#L1447",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/aio-time-clock-lite",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/753486",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-11",
+    "收录时间": "2025-11-14",
+    "更新时间": "2025-11-14",
+    "漏洞附件": "(无附件)"
+}

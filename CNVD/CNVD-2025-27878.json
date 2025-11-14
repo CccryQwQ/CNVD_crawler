@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Gravity Forms plugin任意文件上传漏洞",
+    "CNVD-ID": "CNVD-2025-27878",
+    "公开日期": "2025-11-14",
+    "危害级别": "高",
+    "影响产品": "WordPress Gravity Forms plugin <=2.9.20",
+    "CVE ID": "CVE-2025-12352",
+    "漏洞描述": "WordPress Gravity Forms plugin是WordPress平台上的专业表单插件，主要用于创建和管理各种交互式表单，支持数据收集、支付处理、工作流自动化等功能。\nWordPress Gravity Forms plugin存在任意文件上传漏洞，该漏洞源于copy_post_image函数缺少文件类型验证，攻击者可利用该漏洞导致任意文件上传和远程代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/pronamic/gravityforms/blob/06de1b7e169e4f073e9d0d491e17b89365b48c20/forms_model.php#L5451C26-L5451C41",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.wordfence.com/threat-intel/vulnerabilities/id/42525101-6196-40b9-90e7-c7f1886ef247?source=cve",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/753436",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-12",
+    "收录时间": "2025-11-14",
+    "更新时间": "2025-11-14",
+    "漏洞附件": "(无附件)"
+}
