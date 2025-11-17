@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Intel CIP权限提升漏洞（CNVD-2025-28465）",
+    "CNVD-ID": "CNVD-2025-28465",
+    "公开日期": "2025-11-17",
+    "危害级别": "低",
+    "影响产品": "Intel Intel CIP <WIN_DCA_2.4.0.11001",
+    "CVE ID": "CVE-2025-24307",
+    "漏洞描述": "Intel CIP是英特尔推出的一项可选计划，旨在通过收集用户计算机的性能数据来改进产品。\nIntel CIP存在权限提升漏洞，该漏洞源于权限管理不当，攻击者可利用该漏洞导致权限提升和数据操纵。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://intel.com/content/www/us/en/security-center/advisory/intel-sa-01328.html",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.intel.com/content/www/us/en/download/19296/intel-computing-improvement-program.html?product=43559",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/754961",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-14",
+    "收录时间": "2025-11-17",
+    "更新时间": "2025-11-17",
+    "漏洞附件": "(无附件)"
+}
