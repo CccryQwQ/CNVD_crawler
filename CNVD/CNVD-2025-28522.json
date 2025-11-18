@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell CloudLink命令执行漏洞（CNVD-2025-28522）",
+    "CNVD-ID": "CNVD-2025-28522",
+    "公开日期": "2025-11-17",
+    "危害级别": "高",
+    "影响产品": "DELL CloudLink <8.2",
+    "CVE ID": "CVE-2025-30479",
+    "漏洞描述": "Dell CloudLink是美国戴尔（Dell）公司的一个数据加密和密钥管理系统。\nDell CloudLink存在命令执行漏洞，攻击者可利用该漏洞在系统上执行任意命令。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.dell.com/support/kbdoc/en-us/000384363/dsa-2025-374-security-update-for-dell-cloudlink-multiple-security-vulnerabilities",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.dell.com/support/kbdoc/en-us/000384363/dsa-2025-374-security-update-for-dell-cloudlink-multiple-security-vulnerabilities",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/752206",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-10",
+    "收录时间": "2025-11-18",
+    "更新时间": "2025-11-18",
+    "漏洞附件": "(无附件)"
+}
