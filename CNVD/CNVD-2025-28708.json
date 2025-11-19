@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Easy Appointments plugin跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-28708",
+    "公开日期": "2025-11-17",
+    "危害级别": "中",
+    "影响产品": "WordPress Easy Appointments plugin <=3.12.14",
+    "CVE ID": "CVE-2025-49398",
+    "漏洞描述": "WordPress Easy Appointments plugin是一款免费的WordPress预约管理插件，主要用于创建和管理服务预约系统，支持多地点、多服务、多工作人员的预约功能。\nWordPress Easy Appointments plugin存在跨站脚本漏洞，该漏洞源于未正确中和Web页面中的脚本相关HTML标签，攻击者可利用该漏洞导致代码注入。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/easy-appointments/vulnerability/wordpress-easy-appointments-plugin-3-12-14-content-injection-vulnerability",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/easy-appointments/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/754831",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-11",
+    "收录时间": "2025-11-19",
+    "更新时间": "2025-11-19",
+    "漏洞附件": "(无附件)"
+}
