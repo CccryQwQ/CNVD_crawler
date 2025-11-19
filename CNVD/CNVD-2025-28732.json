@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress插件Chart Expert跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-28732",
+    "公开日期": "2025-11-19",
+    "危害级别": "中",
+    "影响产品": "WordPress Chart Expert plugin <=1.0",
+    "CVE ID": "CVE-2025-12753",
+    "漏洞描述": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。 \nWordPress插件Chart Expert存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞在页面中注入任意web脚本。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-12753",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://plugins.trac.wordpress.org/browser/chart-expert/tags/1.0/inc/shortcode.php#L1",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-14",
+    "收录时间": "2025-11-19",
+    "更新时间": "2025-11-19",
+    "漏洞附件": "(无附件)"
+}

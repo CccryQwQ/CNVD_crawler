@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Adobe InCopy堆缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-28653",
+    "公开日期": "2025-11-19",
+    "危害级别": "高",
+    "影响产品": "Adobe InCopy <=20.5\nAdobe InCopy <=19.5.5",
+    "CVE ID": "CVE-2025-61816",
+    "漏洞描述": "Adobe InCopy是美国奥多比（Adobe）公司的一款用于创作的文本编辑软件。\nAdobe InCopy存在堆缓冲区溢出漏洞，攻击者可利用该漏洞导致在当前用户环境下执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://helpx.adobe.com/security/products/incopy/apsb25-107.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://helpx.adobe.com/security/products/incopy/apsb25-107.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/755646",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-14",
+    "收录时间": "2025-11-19",
+    "更新时间": "2025-11-19",
+    "漏洞附件": "(无附件)"
+}
