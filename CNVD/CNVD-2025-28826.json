@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Frontend File Manager Plugin缺少授权漏洞",
+    "CNVD-ID": "CNVD-2025-28826",
+    "公开日期": "2025-11-20",
+    "危害级别": "中",
+    "影响产品": "WordPress Frontend File Manager Plugin <=23.2",
+    "CVE ID": "CVE-2025-64265",
+    "漏洞描述": "WordPress Frontend File Manager Plugin是一款允许用户通过前端界面上传、管理和共享文件的插件，支持安全存储和权限控制。\nWordPress Frontend File Manager Plugin存在缺少授权漏洞，攻击者可利用该漏洞导致访问控制安全级别配置不当。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/nmedia-user-file-uploader/vulnerability/wordpress-frontend-file-manager-plugin-23-2-broken-access-control-vulnerability-2?_s_id=cve",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/nmedia-user-file-uploader/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/755841",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-18",
+    "收录时间": "2025-11-20",
+    "更新时间": "2025-11-20",
+    "漏洞附件": "(无附件)"
+}
