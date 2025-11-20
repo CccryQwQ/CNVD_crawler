@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Student Information System editprofile.php文件跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-28940",
+    "公开日期": "2025-11-20",
+    "危害级别": "中",
+    "影响产品": "Student Information System Student Information System 2.0",
+    "CVE ID": "CVE-2025-13245",
+    "漏洞描述": "Student Information System是一个学生信息系统。\nStudent Information System存在跨站脚本漏洞，该漏洞源于/editprofile.php文件中未明函数对用户输入处理不当。攻击者可利用该漏洞通过注入恶意脚本执行跨站脚本攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.332571\nhttps://vuldb.com/?ctiid.332571\nhttps://vuldb.com/?submit.687531\nhttps://github.com/asd1238525/cve/blob/main/xss7.md\nhttps://code-projects.org/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-18",
+    "收录时间": "2025-11-20",
+    "更新时间": "2025-11-20",
+    "漏洞附件": "(无附件)"
+}

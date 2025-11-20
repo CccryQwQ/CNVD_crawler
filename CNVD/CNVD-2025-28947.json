@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Simple Cafe Ordering System addmem.php文件SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-28947",
+    "公开日期": "2025-11-20",
+    "危害级别": "高",
+    "影响产品": "Simple Cafe Ordering System Simple Cafe Ordering System 1.0",
+    "CVE ID": "CVE-2025-13203",
+    "漏洞描述": "Simple Cafe Ordering System是一个简易咖啡点餐系统。\nSimple Cafe Ordering System存在SQL注入漏洞，该漏洞源于/addmem.php文件中对studentnum参数未进行安全过滤。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.332501\nhttps://vuldb.com/?ctiid.332501\nhttps://vuldb.com/?submit.686708\nhttps://github.com/JasonCyberYu/SimpleCafe/issues/1\nhttps://code-projects.org/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-18",
+    "收录时间": "2025-11-20",
+    "更新时间": "2025-11-20",
+    "漏洞附件": "(无附件)"
+}
