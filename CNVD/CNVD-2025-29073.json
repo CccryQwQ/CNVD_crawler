@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Azure Access Technology BLU-IC2和Azure Access Technology BLU-IC4拒绝服务漏洞（CNVD-2025-29073）",
+    "CNVD-ID": "CNVD-2025-29073",
+    "公开日期": "2025-11-20",
+    "危害级别": "高",
+    "影响产品": "Azure Access Technology BLU-IC2 <=1.19.5\nAzure Access Technology BLU-IC4 <=1.19.5",
+    "CVE ID": "CVE-2025-12516",
+    "漏洞描述": "Azure Access Technology BLU-IC2和Azure Access Technology BLU-IC4都是美国Azure Access Technology公司的一种网络门禁控制器。\nAzure Access Technology BLU-IC2和Azure Access Technology BLU-IC4存在拒绝服务漏洞，该漏洞源于缺乏优雅的错误处理，攻击者可利用该漏洞导致HTTP 5xx错误。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-12516",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://azure-access.com/security-advisories",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/756691",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-05",
+    "收录时间": "2025-11-20",
+    "更新时间": "2025-11-20",
+    "漏洞附件": "(无附件)"
+}
