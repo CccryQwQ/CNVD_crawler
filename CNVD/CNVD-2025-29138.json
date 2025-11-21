@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Simple Online Hotel Reservation System add_query_reserve.php文件SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-29138",
+    "公开日期": "2025-11-21",
+    "危害级别": "高",
+    "影响产品": "Simple Online Hotel Reservation System Simple Online Hotel Reservation System 1.0",
+    "CVE ID": "CVE-2025-13169",
+    "漏洞描述": "Simple Online Hotel Reservation System是一个简单的在线酒店预订系统。\nSimple Online Hotel Reservation System存在SQL注入漏洞，该漏洞源于/add_query_reserve.php文件未能对room_id参数进行有效过滤。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.332457\nhttps://vuldb.com/?ctiid.332457\nhttps://vuldb.com/?submit.684616\nhttps://github.com/hanshi-798/CVE/blob/main/tmp72/report.md\nhttps://code-projects.org/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-18",
+    "收录时间": "2025-11-21",
+    "更新时间": "2025-11-21",
+    "漏洞附件": "(无附件)"
+}
