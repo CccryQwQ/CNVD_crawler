@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Booster for WooCommerce Plugin缺少授权漏洞",
+    "CNVD-ID": "CNVD-2025-29103",
+    "公开日期": "2025-11-20",
+    "危害级别": "中",
+    "影响产品": "WordPress Booster for WooCommerce Plugin <=7.4.0",
+    "CVE ID": "CVE-2025-64379",
+    "漏洞描述": "WordPress Booster for WooCommerce Plugin是专为WooCommerce电商平台设计的多功能插件，提供100多项功能‌，包括PDF发票、产品变体、愿望清单等工具，旨在简化电商运营并提升用户体验。\nWordPress Booster for WooCommerce Plugin存在缺少授权漏洞，攻击者可利用该漏洞导致访问控制安全级别配置不当。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/woocommerce-jetpack/vulnerability/wordpress-booster-for-woocommerce-plugin-7-4-0-broken-access-control-vulnerability?_s_id=cve",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/woocommerce-jetpack/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/756631",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-18",
+    "收录时间": "2025-11-21",
+    "更新时间": "2025-11-21",
+    "漏洞附件": "(无附件)"
+}

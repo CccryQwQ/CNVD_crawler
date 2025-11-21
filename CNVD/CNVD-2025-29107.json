@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress WooCommerce PDF Invoice Builder plugin缺少授权漏洞",
+    "CNVD-ID": "CNVD-2025-29107",
+    "公开日期": "2025-11-20",
+    "危害级别": "中",
+    "影响产品": "WordPress WooCommerce PDF Invoice Builder plugin <=1.2.150",
+    "CVE ID": "CVE-2025-64269",
+    "漏洞描述": "WordPress WooCommerce PDF Invoice Builder plugin是专为WooCommerce电商平台设计的发票和包装单生成工具，支持自定义模板、多语言、条件生成等功能，帮助商家创建符合品牌风格的专业文档。\nWordPress WooCommerce PDF Invoice Builder plugin存在缺少授权漏洞，攻击者可利用该漏洞导致访问控制安全级别配置不当。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/woo-pdf-invoice-builder/vulnerability/wordpress-woocommerce-pdf-invoice-builder-plugin-1-2-150-broken-access-control-vulnerability?_s_id=cve",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/woo-pdf-invoice-builder/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/756661",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-18",
+    "收录时间": "2025-11-21",
+    "更新时间": "2025-11-21",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress WooCommerce Ultimate Points And Rewards plugin信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-29108",
+    "公开日期": "2025-11-20",
+    "危害级别": "中",
+    "影响产品": "WordPress WooCommerce Ultimate Points And Rewards plugin <=2.10.2",
+    "CVE ID": "CVE-2025-64267",
+    "漏洞描述": "WordPress WooCommerce Ultimate Points And Rewards plugin是专为WooCommerce设计的积分与奖励管理工具，通过客户行为（如购买、注册、评论等）发放积分，支持兑换折扣、优惠券或免费产品，旨在提升客户忠诚度和转化率。\nWordPress WooCommerce Ultimate Points And Rewards plugin存在信息泄露漏洞，该漏洞源于敏感系统信息暴露，攻击者可利用该漏洞检索嵌入的敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/woocommerce-ultimate-points-and-rewards/vulnerability/wordpress-woocommerce-ultimate-points-and-rewards-plugin-2-10-2-sensitive-data-exposure-vulnerability?_s_id=cve",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/756666",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-18",
+    "收录时间": "2025-11-21",
+    "更新时间": "2025-11-21",
+    "漏洞附件": "(无附件)"
+}

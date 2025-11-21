@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress WP Headless CMS Framework plugin绕过保护机制漏洞",
+    "CNVD-ID": "CNVD-2025-29111",
+    "公开日期": "2025-11-20",
+    "危害级别": "中",
+    "影响产品": "WordPress WP Headless CMS Framework plugin <=1.15",
+    "CVE ID": "CVE-2025-11260",
+    "漏洞描述": "WordPress WP Headless CMS Framework plugin是用于将WordPress转换为HeadlessCMS（无头内容管理系统）的工具，通过RESTAPI或GraphQL接口分离内容管理与前端展示。\nWordPress WP Headless CMS Framework plugin存在绕过保护机制漏洞，该漏洞源于仅检查Authorization标头存在性，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://wordpress.org/plugins/wp-rest-headless/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-18",
+    "收录时间": "2025-11-21",
+    "更新时间": "2025-11-21",
+    "漏洞附件": "(无附件)"
+}
