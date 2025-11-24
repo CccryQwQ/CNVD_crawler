@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Chrome代码问题漏洞（CNVD-2025-29241）",
+    "CNVD-ID": "CNVD-2025-29241",
+    "公开日期": "2025-11-21",
+    "危害级别": "中",
+    "影响产品": "Google Chrome <136.0.7103.59",
+    "CVE ID": "CVE-2024-13983",
+    "漏洞描述": "Google Chrome是谷歌公司开发的网页浏览器。\nGoogle Chrome 136.0.7103.59之前版本中的Lens功能存在安全漏洞，该漏洞源于对QR码验证机制不完善。攻击者可利用该漏洞通过特制QR码实施界面伪装攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-13983",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://chromereleases.googleblog.com/2025/04/stable-channel-update-for-desktop_29.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/757246",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-18",
+    "收录时间": "2025-11-24",
+    "更新时间": "2025-11-24",
+    "漏洞附件": "(无附件)"
+}
