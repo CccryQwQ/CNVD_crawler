@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Broken Link Checker by AIOSEO plugin缺少授权漏洞",
+    "CNVD-ID": "CNVD-2025-29296",
+    "公开日期": "2025-11-24",
+    "危害级别": "中",
+    "影响产品": "WordPress Broken Link Checker by AIOSEO plugin <=1.2.5",
+    "CVE ID": "CVE-2025-11734",
+    "漏洞描述": "WordPress Broken Link Checker by AIOSEO plugin是一款用于检测和修复网站内部及外部链接的工具，支持SEO优化和网站维护。\nWordPress Broken Link Checker by AIOSEO plugin存在缺少授权漏洞，攻击者可利用该漏洞导致未经授权的文章修改。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/changeset/3390304/broken-link-checker-seo",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/broken-link-checker-seo",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/757151",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-20",
+    "收录时间": "2025-11-25",
+    "更新时间": "2025-11-25",
+    "漏洞附件": "(无附件)"
+}
