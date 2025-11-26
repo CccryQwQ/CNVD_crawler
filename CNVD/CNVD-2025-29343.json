@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Visual Studio远程代码执行漏洞（CNVD-2025-29343）",
+    "CNVD-ID": "CNVD-2025-29343",
+    "公开日期": "2025-11-14",
+    "危害级别": "中",
+    "影响产品": "Microsoft Visual Studio   2022 17.14",
+    "CVE ID": "CVE-2025-62214",
+    "漏洞描述": "Microsoft Visual Studio是美国微软公司的开发工具包系列产品，是一个基本完整的开发工具集。\nMicrosoft Visual Studio存在远程代码执行漏洞，攻击者可利用该漏洞在目标主机上执行代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-62214",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2025-62214",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/753601",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-13",
+    "收录时间": "2025-11-25",
+    "更新时间": "2025-11-25",
+    "漏洞附件": "(无附件)"
+}

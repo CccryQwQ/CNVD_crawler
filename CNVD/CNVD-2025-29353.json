@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Windows SMB Server访问控制错误漏洞",
+    "CNVD-ID": "CNVD-2025-29353",
+    "公开日期": "2025-11-11",
+    "危害级别": "高",
+    "影响产品": "Microsoft Windows Server 2008  \nMicrosoft Windows Server 2016 \nMicrosoft Windows Server 2019 \nMicrosoft Windows Server 2012 \nMicrosoft Windows Server 2022 \nMicrosoft Windows Server 2008 R2  \nMicrosoft Windows Server 2012 R2 \nMicrosoft Window 10 22H2\nMicrosoft Window 10 21H2\nMicrosoft Window 11 22H2\nMicrosoft Window 10 1809\nMicrosoft Window 10 1607\nMicrosoft Window 11 23H2\nMicrosoft Window 11 24H2\nMicrosoft Windows Server 2025 \nMicrosoft Window 10 1507\nMicrosoft Window 11 25H2\nMicrosoft Window 11 22H3",
+    "CVE ID": "CVE-2025-58726",
+    "漏洞描述": "Microsoft Windows SMB Server是美国微软（Microsoft）公司的一个网络文件共享协议。它允许计算机上的应用程序读取和写入文件以及从计算机网络中的服务器程序请求服务。\nMicrosoft Windows SMB Server存在安全漏洞，攻击者可利用该漏洞提升权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-58726",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-58726",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/752691",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-17",
+    "收录时间": "2025-11-25",
+    "更新时间": "2025-11-25",
+    "漏洞附件": "(无附件)"
+}
