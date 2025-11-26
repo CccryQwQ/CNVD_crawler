@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Mediawiki - MultiBoilerplate Extensionmaste跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-29392",
+    "公开日期": "2025-11-26",
+    "危害级别": "高",
+    "影响产品": "MediaWiki Mediawiki - MultiBoilerplate Extensionmaste <1.39",
+    "CVE ID": "CVE-2025-62700",
+    "漏洞描述": "Mediawiki - MultiBoilerplate Extensionmaste是MediaWiki的一个扩展，用于管理预定义模板（boilerplate），允许用户在编辑页面时快速插入重复使用的文本块。\nMediawiki - MultiBoilerplate Extensionmaste存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://gerrit.wikimedia.org/r/q/I10e205e3027d4772b2cd9801647fc6c171e4b35b",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://phabricator.wikimedia.org/T399658",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/757661",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-23",
+    "收录时间": "2025-11-26",
+    "更新时间": "2025-11-26",
+    "漏洞附件": "(无附件)"
+}
