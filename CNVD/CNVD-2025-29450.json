@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Chrome类型混淆漏洞",
+    "CNVD-ID": "CNVD-2025-29450",
+    "公开日期": "2025-11-27",
+    "危害级别": "高",
+    "影响产品": "Google Chrome <142.0.7444.175",
+    "CVE ID": "CVE-2025-13223",
+    "漏洞描述": "Google Chrome是由谷歌公司开发的网页浏览器。\nGoogle Chrome存在类型混淆漏洞，该漏洞源于V8类型混淆，攻击者可利用该漏洞导致堆损坏。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://issues.chromium.org/issues/460017370",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://chromereleases.googleblog.com/2025/11/stable-channel-update-for-desktop_17.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/757901",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-20",
+    "收录时间": "2025-11-27",
+    "更新时间": "2025-11-27",
+    "漏洞附件": "(无附件)"
+}
