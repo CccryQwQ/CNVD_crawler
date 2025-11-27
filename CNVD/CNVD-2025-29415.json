@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Revive Adserver授权绕过漏洞",
+    "CNVD-ID": "CNVD-2025-29415",
+    "公开日期": "2025-11-26",
+    "危害级别": "高",
+    "影响产品": "Revive Adserver Revive Adserver <=5.5.2\nRevive Adserver Revive Adserver <=6.0.1",
+    "CVE ID": "CVE-2025-48986",
+    "漏洞描述": "Revive Adserver是一款开源的广告服务系统，允许广告商、出版商和网络在多个平台上投放广告（如网站、应用程序、视频播放器），并支持广告效果跟踪、活动管理及投放规则定义。\nRevive Adserver存在授权绕过漏洞，攻击者可利用该漏洞导致账户接管。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://hackerone.com/reports/3398283",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.revive-adserver.com/download/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/757706",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-24",
+    "收录时间": "2025-11-27",
+    "更新时间": "2025-11-27",
+    "漏洞附件": "(无附件)"
+}

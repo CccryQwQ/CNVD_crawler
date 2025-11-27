@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Web-Based Internet Laboratory Management System /enrollment/controller.php文件SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-29436",
+    "公开日期": "2025-11-27",
+    "危害级别": "高",
+    "影响产品": "Web-Based Internet Laboratory Management System Web-Based Internet Laboratory Management System 1.0",
+    "CVE ID": "CVE-2025-13298",
+    "漏洞描述": "Web-Based Internet Laboratory Management System是一个网络实验室软件。\nWeb-Based Internet Laboratory Management System存在SQL注入漏洞，该漏洞源于文件/enrollment/controller.php缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/f14g-orz/CVE/issues/4",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://itsourcecode.com/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-20",
+    "收录时间": "2025-11-27",
+    "更新时间": "2025-11-27",
+    "漏洞附件": "(无附件)"
+}
