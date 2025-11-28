@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Arconix Shortcodes plugin缺失授权漏洞",
+    "CNVD-ID": "CNVD-2025-29501",
+    "公开日期": "2025-11-28",
+    "危害级别": "中",
+    "影响产品": "WordPress Arconix Shortcodes plugin <=2.1.18",
+    "CVE ID": "CVE-2025-66085",
+    "漏洞描述": "WordPress Arconix Shortcodes plugin是一款多功能的WordPress插件，提供多种短代码功能，支持在网站中添加手风琴、标签、按钮等元素。\nWordPress Arconix Shortcodes plugin存在缺失授权漏洞，攻击者可利用该漏洞导致访问控制不当。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/arconix-shortcodes/vulnerability/wordpress-arconix-shortcodes-plugin-2-1-18-broken-access-control-vulnerability?_s_id=cve",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/arconix-shortcodes/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/757926",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-25",
+    "收录时间": "2025-11-28",
+    "更新时间": "2025-11-28",
+    "漏洞附件": "(无附件)"
+}
