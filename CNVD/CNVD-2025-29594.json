@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "COVID Tracking System SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-29594",
+    "公开日期": "2025-12-01",
+    "危害级别": "中",
+    "影响产品": "COVID Tracking System COVID Tracking System 1.0",
+    "CVE ID": "CVE-2025-13570",
+    "漏洞描述": "COVID Tracking System是一个新冠肺炎追踪系统。\nCOVID Tracking System存在SQL注入漏洞，该漏洞源于/admin/?page=state文件未对ID参数进行安全过滤。攻击者可利用该漏洞通过构造恶意SQL指令非法获取数据库敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.333334\nhttps://vuldb.com/?ctiid.333334\nhttps://vuldb.com/?submit.698656\nhttps://github.com/yihaofuweng/cve/issues/59\nhttps://itsourcecode.com/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://itsourcecode.com/",
+    "厂商补丁": "",
+    "验证信息": "已验证",
+    "报送时间": "2025-11-24",
+    "收录时间": "2025-12-01",
+    "更新时间": "2025-12-01",
+    "漏洞附件": "(无附件)"
+}
