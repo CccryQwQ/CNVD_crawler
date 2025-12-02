@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Chrome越界读取漏洞",
+    "CNVD-ID": "CNVD-2025-29655",
+    "公开日期": "2025-12-01",
+    "危害级别": "高",
+    "影响产品": "Google Chrome <141.0.7390.54",
+    "CVE ID": "CVE-2025-11211",
+    "漏洞描述": "Google Chrome是谷歌公司开发的网页浏览器。\nGoogle Chrome存在越界读取漏洞，该漏洞源于Media组件中的越界读取问题。攻击者可利用该漏洞通过精心构造的HTML页面执行越界内存访问。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-11211",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://chromereleases.googleblog.com/2025/09/stable-channel-update-for-desktop_30.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/776311",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-30",
+    "收录时间": "2025-12-02",
+    "更新时间": "2025-12-02",
+    "漏洞附件": "(无附件)"
+}
