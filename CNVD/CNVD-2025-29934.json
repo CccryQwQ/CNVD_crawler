@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress houzez跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-29934",
+    "公开日期": "2025-12-03",
+    "危害级别": "中",
+    "影响产品": "WordPress houzez <=4.1.6",
+    "CVE ID": "CVE-2025-9163",
+    "漏洞描述": "WordPress houzez是专为房地产经纪人和公司设计的WordPress主题，提供强大的Elementor集成、房源管理、地图搜索等功能，支持多语言和货币转换，旨在打造专业且用户友好的房地产网站。\nWordPress houzez存在跨站脚本漏洞，该漏洞源于houzez_property_img_upload和houzez_property_attachment_upload函数输入清理和输出转义不足。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-9163",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/777201",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-28",
+    "收录时间": "2025-12-04",
+    "更新时间": "2025-12-04",
+    "漏洞附件": "(无附件)"
+}
