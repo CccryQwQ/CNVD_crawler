@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Nextend Social Login and Register plugin跨站请求伪造漏洞",
+    "CNVD-ID": "CNVD-2025-29954",
+    "公开日期": "2025-12-04",
+    "危害级别": "中",
+    "影响产品": "WordPress Nextend Social Login and Register plugin <=3.1.21",
+    "CVE ID": "CVE-2025-13737",
+    "漏洞描述": "WordPress Nextend Social Login and Register plugin是一款免费的WordPress插件，旨在简化网站用户的注册和登录流程。\nWordPress Nextend Social Login and Register plugin存在跨站请求伪造漏洞，该漏洞源于WEB应用未充分验证请求是否来自可信用户。攻击者可利用该漏洞伪造恶意请求诱骗受害者点击执行敏感操作。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://plugins.trac.wordpress.org/browser/nextend-facebook-connect/tags/3.1.21/includes/provider.php#L772",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/nextend-facebook-connect/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/777266",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-03",
+    "收录时间": "2025-12-04",
+    "更新时间": "2025-12-04",
+    "漏洞附件": "(无附件)"
+}
