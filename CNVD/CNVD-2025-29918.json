@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "ZOHO ManageEngine Applications Manager命令注入漏洞",
+    "CNVD-ID": "CNVD-2025-29918",
+    "公开日期": "2025-12-04",
+    "危害级别": "高",
+    "影响产品": "ZOHO ManageEngine Applications Manager <=178100",
+    "CVE ID": "CVE-2025-9223",
+    "漏洞描述": "ZOHO ManageEngine Applications Manager是美国卓豪（ZOHO）公司的一套IT运维管理解决方案。该产品具有应用性能管理、故障管理、报表生成和SLA管理等功能。\nZOHO ManageEngine Applications Manager存在命令注入漏洞，该漏洞是由于执行程序操作功能中的配置不当。攻击者可利用该漏洞导致任意命令执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.manageengine.com/products/applications_manager/security-updates/security-updates-cve-2025-9223.html",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.manageengine.com/products/applications_manager/security-updates/security-updates-cve-2025-9223.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/777226",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-14",
+    "收录时间": "2025-12-04",
+    "更新时间": "2025-12-04",
+    "漏洞附件": "(无附件)"
+}

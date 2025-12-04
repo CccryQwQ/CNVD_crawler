@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "ZOHO ManageEngine Analytics Plus SQL注入漏洞（CNVD-2025-29927）",
+    "CNVD-ID": "CNVD-2025-29927",
+    "公开日期": "2025-12-04",
+    "危害级别": "高",
+    "影响产品": "ZOHO ManageEngine Analytics Plus <=6171",
+    "CVE ID": "CVE-2025-9428",
+    "漏洞描述": "ZOHO ManageEngine Analytics Plus是美国卓豪（ZOHO）公司的一种自助式 IT 分析解决方案。可使用丰富的可视化和仪表板更好地查看您的 IT 数据。\nZOHO ManageEngine Analytics Plus SQL注入漏洞，该漏洞是由于由于输入验证不足。攻击者可利用该漏洞导致用户执行任意SQL查询。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.manageengine.com/analytics-plus/CVE-2025-9428.html",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://www.manageengine.com/analytics-plus/CVE-2025-9428.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/777286",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-22",
+    "收录时间": "2025-12-04",
+    "更新时间": "2025-12-04",
+    "漏洞附件": "(无附件)"
+}
