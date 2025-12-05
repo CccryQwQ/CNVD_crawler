@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Devolutions Server存在未明漏洞（CNVD-2025-30126）",
+    "CNVD-ID": "CNVD-2025-30126",
+    "公开日期": "2025-12-05",
+    "危害级别": "中",
+    "影响产品": "Devolutions Devolutions Server <2025.2.21\nDevolutions Devolutions Server <=2025.3.9",
+    "CVE ID": "CVE-2025-13765",
+    "漏洞描述": "Devolutions Server是一款用于管理特权账户和会话的安全解决方案，旨在帮助企业集中存储和管理密码、凭据等敏感信息。\nDevolutions Server存在未明漏洞，该漏洞源于非管理员用户可访问电子邮件服务凭据。攻击者可利用该漏洞导致机密性受影响。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-13765",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://devolutions.net/security/advisories/DEVO-2025-0018/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/778536",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-03",
+    "收录时间": "2025-12-05",
+    "更新时间": "2025-12-05",
+    "漏洞附件": "(无附件)"
+}
