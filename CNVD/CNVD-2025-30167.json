@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Gutenverse Form plugin缺少授权漏洞",
+    "CNVD-ID": "CNVD-2025-30167",
+    "公开日期": "2025-12-05",
+    "危害级别": "高",
+    "影响产品": "WordPress Gutenverse Form plugin <=2.2.0",
+    "CVE ID": "CVE-2025-66079",
+    "漏洞描述": "WordPress Gutenverse Form plugin是一个专为WordPress的Gutenberg块编辑器设计的表单构建插件，旨在帮助用户无需编写代码即可创建功能丰富的表单。\nWordPress Gutenverse Form plugin存在缺少授权漏洞，攻击者可利用该漏洞导致访问控制不当。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/gutenverse-form/vulnerability/wordpress-gutenverse-form-plugin-2-2-0-broken-access-control-vulnerability?_s_id=cve",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-25",
+    "收录时间": "2025-12-05",
+    "更新时间": "2025-12-05",
+    "漏洞附件": "(无附件)"
+}
