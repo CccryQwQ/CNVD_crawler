@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "TOTOLINK X2000R Gh formIpv6Setup方法堆栈缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-30282",
+    "公开日期": "2025-12-08",
+    "危害级别": "高",
+    "影响产品": "TOTOLINK X2000R Gh 1.0.0-B20230221.0948.web",
+    "CVE ID": "CVE-2023-46541",
+    "漏洞描述": "TOTOLINK X2000R Gh是由中国吉翁电子（TOTOLINK）公司推出的一款Wi-Fi6路由器。\nTOTOLINK X2000R Gh存在堆栈缓冲区溢出漏洞，该漏洞源于formIpv6Setup方法未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/XYIYM/Digging/blob/main/TOTOLINK/X2000R/10/1.md",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://totolink.cn/home/menu/detail.html?menu_listtpl=download&id=85&ids=36",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/778516",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-10-27",
+    "收录时间": "2025-12-09",
+    "更新时间": "2025-12-09",
+    "漏洞附件": "(无附件)"
+}

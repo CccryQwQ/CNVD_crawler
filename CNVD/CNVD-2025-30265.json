@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Dell PowerScale OneFS文件名或路径的外部控制漏洞",
+    "CNVD-ID": "CNVD-2025-30265",
+    "公开日期": "2025-12-08",
+    "危害级别": "中",
+    "影响产品": "DELL Dell PowerScale OneFS >=8.2.*，<=9.7.0.2",
+    "CVE ID": "CVE-2024-25965",
+    "漏洞描述": "Dell PowerScale OneFS是戴尔（Dell）公司为其PowerScale横向扩展NAS（网络附加存储）解决方案开发的专有操作系统。\nDell PowerScale OneFS存在文件名或路径的外部控制漏洞，攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-25965",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.dell.com/support/kbdoc/en-us/000224860/dsa-2024-163-security-update-for-dell-powerscale-onefs-for-multiple-security-vulnerabilities",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/778686",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-05-15",
+    "收录时间": "2025-12-09",
+    "更新时间": "2025-12-09",
+    "漏洞附件": "(无附件)"
+}
