@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress插件Atarim信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-30329",
+    "公开日期": "2025-12-10",
+    "危害级别": "高",
+    "影响产品": "WordPress Atarim plugin <=4.2",
+    "CVE ID": "CVE-2025-60188",
+    "漏洞描述": "WordPress是一套使用PHP语言开发的博客平台。该平台具有在基于PHP和MySQL的服务器上架设个人博客网站的功能。WordPress plugin是一个应用插件。 \nWordPress插件Atarim存在信息泄露漏洞，攻击者可利用该漏洞导致检索嵌入的敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/atarim-visual-collaboration/vulnerability/wordpress-atarim-plugin-4-2-sensitive-data-exposure-vulnerability-2",
+    "漏洞解决方案": "厂商尚未提供漏洞修复方案，请关注厂商主页更新：\nhttps://vdp.patchstack.com/database/Wordpress/Plugin/atarim-visual-collaboration/vulnerability/wordpress-atarim-plugin-4-2-sensitive-data-exposure-vulnerability-2",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-11",
+    "收录时间": "2025-12-10",
+    "更新时间": "2025-12-10",
+    "漏洞附件": "(无附件)"
+}
