@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "FreePBX SQL注入漏洞（CNVD-2025-3038208）",
+    "CNVD-ID": "CNVD-2025-30382",
+    "公开日期": "2025-12-10",
+    "危害级别": "高",
+    "影响产品": "FreePBX FreePBX",
+    "CVE ID": "CVE-2025-62173",
+    "漏洞描述": "FreePBX（前称Asterisk Management Portal）是FreePBX项目的一套通过GUI（基于网页的图形化接口）配置Asterisk（IP电话系统）的工具。\nFreePBX存在SQL注入漏洞，该漏洞源于Endpoint Module Rest API缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-62173",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.freepbx.org/downloads/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/778956",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-10",
+    "收录时间": "2025-12-10",
+    "更新时间": "2025-12-10",
+    "漏洞附件": "(无附件)"
+}

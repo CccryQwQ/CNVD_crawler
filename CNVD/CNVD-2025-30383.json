@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Chrome信息泄露漏洞（CNVD-2025-3038304）",
+    "CNVD-ID": "CNVD-2025-30383",
+    "公开日期": "2025-12-10",
+    "危害级别": "中",
+    "影响产品": "Google Chrome <139.0.7258.66",
+    "CVE ID": "CVE-2025-13992",
+    "漏洞描述": "Google Chrome是美国谷歌（Google）公司的一款Web浏览器。\nGoogle Chrome 139.0.7258.66之前版本存在信息泄露漏洞，该漏洞源于导航和加载中的侧信道信息泄露，攻击者可利用该漏洞导致绕过站点隔离。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-13992",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/778951",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-10",
+    "收录时间": "2025-12-10",
+    "更新时间": "2025-12-10",
+    "漏洞附件": "(无附件)"
+}
