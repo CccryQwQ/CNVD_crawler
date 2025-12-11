@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Bus Pass Management System pass-bwdates-reports-details.php文件跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-30450",
+    "公开日期": "2025-12-11",
+    "危害级别": "中",
+    "影响产品": "Bus Pass Management System Bus Pass Management System V1.0",
+    "CVE ID": "CVE-2024-44798",
+    "漏洞描述": "Bus Pass Management System是一个公交通行证管理系统。\nBus Pass Management System存在跨站脚本漏洞，该漏洞源于/admin/pass-bwdates-reports-details.php文件中的fromdate和todate参数对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/shouvikdutta1998/Bus_management",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://phpgurukul.com/bus-pass-management-system-using-php-and-mysql/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/778966",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-09-18",
+    "收录时间": "2025-12-11",
+    "更新时间": "2025-12-11",
+    "漏洞附件": "(无附件)"
+}
