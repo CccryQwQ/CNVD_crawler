@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Socomec DIRIS Digiware M-70跨站请求伪造漏洞",
+    "CNVD-ID": "CNVD-2025-30461",
+    "公开日期": "2025-12-11",
+    "危害级别": "高",
+    "影响产品": "Socomec DIRIS Digiware M-70 1.6.9",
+    "CVE ID": "CVE-2024-53684",
+    "漏洞描述": "Socomec DIRIS Digiware M-70是一款通讯网关设备，作为DIRIS Digiware系统的接入点，它将24VDC电源和通讯功能集中在一个单元中。\nSocomec DIRIS Digiware M-70存在跨站请求伪造漏洞，该漏洞源于WEBVIEW-M功能未充分验证请求是否来自可信用户，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://talosintelligence.com/vulnerability_reports/TALOS-2024-2116",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.socomec.us/en-us/reference/48290222",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/779181",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-03",
+    "收录时间": "2025-12-11",
+    "更新时间": "2025-12-11",
+    "漏洞附件": "(无附件)"
+}
