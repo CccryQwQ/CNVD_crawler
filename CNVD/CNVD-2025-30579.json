@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache Kvrocks信息泄露漏洞",
+    "CNVD-ID": "CNVD-2025-30579",
+    "公开日期": "2025-12-12",
+    "危害级别": "中",
+    "影响产品": "Apache Apache Kvrocks >=1.0.0，<=2.13.0",
+    "CVE ID": "CVE-2025-59792",
+    "漏洞描述": "Apache Kvrocks是美国阿帕奇（Apache）基金会的一个分布式键值NoSQL数据库。\nApache Kvrocks存在信息泄露漏洞，该漏洞源于MONITOR命令泄露明文凭据。攻击者可利用该漏洞获取敏感信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-59792",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/h2pcvr5p9otc7dnj2dt2nr4b3omghddw",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/780466",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-03",
+    "收录时间": "2025-12-12",
+    "更新时间": "2025-12-12",
+    "漏洞附件": "(无附件)"
+}
