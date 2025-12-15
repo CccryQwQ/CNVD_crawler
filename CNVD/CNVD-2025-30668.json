@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Tenda F1202 fromAddressNat方法堆栈缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-30668",
+    "公开日期": "2025-12-15",
+    "危害级别": "中",
+    "影响产品": "Tenda F1202 1.2.0.20(408)",
+    "CVE ID": "CVE-2024-30639",
+    "漏洞描述": "Tenda F1202是一款企业级双频无线路由器，支持2.4GHz和5GHz双频段，最高传输速率为1200Mbps。\nTenda F1202存在堆栈缓冲区溢出漏洞，该漏洞源于fromAddressNat方法的page参数未能正确验证输入数据的长度大小，攻击者可利用该漏洞导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/F/F1202/fromAddressNat_page.md",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.tenda.com.cn/download/detail-2671.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/781366",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-04-03",
+    "收录时间": "2025-12-15",
+    "更新时间": "2025-12-15",
+    "漏洞附件": "(无附件)"
+}
