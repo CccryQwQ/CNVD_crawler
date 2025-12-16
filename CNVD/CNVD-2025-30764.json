@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Intel QAT software不可信指针解引用漏洞",
+    "CNVD-ID": "CNVD-2025-30764",
+    "公开日期": "2025-12-16",
+    "危害级别": "中",
+    "影响产品": "Intel Intel QAT software <2.0.5",
+    "CVE ID": "CVE-2023-32277",
+    "漏洞描述": "Intel QAT software是指支持英特尔QuickAssist技术的软件组件集合。\nIntel QAT software存在不可信指针解引用漏洞，攻击者可利用该漏洞通过本地系统访问泄露信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://intel.com/content/www/us/en/security-center/advisory/intel-sa-01124.html",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.intel.com/content/www/us/en/download/765502/intel-quickassist-technology-driver-for-windows-hw-version-2-0.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/781601",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-17",
+    "收录时间": "2025-12-16",
+    "更新时间": "2025-12-16",
+    "漏洞附件": "(无附件)"
+}

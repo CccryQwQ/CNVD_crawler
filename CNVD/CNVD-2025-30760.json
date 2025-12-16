@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Intel QAT Windows software不可信指针取消引用漏洞",
+    "CNVD-ID": "CNVD-2025-30760",
+    "公开日期": "2025-12-16",
+    "危害级别": "中",
+    "影响产品": "Intel Intel QAT Windows software <2.6.0",
+    "CVE ID": "CVE-2025-27710",
+    "漏洞描述": "Intel QAT Windows software是指为Windows操作系统提供支持的英特尔®数据保护与压缩加速技术的软件组件集合。\nIntel QAT Windows software存在不可信指针取消引用漏洞，攻击者可利用该漏洞导致信息泄露。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://intel.com/content/www/us/en/security-center/advisory/intel-sa-01373.html",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.intel.com/content/www/us/en/download/765502/intel-quickassist-technology-intel-qat-driver-for-windows-for-hardware-version-2-0.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/781571",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-11-14",
+    "收录时间": "2025-12-16",
+    "更新时间": "2025-12-16",
+    "漏洞附件": "(无附件)"
+}
