@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Advanced FAQ Manager plugin跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-30733",
+    "公开日期": "2025-12-15",
+    "危害级别": "中",
+    "影响产品": "WordPress Advanced FAQ Manager plugin <=1.5.2",
+    "CVE ID": "CVE-2025-67556",
+    "漏洞描述": "WordPress Advanced FAQ Manager plugin是一个专为WordPress网站设计的插件，旨在帮助用户轻松创建、管理和展示常见问题解答（FAQ）页面。\nWordPress Advanced FAQ Manager plugin存在跨站脚本漏洞，该漏洞源于输入中和不当，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/advanced-faq-manager/vulnerability/wordpress-advanced-faq-manager-plugin-1-5-2-cross-site-scripting-xss-vulnerability-2?_s_id=cve",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/advanced-faq-manager/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/781261",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-12",
+    "收录时间": "2025-12-16",
+    "更新时间": "2025-12-16",
+    "漏洞附件": "(无附件)"
+}
