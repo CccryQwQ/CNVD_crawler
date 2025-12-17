@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache VCL SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-30844",
+    "公开日期": "2025-12-17",
+    "危害级别": "高",
+    "影响产品": "Apache Apache VCL >=2.2，<=2.5.1",
+    "CVE ID": "CVE-2024-53678",
+    "漏洞描述": "Apache VCL是美国阿帕奇（Apache）基金会的一套开源的云计算平台。\nApache VCL 2.2至2.5.1版本存在SQL注入漏洞，该漏洞源于SQL命令中特殊元素的中和不当，攻击者可利用该漏洞导致用户修改表单数据以修改SELECT SQL语句。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "http://www.openwall.com/lists/oss-security/2025/03/24/1",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/2bmjnzgjwwq59nv6xw44w0tnpz4k4pf4",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/781821",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-03-27",
+    "收录时间": "2025-12-17",
+    "更新时间": "2025-12-17",
+    "漏洞附件": "(无附件)"
+}
