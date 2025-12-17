@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache DolphinScheduler默认权限错误漏洞",
+    "CNVD-ID": "CNVD-2025-30842",
+    "公开日期": "2025-12-17",
+    "危害级别": "高",
+    "影响产品": "Apache DolphinScheduler <3.2.2",
+    "CVE ID": "CVE-2024-43166",
+    "漏洞描述": "Apache DolphinScheduler是美国阿帕奇（Apache）基金会的一个现代数据编排平台。\nApache DolphinScheduler 3.2.2之前版本存在默认权限错误漏洞，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://lists.apache.org/thread/8zd69zkkx55qp365xp4tml1xh9og5lhk",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/8zd69zkkx55qp365xp4tml1xh9og5lhk",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/781761",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-05",
+    "收录时间": "2025-12-17",
+    "更新时间": "2025-12-17",
+    "漏洞附件": "(无附件)"
+}
