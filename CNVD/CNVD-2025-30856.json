@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "AzeoTech DAQFactory堆栈缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2025-30856",
+    "公开日期": "2025-12-17",
+    "危害级别": "中",
+    "影响产品": "AzeoTech DAQFactory  release 20.7 (Build 2555)",
+    "CVE ID": "CVE-2025-66584",
+    "漏洞描述": "AzeoTech DAQFactory是一款由美国AzeoTech公司开发的数据采集与监控软件，常用于工业自动化领域。\nAzeoTech DAQFactory存在堆栈缓冲区溢出漏洞，该漏洞源于解析特制.ctl文件时存在堆栈缓冲区溢出，攻击者可利用该漏洞执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.cisa.gov/news-events/ics-advisories/icsa-25-345-03",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://www.azeotech.com/j/index.html",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-15",
+    "收录时间": "2025-12-17",
+    "更新时间": "2025-12-17",
+    "漏洞附件": "(无附件)"
+}
