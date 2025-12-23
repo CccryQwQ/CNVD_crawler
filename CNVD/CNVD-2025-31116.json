@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Addon Elements for Elementor跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2025-31116",
+    "公开日期": "2025-12-19",
+    "危害级别": "中",
+    "影响产品": "WordPress Addon Elements for Elementor <=1.14.3",
+    "CVE ID": "CVE-2025-12537",
+    "漏洞描述": "WordPress Addon Elements for Elementor是一个为Elementor页面构建器设计的插件，旨在通过提供额外的小部件、模板和工具来扩展其功能。\nWordPress Addon Elements for Elementor存在跨站脚本漏洞，该漏洞源于程序对多个小部件参数的输入过滤和输出转义不足。攻击者可利用该漏洞在页面中注入任意网页脚本，并在用户访问被注入的页面时执行这些脚本。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-12537",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/addon-elements-for-elementor-page-builder",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/783811",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-18",
+    "收录时间": "2025-12-23",
+    "更新时间": "2025-12-23",
+    "漏洞附件": "(无附件)"
+}
