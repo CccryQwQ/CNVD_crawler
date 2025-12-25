@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache Tomcat资源管理错误漏洞（CNVD-2025-31393）",
+    "CNVD-ID": "CNVD-2025-31393",
+    "公开日期": "2025-12-24",
+    "危害级别": "中",
+    "影响产品": "Apache Tomcat >=11.0.0-M1，<=11.0.11\nApache Tomcat >=10.1.0-M1，<=10.1.46\nApache Tomcat >=9.0.0.M1，<=9.0.109\nApache Tomcat >=8.5.0，<=8.5.100",
+    "CVE ID": "CVE-2025-61795",
+    "漏洞描述": "Apache Tomcat是美国阿帕奇（Apache）基金会的一款轻量级Web应用服务器。用于实现对Servlet和JavaServer Page（JSP）的支持。\nApache Tomcat存在资源管理错误漏洞，该漏洞源于资源关闭或释放不当，攻击者可利用该漏洞导致拒绝服务攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://lists.apache.org/thread/wm9mx8brmx9g4zpywm06ryrtvd3160pp",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://tomcat.apache.org/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/788161",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-31",
+    "收录时间": "2025-12-25",
+    "更新时间": "2025-12-25",
+    "漏洞附件": "(无附件)"
+}
