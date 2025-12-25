@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress HelloLeads CRM Form Shortcode plugin缺少授权漏洞",
+    "CNVD-ID": "CNVD-2025-31335",
+    "公开日期": "2025-12-24",
+    "危害级别": "中",
+    "影响产品": "WordPress HelloLeads CRM Form Shortcode plugin v1.0",
+    "CVE ID": "CVE-2025-12696",
+    "漏洞描述": "WordPress HelloLeads CRM Form Shortcode plugin是一个集成客户关系管理（CRM）功能的WordPress插件，允许用户通过短代码在网站上嵌入CRM表单和营销工具。\nWordPress HelloLeads CRM Form Shortcode plugin存在缺少授权漏洞，该漏洞源于重置设置时缺少授权和CSRF检查，目前没有详细的漏洞细节提供。。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://wpscan.com/vulnerability/e552dfc8-c6e1-4605-bc36-30dc4066eaea/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-22",
+    "收录时间": "2025-12-25",
+    "更新时间": "2025-12-25",
+    "漏洞附件": "(无附件)"
+}
