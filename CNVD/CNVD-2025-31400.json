@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "ERPNext import_coa函数SQL注入漏洞",
+    "CNVD-ID": "CNVD-2025-31400",
+    "公开日期": "2025-12-26",
+    "危害级别": "中",
+    "影响产品": "ERPNext ERPNext 15.57.5",
+    "CVE ID": "CVE-2025-52043",
+    "漏洞描述": "ERPNext是印度ERPNext公司的一套开源的企业资源计划解决方案。\nERPNext存在SQL注入漏洞，该漏洞源于import_coa函数的company参数缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/Vietsunshine-Electronic-Solution-JSC/Vulnerability-Disclosures/blob/main/2025/Frappe%20Framework%20-%20Multiple%20SQL%20Injection.md",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://github.com/frappe/erpnext/releases",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/789731",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-10-15",
+    "收录时间": "2025-12-26",
+    "更新时间": "2025-12-26",
+    "漏洞附件": "(无附件)"
+}
