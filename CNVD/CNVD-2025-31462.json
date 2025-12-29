@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Google Android权限绕过漏洞",
+    "CNVD-ID": "CNVD-2025-31462",
+    "公开日期": "2025-12-26",
+    "危害级别": "中",
+    "影响产品": "Google Android 14.0\nGoogle Android 15.0\nGoogle Android 16.0\nGoogle Android 13.0",
+    "CVE ID": "CVE-2025-48572",
+    "漏洞描述": "Google Android是由Google公司主导开发的一种基于Linux内核的自由及开放源代码移动操作系统。\nGoogle Android存在权限绕过漏洞，攻击者可利用该漏洞导致从后台启动活动和本地权限提升。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://android.googlesource.com/platform/frameworks/base/+/e707f6600330691f9c67dc023c09f4cd2fc59192",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://source.android.com/security/bulletin/2025-12-01",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/789871",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-10",
+    "收录时间": "2025-12-29",
+    "更新时间": "2025-12-29",
+    "漏洞附件": "(无附件)"
+}
