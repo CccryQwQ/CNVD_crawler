@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "D-Link DIR-2640命令注入远程代码执行漏洞",
+    "CNVD-ID": "CNVD-2025-31560",
+    "公开日期": "2025-12-29",
+    "危害级别": "高",
+    "影响产品": "D-Link DIR-2640",
+    "CVE ID": "CVE-2023-32150",
+    "漏洞描述": "D-Link DIR-2640是中国友讯（D-Link）公司生产的一款高功率Wi-Fi路由器，主要用于提供无线网络连接。\nD-Link DIR-2640存在命令注入远程代码执行漏洞，该漏洞源于PrefixLen命令注入远程代码执行漏洞。攻击者可利用该漏洞执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-32150",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10323",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/792061",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-07-12",
+    "收录时间": "2025-12-30",
+    "更新时间": "2025-12-30",
+    "漏洞附件": "(无附件)"
+}

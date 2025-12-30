@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "IBM Security Verify Information Queue权限提升漏洞",
+    "CNVD-ID": "CNVD-2025-31555",
+    "公开日期": "2025-12-29",
+    "危害级别": "高",
+    "影响产品": "IBM Security Verify Information Queue 10.0.5\nIBM Security Verify Information Queue 10.0.6\nIBM Security Verify Information Queue 10.0.7\nIBM Security Verify Information Queue 10.0.8",
+    "CVE ID": "CVE-2024-47120",
+    "漏洞描述": "IBM Security Verify Information Queue是一个微服务架构的集成平台，它利用Kafka技术和发布/订阅模型，在IBMSecurity产品之间集成数据，作为跨产品数据交换枢纽。\nIBM Security Verify Information Queue存在权限提升漏洞，该漏洞源于容器运行权限过高，攻击者可利用该漏洞导致权限提升。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-47120",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.ibm.com/support/pages/node/7244514",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/792011",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-09-12",
+    "收录时间": "2025-12-30",
+    "更新时间": "2025-12-30",
+    "漏洞附件": "(无附件)"
+}
