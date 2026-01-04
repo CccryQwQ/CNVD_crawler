@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache Kvrocks权限提升漏洞",
+    "CNVD-ID": "CNVD-2026-00023",
+    "公开日期": "2026-01-04",
+    "危害级别": "中",
+    "影响产品": "Apache Kvrocks >=2.9.0，<=2.13.0",
+    "CVE ID": "CVE-2025-59790",
+    "漏洞描述": "Apache Kvrocks是美国阿帕奇（Apache）基金会的一个分布式键值NoSQL数据库。\nApache Kvrocks存在权限提升漏洞，该漏洞是由于RESET命令中的权限管理不当造成的。攻击者可利用该漏洞是由于RESET命令中的权限管理不当造成的。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://lists.apache.org/thread/dlbz5hmm4ts3npzqnvhofxmqg9w9zt0o",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://lists.apache.org/thread/dlbz5hmm4ts3npzqnvhofxmqg9w9zt0o",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/792706",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-03",
+    "收录时间": "2026-01-04",
+    "更新时间": "2026-01-04",
+    "漏洞附件": "(无附件)"
+}

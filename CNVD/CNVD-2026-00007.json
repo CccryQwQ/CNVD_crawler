@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Apache StreamPark安全绕过漏洞",
+    "CNVD-ID": "CNVD-2026-00007",
+    "公开日期": "2026-01-04",
+    "危害级别": "中",
+    "影响产品": "Apache StreamPark <2.1.7",
+    "CVE ID": "CVE-2025-53960",
+    "漏洞描述": "Apache StreamPark是美国阿帕奇（Apache）基金会的一个流媒体应用程序开发框架。\nApache StreamPark存在安全绕过漏洞，该漏洞是由于使用固定、不可变的加密密钥造成的。攻击者可利用该漏洞解密敏感数据或伪造加密信息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://lists.apache.org/thread/xlpvfzf5l5m5mfyjwrz5h4dssm3c32vy",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://streampark.apache.org/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/792696",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-25",
+    "收录时间": "2026-01-04",
+    "更新时间": "2026-01-04",
+    "漏洞附件": "(无附件)"
+}

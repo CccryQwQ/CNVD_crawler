@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Azure Cosmos DB欺骗漏洞",
+    "CNVD-ID": "CNVD-2026-00012",
+    "公开日期": "2026-01-04",
+    "危害级别": "高",
+    "影响产品": "Microsoft Azure Cosmos DB",
+    "CVE ID": "CVE-2025-64675",
+    "漏洞描述": "Microsoft Azure Cosmos DB是美国微软（Microsoft）公司的一个分布式多模型数据库。\nMicrosoft Azure Cosmos DB存在欺骗漏洞，该漏洞源于输入中和不当，攻击者可利用该漏洞导致网络欺骗攻击。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-64675",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-64675",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/792026",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-25",
+    "收录时间": "2026-01-04",
+    "更新时间": "2026-01-04",
+    "漏洞附件": "(无附件)"
+}
