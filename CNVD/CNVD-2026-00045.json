@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft AutoUpdate for Mac权限提升漏洞（CNVD-2026-00045）",
+    "CNVD-ID": "CNVD-2026-00045",
+    "公开日期": "2026-01-04",
+    "危害级别": "中",
+    "影响产品": "Microsoft Microsoft AutoUpdate for Mac",
+    "CVE ID": "CVE-2025-21360",
+    "漏洞描述": "Microsoft AutoUpdate for Mac是美国微软（Microsoft）公司的一款适用于Mac平台的Microsoft产品自动更新应用程序。\nMicrosoft AutoUpdate for Mac存在权限提升漏洞，攻击者利用该漏洞在系统上获得更高的权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21360",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21360",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/792051",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-01-17",
+    "收录时间": "2026-01-04",
+    "更新时间": "2026-01-04",
+    "漏洞附件": "(无附件)"
+}

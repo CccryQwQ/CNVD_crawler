@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Visual Studio代码执行漏洞（CNVD-2026-00042）",
+    "CNVD-ID": "CNVD-2026-00042",
+    "公开日期": "2026-01-04",
+    "危害级别": "高",
+    "影响产品": "Microsoft Visual Studio 2015 Update 3\nMicrosoft Visual Studio 2019 16.11 (includes 16.0 - 16.10)\nMicrosoft Visual Studio 2022 17.6\nMicrosoft Visual Studio 2022 17.8\nMicrosoft Visual Studio 2022 17.10\nMicrosoft Visual Studio 2022 17.12\nMicrosoft Visual Studio 2017 15.9 (includes 15.0 - 15.8)",
+    "CVE ID": "CVE-2025-21178",
+    "漏洞描述": "Microsoft Visual Studio是美国微软（Microsoft）公司的一款开发工具套件系列产品，也是一个基本完整的开发工具集，它包括了整个软件生命周期中所需要的大部分工具。\nMicrosoft Visual Studio存在代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21178\nhttps://nvd.nist.gov/vuln/detail/CVE-2025-21178",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21178",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/792081",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-02-24",
+    "收录时间": "2026-01-04",
+    "更新时间": "2026-01-04",
+    "漏洞附件": "(无附件)"
+}
