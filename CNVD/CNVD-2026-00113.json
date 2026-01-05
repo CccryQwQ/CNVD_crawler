@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "TOTOLINK CP450 SetPortForwardRules方法堆栈缓冲区溢出漏洞",
+    "CNVD-ID": "CNVD-2026-00113",
+    "公开日期": "2026-01-04",
+    "危害级别": "高",
+    "影响产品": "TOTOLINK CP450 4.1.0cu.747_B20191224",
+    "CVE ID": "CVE-2024-34213",
+    "漏洞描述": "TOTOLINK CP450是由中国吉翁电子公司（TOTOLINK）生产的一款户外无线客户终端设备，主要用于农村及偏远地区的无线宽带接入服务。\nTOTOLINK CP450存在堆栈缓冲区溢出漏洞，该漏洞源于SetPortForwardRules方法未能正确验证输入数据的长度大小，攻击者可利用该漏洞在系统上执行任意代码或者导致拒绝服务。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/n0wstr/IOTVuln/tree/main/CP450/SetPortForwardRules",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.totolink.net/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/796691",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-05-22",
+    "收录时间": "2026-01-05",
+    "更新时间": "2026-01-05",
+    "漏洞附件": "(无附件)"
+}

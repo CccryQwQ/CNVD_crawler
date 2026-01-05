@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress User Submitted Posts plugin开放重定向漏洞",
+    "CNVD-ID": "CNVD-2026-00111",
+    "公开日期": "2026-01-04",
+    "危害级别": "中",
+    "影响产品": "WordPress User Submitted Posts plugin <=20251121",
+    "CVE ID": "CVE-2025-68509",
+    "漏洞描述": "WordPress User Submitted Posts plugin是一个WordPress插件，允许网站访问者通过前端表单提交文章内容，包括标题、标签、分类、作者信息、网址、正文及图片上传等功能。\nWordPress User Submitted Posts plugin存在开放重定向漏洞，该漏洞源于URL重定向到不受信任的站点，目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/user-submitted-posts/vulnerability/wordpress-user-submitted-posts-plugin-20251121-open-redirection-vulnerability?_s_id=cve",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/user-submitted-posts/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/796746",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-30",
+    "收录时间": "2026-01-05",
+    "更新时间": "2026-01-05",
+    "漏洞附件": "(无附件)"
+}
