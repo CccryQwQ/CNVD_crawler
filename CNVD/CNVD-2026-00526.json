@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Online Ordering System文件上传漏洞",
+    "CNVD-ID": "CNVD-2026-00526",
+    "公开日期": "2026-01-06",
+    "危害级别": "中",
+    "影响产品": "Online Ordering System Online Ordering System 1.0",
+    "CVE ID": "CVE-2025-8256",
+    "漏洞描述": "Online Ordering System是一个在线订购系统。\nOnline Ordering System存在文件上传漏洞，该漏洞源于/admin/product.php文件中image参数未对上传文件进行有效限制。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.317844\nhttps://vuldb.com/?ctiid.317844\nhttps://vuldb.com/?submit.623446\nhttps://github.com/zzb1388/cve/issues/28\nhttps://code-projects.org/",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-07-30",
+    "收录时间": "2026-01-06",
+    "更新时间": "2026-01-06",
+    "漏洞附件": "(无附件)"
+}
