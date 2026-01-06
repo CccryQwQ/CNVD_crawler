@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress 6Storage Rentals plugin服务端请求伪造漏洞",
+    "CNVD-ID": "CNVD-2026-00543",
+    "公开日期": "2026-01-04",
+    "危害级别": "高",
+    "影响产品": "WordPress 6Storage Rentals plugin <=2.19.9",
+    "CVE ID": "CVE-2025-67623",
+    "漏洞描述": "WordPress 6Storage Rentals plugin是一个专为WordPress网站设计的插件，旨在帮助网站管理员轻松管理存储设施的租用预订流程。\nWordPress 6Storage Rentals plugin存在服务端请求伪造漏洞，该漏洞源于服务器未实现足够的验证机制来确认请求的来源，攻击者可利用该漏洞探测服务器内网资源。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/6storage-rentals/vulnerability/wordpress-6storage-rentals-plugin-2-19-9-server-side-request-forgery-ssrf-vulnerability?_s_id=cve",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-30",
+    "收录时间": "2026-01-06",
+    "更新时间": "2026-01-06",
+    "漏洞附件": "(无附件)"
+}
