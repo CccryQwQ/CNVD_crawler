@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Premium Addons for Elementor Plugin信息泄露漏洞",
+    "CNVD-ID": "CNVD-2026-00455",
+    "公开日期": "2026-01-04",
+    "危害级别": "高",
+    "影响产品": "WordPress Premium Addons for Elementor Plugin <=4.11.53",
+    "CVE ID": "CVE-2025-68494",
+    "漏洞描述": "WordPress Premium Addons for Elementor Plugin是一款专为WordPress网站设计的Elementor页面构建器开发的高级扩展插件。\nWordPress Premium Addons for Elementor Plugin存在信息泄露漏洞，该漏洞源于敏感系统信息暴露，攻击者可利用该漏洞检索嵌入式敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/premium-addons-for-elementor/vulnerability/wordpress-premium-addons-for-elementor-plugin-4-11-53-sensitive-data-exposure-vulnerability?_s_id=cve",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/premium-addons-for-elementor/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/796661",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-30",
+    "收录时间": "2026-01-06",
+    "更新时间": "2026-01-06",
+    "漏洞附件": "(无附件)"
+}
