@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress H5P plugin缺少授权漏洞",
+    "CNVD-ID": "CNVD-2026-00551",
+    "公开日期": "2026-01-04",
+    "危害级别": "高",
+    "影响产品": "WordPress H5P plugin <=1.16.1",
+    "CVE ID": "CVE-2025-68505",
+    "漏洞描述": "WordPress H5P plugin是一个开源插件，允许用户在WordPress网站中创建、管理和嵌入交互式多媒体内容。\nWordPress H5P plugin存在缺少授权漏洞，攻击者可利用该漏洞导致利用配置不当的访问控制安全级别。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/h5p/vulnerability/wordpress-h5p-plugin-1-16-1-broken-access-control-vulnerability?_s_id=cve",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/h5p/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/796276",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-30",
+    "收录时间": "2026-01-06",
+    "更新时间": "2026-01-06",
+    "漏洞附件": "(无附件)"
+}

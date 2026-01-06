@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Icegram Express Pro plugin反序列化漏洞",
+    "CNVD-ID": "CNVD-2026-00552",
+    "公开日期": "2026-01-04",
+    "危害级别": "高",
+    "影响产品": "WordPress Icegram Express Pro plugin <=5.9.11",
+    "CVE ID": "CVE-2025-68038",
+    "漏洞描述": "WordPress Icegram Express Pro plugin是一款专为WordPress网站设计的高级电子邮件营销自动化工具。\nWordPress Icegram Express Pro plugin存在反序列化漏洞，该漏洞源于应用程序在接收用户提交的序列化数据的不安全反序列化处理，攻击者可利用该漏洞导致代码执行。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/email-subscribers-premium/vulnerability/wordpress-icegram-express-pro-plugin-5-9-11-php-object-injection-vulnerability?_s_id=cve",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://wordpress.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-30",
+    "收录时间": "2026-01-06",
+    "更新时间": "2026-01-06",
+    "漏洞附件": "(无附件)"
+}
