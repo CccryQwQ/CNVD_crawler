@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Prison Management System search1.php文件SQL注入漏洞",
+    "CNVD-ID": "CNVD-2026-00827",
+    "公开日期": "2026-01-06",
+    "危害级别": "高",
+    "影响产品": "Prison Management System Prison Management System v2.0",
+    "CVE ID": "CVE-2025-14590",
+    "漏洞描述": "Prison Management System是一个监狱管理系统。\nPrison Management System存在SQL注入漏洞，该漏洞源于文件/admin/search1.php中参数keyname缺少对外部输入SQL语句的验证。攻击者可利用该漏洞执行非法SQL命令窃取数据库敏感数据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-14590",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2025-12-25",
+    "收录时间": "2026-01-08",
+    "更新时间": "2026-01-08",
+    "漏洞附件": "(无附件)"
+}
