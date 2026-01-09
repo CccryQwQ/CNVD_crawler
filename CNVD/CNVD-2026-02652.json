@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Online Class and Exam Scheduling System room_update.php文件SQL注入漏洞",
+    "CNVD-ID": "CNVD-2026-02652",
+    "公开日期": "2026-01-07",
+    "危害级别": "中",
+    "影响产品": "Online Class and Exam Scheduling System Online Class and Exam Scheduling System 1.0",
+    "CVE ID": "CVE-2024-12487",
+    "漏洞描述": "Online Class and Exam Scheduling System是一个在线课程和考试安排系统。\nOnline Class and Exam Scheduling System存在SQL注入漏洞，该漏洞源于/pages/room_update.php文件中的id参数缺乏足够的输入验证。目前没有详细的漏洞细节提供。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vuldb.com/?id.287869",
+    "漏洞解决方案": "目前厂商尚未发布升级程序修复该安全问题，详情见厂商官网：\nhttps://code-projects.org/",
+    "厂商补丁": "",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-12-18",
+    "收录时间": "2026-01-09",
+    "更新时间": "2026-01-09",
+    "漏洞附件": "(无附件)"
+}
