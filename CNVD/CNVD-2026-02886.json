@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Geo Controller plugin跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2026-02886",
+    "公开日期": "2026-01-09",
+    "危害级别": "中",
+    "影响产品": "WordPress Geo Controller plugin <=8.5.2",
+    "CVE ID": "CVE-2023-51513",
+    "漏洞描述": "WordPress Geo Controller plugin是一款免费的地理定位工具，它能自动检测访问者的位置，并根据地理位置提供个性化内容，从而提升用户体验和互动性。\nWordPress Geo Controller plugin存在跨站脚本漏洞，该漏洞源于应用对用户提供的数据缺乏有效过滤与转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/wordpress/plugin/cf-geoplugin/vulnerability/wordpress-geo-controller-plugin-8-5-2-cross-site-scripting-xss-vulnerability?_s_id=cve",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/cf-geoplugin/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/798936",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2026-01-09",
+    "收录时间": "2026-01-12",
+    "更新时间": "2026-01-12",
+    "漏洞附件": "(无附件)"
+}
