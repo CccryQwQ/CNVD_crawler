@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Intel Graphics Drivers代码问题漏洞",
+    "CNVD-ID": "CNVD-2026-02960",
+    "公开日期": "2026-01-12",
+    "危害级别": "中",
+    "影响产品": "Intel Intel Graphics Drivers 15.40\nIntel Intel Graphics Drivers 15.45",
+    "CVE ID": "CVE-2024-38387",
+    "漏洞描述": "Intel Graphics Drivers是由英特尔公司开发的软件，用于使Windows操作系统能够与英特尔的集成显卡或独立显卡（如IntelArc系列）进行通信。\nIntel Graphics Drivers存在代码问题漏洞，该漏洞源于搜索路径不受控制。攻击者可利用该漏洞提升权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2024-38387",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01191.html",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/799341",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2024-11-15",
+    "收录时间": "2026-01-12",
+    "更新时间": "2026-01-12",
+    "漏洞附件": "(无附件)"
+}

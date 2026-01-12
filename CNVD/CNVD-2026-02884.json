@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress FlexTable plugin跨站脚本漏洞",
+    "CNVD-ID": "CNVD-2026-02884",
+    "公开日期": "2026-01-09",
+    "危害级别": "中",
+    "影响产品": "WordPress FlexTable plugin <3.19.2",
+    "CVE ID": "CVE-2025-9543",
+    "漏洞描述": "WordPress FlexTable plugin是一款用于WordPress网站的工具，主要功能是将网站上的表格与外部GoogleSheets文档实时同步。\nWordPress FlexTable plugin存在跨站脚本漏洞，该漏洞源于不会对从Google表格单元格导入的链接进行消毒和转义，攻击者可利用该漏洞通过注入精心设计的有效载荷执行任意Web脚本或HTML。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://wpscan.com/vulnerability/6cc212f4-aa61-409a-b257-9c920956a401/",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/sheets-to-wp-table-live-sync",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/798731",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2026-01-09",
+    "收录时间": "2026-01-12",
+    "更新时间": "2026-01-12",
+    "漏洞附件": "(无附件)"
+}
