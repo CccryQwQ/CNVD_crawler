@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "WordPress Better Business Reviews plugin缺少授权漏洞",
+    "CNVD-ID": "CNVD-2026-02880",
+    "公开日期": "2026-01-09",
+    "危害级别": "中",
+    "影响产品": "WordPress Better Business Reviews plugin <=0.1.1",
+    "CVE ID": "CVE-2025-69354",
+    "漏洞描述": "WordPress Better Business Reviews plugin是一款用于在WordPress网站上显示来自Trustpilot业务资料的评论的工具。\nWordPress Better Business Reviews plugin存在缺少授权漏洞，攻击者可利用该漏洞导致利用配置不当的访问控制安全级别。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://vdp.patchstack.com/database/Wordpress/Plugin/better-business-reviews/vulnerability/wordpress-better-business-reviews-plugin-0-1-1-broken-access-control-vulnerability?_s_id=cve",
+    "漏洞解决方案": "目前厂商已发布升级程序修复该安全问题，详情见厂商官网:\nhttps://wordpress.org/plugins/better-business-reviews/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/798521",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2026-01-09",
+    "收录时间": "2026-01-12",
+    "更新时间": "2026-01-12",
+    "漏洞附件": "(无附件)"
+}
