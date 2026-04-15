@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "NanoMQ缓冲区溢出漏洞（CNVD-2026-16831）",
+    "CNVD-ID": "CNVD-2026-16831",
+    "公开日期": "2026-04-10",
+    "危害级别": "高",
+    "影响产品": "NanoMQ NanoMQ <0.24.8",
+    "CVE ID": "CVE-2026-25627",
+    "漏洞描述": "NanoMQ是一款用于物联网边缘平台的轻量级快速MQTT Broker。\nNanoMQ 0.24.8之前版本存在缓冲区溢出漏洞。该漏洞源于MQTT-over-WebSocket传输在处理具有故意大Remaining Length值的MQTT数据包时，未能正确验证接收缓冲区大小，攻击者可利用该漏洞导致越界读取和崩溃。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/nanomq/NanoNNG/pull/1405",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/nanomq/nanomq/releases",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/843741",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2026-04-10",
+    "收录时间": "2026-04-10",
+    "更新时间": "2026-04-10",
+    "漏洞附件": "(无附件)"
+}

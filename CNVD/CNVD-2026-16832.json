@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Xenforo授权问题漏洞（CNVD-2026-16832）",
+    "CNVD-ID": "CNVD-2026-16832",
+    "公开日期": "2026-04-10",
+    "危害级别": "高",
+    "影响产品": "XenForo XenForo <2.3.7",
+    "CVE ID": "CVE-2025-71279",
+    "漏洞描述": "Xenforo是Xenforo公司的一个论坛软件。\nXenForo存在授权问题漏洞，该漏洞源于影响已添加到用户账户的Passkeys，攻击者可利用该漏洞通过绕过身份验证过程并在特定情况下接管其他Web应用程序用户的帐户。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2025-71279",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://xenforo.com/community/threads/xenforo-2-3-7-released-includes-security-fixes.232121/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/843751",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2026-04-09",
+    "收录时间": "2026-04-10",
+    "更新时间": "2026-04-10",
+    "漏洞附件": "(无附件)"
+}

@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Triangle MicroWorks SCADA Data Gateway WebMonitor广播任意事件漏洞",
+    "CNVD-ID": "CNVD-2026-17205",
+    "公开日期": "2026-04-14",
+    "危害级别": "中",
+    "影响产品": "Triangle MicroWorks SCADA Data Gateway <=5.01.03",
+    "CVE ID": "CVE-2023-2187",
+    "漏洞描述": "Triangle MicroWorks SCADA Data Gateway是美国Triangle MicroWorks公司的一款SCADA数据网关产品。\nTriangle MicroWorks SCADA Data Gateway WebMonitor存在任意用户广播事件漏洞，远程攻击者可以利用漏洞提交特殊的请求，可发送恶意事件消息。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://www.trellix.com/en-us/about/newsroom/stories/research/industrial-and-manufacturing-cves.html",
+    "漏洞解决方案": "厂商已提供安全补丁以修复该漏洞：\nhttps://trianglemicroworks.com/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/845471",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2023-06-12",
+    "收录时间": "2026-04-14",
+    "更新时间": "2026-04-14",
+    "漏洞附件": "(无附件)"
+}

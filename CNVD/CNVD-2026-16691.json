@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "OpenClaw存在未明漏洞（CNVD-2026-16691）",
+    "CNVD-ID": "CNVD-2026-16691",
+    "公开日期": "2026-04-10",
+    "危害级别": "高",
+    "影响产品": "OpenClaw OpenClaw <2026.3.12",
+    "CVE ID": "CVE-2026-33575",
+    "漏洞描述": "OpenClaw是OpenClaw开源的一个智能人工助理。\nOpenClaw存在安全漏洞，该漏洞源于在配对设置代码中直接嵌入长期共享网关凭据，攻击者可利用该漏洞通过泄露的代码恢复和重用凭据。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/openclaw/openclaw/security/advisories/GHSA-7h7g-x2px-94hj\nhttps://www.vulncheck.com/advisories/openclaw-long-lived-credential-exposure-in-pairing-setup-codes",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://github.com/openclaw/openclaw/security/advisories/GHSA-7h7g-x2px-94hj",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/843301",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2026-04-08",
+    "收录时间": "2026-04-10",
+    "更新时间": "2026-04-10",
+    "漏洞附件": "(无附件)"
+}

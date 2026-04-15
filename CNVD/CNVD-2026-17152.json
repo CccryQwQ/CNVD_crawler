@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Windows Ancillary Function Driver for WinSock权限提升漏洞（CNVD-2026-17152）",
+    "CNVD-ID": "CNVD-2026-17152",
+    "公开日期": "2026-04-14",
+    "危害级别": "中",
+    "影响产品": "Microsoft Windows Server 2019 \nMicrosoft Window 10 22H2\nMicrosoft Window 10 21H2\nMicrosoft Window 10 1809",
+    "CVE ID": "CVE-2026-20810",
+    "漏洞描述": "Microsoft Windows Ancillary Function Driver for WinSock是美国微软（Microsoft）公司的Winsock的辅助功能驱动程序。\nMicrosoft Windows Ancillary Function Driver for WinSock存在权限提升漏洞，该漏洞是由于释放了WinSock辅助功能驱动程序中不在堆上的内存造成的。攻击者可利用该漏洞提升权限。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20810",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20810",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/845246",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2026-01-19",
+    "收录时间": "2026-04-14",
+    "更新时间": "2026-04-14",
+    "漏洞附件": "(无附件)"
+}

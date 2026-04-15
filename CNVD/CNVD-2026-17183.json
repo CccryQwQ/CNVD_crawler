@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "OpenClaw存在未明漏洞（CNVD-2026-17183）",
+    "CNVD-ID": "CNVD-2026-17183",
+    "公开日期": "2026-04-15",
+    "危害级别": "高",
+    "影响产品": "OpenClaw OpenClaw <2026.3.11",
+    "CVE ID": "CVE-2026-32916",
+    "漏洞描述": "OpenClaw是OpenClaw开源的一个智能人工助理。\nOpenClaw存在安全漏洞，该漏洞源于插件子代理路由通过具有广泛管理范围的合成操作员客户端执行网关方法，攻击者可利用该漏洞导致授权绕过和特权操作。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/openclaw/openclaw/security/advisories/GHSA-xw77-45gv-p728",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/openclaw/openclaw/releases",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/845411",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2026-04-10",
+    "收录时间": "2026-04-14",
+    "更新时间": "2026-04-14",
+    "漏洞附件": "(无附件)"
+}

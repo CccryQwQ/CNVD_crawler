@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "OpenClaw存在未明漏洞（CNVD-2026-16694）",
+    "CNVD-ID": "CNVD-2026-16694",
+    "公开日期": "2026-04-10",
+    "危害级别": "高",
+    "影响产品": "OpenClaw OpenClaw <2026.3.11",
+    "CVE ID": "CVE-2026-32972",
+    "漏洞描述": "OpenClaw是OpenClaw开源的一个智能人工助理。\nOpenClaw存在安全漏洞，攻击者可利用该漏洞导致仅具有operator.write权限的已验证操作员通过browser.request访问管理员专用的浏览器配置文件管理路由，从而创建或修改浏览器配置文件。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/openclaw/openclaw/security/advisories/GHSA-vmhq-cqm9-6p7q\nhttps://www.vulncheck.com/advisories/openclaw-authorization-bypass-in-browser-profile-management-via-browser-request",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://github.com/openclaw/openclaw/security/advisories/GHSA-vmhq-cqm9-6p7q",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/843306",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2026-04-08",
+    "收录时间": "2026-04-10",
+    "更新时间": "2026-04-10",
+    "漏洞附件": "(无附件)"
+}

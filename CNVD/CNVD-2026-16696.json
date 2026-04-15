@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "OpenClaw存在未明漏洞（CNVD-2026-16696）",
+    "CNVD-ID": "CNVD-2026-16696",
+    "公开日期": "2026-04-10",
+    "危害级别": "中",
+    "影响产品": "OpenClaw OpenClaw <2026.3.11",
+    "CVE ID": "CVE-2026-32923",
+    "漏洞描述": "OpenClaw是OpenClaw开源的一个智能人工助理。\nOpenClaw存在安全漏洞，攻击者可利用该漏洞导致非白名单公会成员触发反应事件并向下游会话环境注入反应文本。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/openclaw/openclaw/security/advisories/GHSA-9vvh-2768-c8vp\nhttps://www.vulncheck.com/advisories/openclaw-authorization-bypass-in-discord-guild-reaction-allowlist-enforcement",
+    "漏洞解决方案": "目前厂商已经发布了升级补丁以修复这个安全问题，请到厂商的主页下载：\nhttps://github.com/openclaw/openclaw/security/advisories/GHSA-9vvh-2768-c8vp",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/843316",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2026-04-08",
+    "收录时间": "2026-04-10",
+    "更新时间": "2026-04-10",
+    "漏洞附件": "(无附件)"
+}

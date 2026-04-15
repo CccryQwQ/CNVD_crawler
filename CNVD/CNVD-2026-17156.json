@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Microsoft Windows NTFS代码执行漏洞（CNVD-2026-17156）",
+    "CNVD-ID": "CNVD-2026-17156",
+    "公开日期": "2026-04-14",
+    "危害级别": "中",
+    "影响产品": "Microsoft Windows Server 2008  \nMicrosoft Windows Server 2012 R2\nMicrosoft Windows Server 2016 \nMicrosoft Windows Server 2019 \nMicrosoft Microsoft Server 2008 R2\nMicrosoft Windows Server 2012 \nMicrosoft Windows Server 2022 \nMicrosoft Window 10 22H2\nMicrosoft Window 10 21H2\nMicrosoft Window 10 1809\nMicrosoft Window 10 1607\nMicrosoft Window 11 23H2\nMicrosoft Window 11 24H2\nMicrosoft Windows Server 2025 \nMicrosoft Window 11 25H2",
+    "CVE ID": "CVE-2026-20840",
+    "漏洞描述": "Microsoft Windows NTFS是美国微软（Microsoft）公司的一个为计算机文件服务的文件系统。该文件系统具有错误预警功能、磁盘自我修复功能和日志功能。\nMicrosoft Windows NTFS存在代码执行漏洞，攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20840",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20840",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/845226",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2026-01-19",
+    "收录时间": "2026-04-14",
+    "更新时间": "2026-04-14",
+    "漏洞附件": "(无附件)"
+}

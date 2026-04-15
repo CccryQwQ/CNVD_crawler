@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "OpenClaw授权绕过漏洞（CNVD-2026-16685）",
+    "CNVD-ID": "CNVD-2026-16685",
+    "公开日期": "2026-04-10",
+    "危害级别": "中",
+    "影响产品": "OpenClaw OpenClaw <2026.3.11",
+    "CVE ID": "CVE-2026-32919",
+    "漏洞描述": "OpenClaw是OpenClaw开源的一个智能人工助理。\nOpenClaw存在授权绕过漏洞，攻击者可利用该漏洞访问管理员专用的会话重置逻辑，从而重置目标会话状态。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/openclaw/openclaw/security/advisories/GHSA-jf6w-m8jw-jfxc",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/openclaw/openclaw/releases",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/843281",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2026-04-09",
+    "收录时间": "2026-04-10",
+    "更新时间": "2026-04-10",
+    "漏洞附件": "(无附件)"
+}

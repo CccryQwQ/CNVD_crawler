@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "AnythingLLM代码注入漏洞",
+    "CNVD-ID": "CNVD-2026-17189",
+    "公开日期": "2026-04-15",
+    "危害级别": "中",
+    "影响产品": "AnythingLLM AnythingLLM <=1.11.1",
+    "CVE ID": "CVE-2026-32719",
+    "漏洞描述": "AnythingLLM是Mintplex开源的一个一体化AI应用程序。 \nAnythingLLM存在代码注入漏洞，该漏洞源于ImportedPlugin.importCommunityItemFromUrl函数下载ZIP文件并提取时未验证存档内的文件路径，攻击者可利用该漏洞在系统上执行任意代码。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://nvd.nist.gov/vuln/detail/CVE-2026-32719",
+    "漏洞解决方案": "目前厂商已发布升级补丁以修复漏洞，补丁获取链接：\nhttps://github.com/Mintplex-Labs/anything-llm/releases",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/845441",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2026-03-18",
+    "收录时间": "2026-04-14",
+    "更新时间": "2026-04-14",
+    "漏洞附件": "(无附件)"
+}

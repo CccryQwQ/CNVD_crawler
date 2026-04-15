@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "Linux kernel缓冲区溢出漏洞（CNVD-2026-17161）",
+    "CNVD-ID": "CNVD-2026-17161",
+    "公开日期": "2026-04-10",
+    "危害级别": "中",
+    "影响产品": "Linux Linux kernel",
+    "CVE ID": "CVE-2026-23407",
+    "漏洞描述": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。\nLinux kernel存在缓冲区溢出漏洞。该漏洞源于verify_dfa函数缺少对DEFAULT表的边界检查，攻击者可利用该漏洞导致越界读取和写入。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://git.kernel.org/stable/c/5a68e46dfe0c8c8ffc6f425ebc4cae6238566ecc",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://www.kernel.org/",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/843746",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2026-04-10",
+    "收录时间": "2026-04-14",
+    "更新时间": "2026-04-14",
+    "漏洞附件": "(无附件)"
+}

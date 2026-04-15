@@ -1,0 +1,18 @@
+{
+    "漏洞标题": "OpenClaw输入验证错误漏洞（CNVD-2026-16690）",
+    "CNVD-ID": "CNVD-2026-16690",
+    "公开日期": "2026-04-10",
+    "危害级别": "高",
+    "影响产品": "OpenClaw OpenClaw <2026.3.31",
+    "CVE ID": "CVE-2026-40037",
+    "漏洞描述": "OpenClaw是OpenClaw开源的一个智能人工助理。\nOpenClaw存在输入验证错误漏洞，攻击者可利用该漏洞导致不安全的请求体在跨域重定向中被重新发送，从而泄露敏感请求数据或标头。",
+    "漏洞类型": "通用型漏洞",
+    "参考链接": "https://github.com/openclaw/openclaw/security/advisories/GHSA-qx8j-g322-qj6m",
+    "漏洞解决方案": "厂商已发布了漏洞修复程序，请及时关注更新：\nhttps://github.com/openclaw/openclaw/commit/d7c3210cd6f5fdfdc1beff4c9541673e814354d5",
+    "厂商补丁": "https://www.cnvd.org.cn/patchInfo/show/843296",
+    "验证信息": "(暂无验证信息)",
+    "报送时间": "2026-04-09",
+    "收录时间": "2026-04-10",
+    "更新时间": "2026-04-10",
+    "漏洞附件": "(无附件)"
+}
